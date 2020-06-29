@@ -1,0 +1,5 @@
+<map id="e57::PointGroupingSchemes" name="e57::PointGroupingSchemes">
+<area shape="rect" id="node1" title="Supports the division of points within an Data3D into logical groupings." alt="" coords="5,199,193,225"/>
+<area shape="rect" id="node2" href="$structe57_1_1_grouping_by_line.html" title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord." alt="" coords="28,109,171,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,5,130,32"/>
+</map>

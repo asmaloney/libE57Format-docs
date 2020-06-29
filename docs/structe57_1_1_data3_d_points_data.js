@@ -1,0 +1,26 @@
+var structe57_1_1_data3_d_points_data =
+[
+    [ "cartesianInvalidState", "structe57_1_1_data3_d_points_data.html#aebd22adf33eda79242f77df951e8a6e5", null ],
+    [ "cartesianX", "structe57_1_1_data3_d_points_data.html#a0f81c5bbe4b7755ebfb0f811b11601d8", null ],
+    [ "cartesianY", "structe57_1_1_data3_d_points_data.html#ac9df4f033229793c1c14f94e96da8968", null ],
+    [ "cartesianZ", "structe57_1_1_data3_d_points_data.html#ad55bf64a2902242683da3fde6f9189a6", null ],
+    [ "colorBlue", "structe57_1_1_data3_d_points_data.html#a1179de27d9cea4bd6eafbdbf8bd8ea9d", null ],
+    [ "colorGreen", "structe57_1_1_data3_d_points_data.html#ad083b18417573e8615425b2e497bd6f9", null ],
+    [ "colorRed", "structe57_1_1_data3_d_points_data.html#a772ff678183b43dad74e18a6147e3941", null ],
+    [ "columnIndex", "structe57_1_1_data3_d_points_data.html#a4c040d8a10e92bf04d8582f2cde0205a", null ],
+    [ "intensity", "structe57_1_1_data3_d_points_data.html#a2547ed5c2ab0cfa5afb353cad7fb1ff9", null ],
+    [ "isColorInvalid", "structe57_1_1_data3_d_points_data.html#a090a54215e1a9ed4b208a775ecfb43b5", null ],
+    [ "isIntensityInvalid", "structe57_1_1_data3_d_points_data.html#a669ac7a45b889bb5b98fede90c092dea", null ],
+    [ "isTimeStampInvalid", "structe57_1_1_data3_d_points_data.html#a41087c862a6f2dc4bdc6008ee960bd30", null ],
+    [ "normalX", "structe57_1_1_data3_d_points_data.html#ad1b034c4ba481edbab635c1647d4b834", null ],
+    [ "normalY", "structe57_1_1_data3_d_points_data.html#a7263254fbeab9002ae7e7bf9805f9df7", null ],
+    [ "normalZ", "structe57_1_1_data3_d_points_data.html#a6d7843c1df73e881541e8f40480cd891", null ],
+    [ "returnCount", "structe57_1_1_data3_d_points_data.html#a01c04e6f0bedce479cc3d61907552530", null ],
+    [ "returnIndex", "structe57_1_1_data3_d_points_data.html#afb47a051f813c3c28b930d2b6beb2f8a", null ],
+    [ "rowIndex", "structe57_1_1_data3_d_points_data.html#a7181f07b74f4423953845030e1c980d5", null ],
+    [ "sphericalAzimuth", "structe57_1_1_data3_d_points_data.html#af8e653dbb00709e1e77baca8046cf3bb", null ],
+    [ "sphericalElevation", "structe57_1_1_data3_d_points_data.html#afcb9ef22a1e5c33ebf3a911588985aec", null ],
+    [ "sphericalInvalidState", "structe57_1_1_data3_d_points_data.html#ab90c8b522b918e7b3b4351b8030ac8be", null ],
+    [ "sphericalRange", "structe57_1_1_data3_d_points_data.html#ae3c3d059b0aec922bd43cc17c09d0886", null ],
+    [ "timeStamp", "structe57_1_1_data3_d_points_data.html#a80bfa9c94f38571532a3c6282e3c81e2", null ]
+];
