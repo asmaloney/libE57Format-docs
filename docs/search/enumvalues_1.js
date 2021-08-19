@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['compressed_5fvector_5fsection_1570',['COMPRESSED_VECTOR_SECTION',['../_e57_format_impl_8cpp.html#a06fc87d81c62e9abb8790b6e5713c55baddb46175cc00f20c0177e3e3fe584608',1,'E57FormatImpl.cpp']]]
+  ['compressed_5fvector_5fsection_1611',['COMPRESSED_VECTOR_SECTION',['../namespacee57.html#aaca8edcbd374f5921a38f448b2d4a75aa243c8902120908b2cafb5040772485fe',1,'e57']]]
 ];

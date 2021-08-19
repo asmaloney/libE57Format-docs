@@ -1,7 +1,7 @@
 <map id="IndexPacket" name="IndexPacket">
-<area shape="rect" id="node1" title=" " alt="" coords="184,257,279,284"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,117,73,143"/>
-<area shape="rect" id="node3" title=" " alt="" coords="201,117,262,143"/>
-<area shape="rect" id="node4" href="$struct_index_packet_1_1_index_packet_entry.html" title=" " alt="" coords="286,109,462,151"/>
-<area shape="rect" id="node5" title=" " alt="" coords="340,5,408,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="188,257,284,284"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,117,75,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="205,117,267,143"/>
+<area shape="rect" id="node4" href="$struct_index_packet_1_1_index_packet_entry.html" title=" " alt="" coords="292,109,468,151"/>
+<area shape="rect" id="node5" title=" " alt="" coords="345,5,415,32"/>
 </map>

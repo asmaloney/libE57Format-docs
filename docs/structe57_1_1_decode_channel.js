@@ -1,9 +1,9 @@
 var structe57_1_1_decode_channel =
 [
-    [ "DecodeChannel", "structe57_1_1_decode_channel.html#ad43f50cba91e75d7594eca5e24151c6c", null ],
-    [ "dump", "structe57_1_1_decode_channel.html#a21ee2f0ad45b2e7a48ab038cd7411f5d", null ],
-    [ "isInputBlocked", "structe57_1_1_decode_channel.html#ab1b58c60785e806cf4efc9f06fcef362", null ],
-    [ "isOutputBlocked", "structe57_1_1_decode_channel.html#af82277c2ac05f86d10fb50f4da272490", null ],
+    [ "DecodeChannel", "structe57_1_1_decode_channel.html#afc86b90485999b67f571dc0bd610c6be", null ],
+    [ "dump", "structe57_1_1_decode_channel.html#a1cef175ddc35451d88b85ed796b3a04c", null ],
+    [ "isInputBlocked", "structe57_1_1_decode_channel.html#ab2060acad5297b451145b86fcce2ba8c", null ],
+    [ "isOutputBlocked", "structe57_1_1_decode_channel.html#a9de2a73b3d661520af7692a012f626b8", null ],
     [ "bytestreamNumber", "structe57_1_1_decode_channel.html#adcc4d70f9e5c4c5da0bb88e92aa955c9", null ],
     [ "currentBytestreamBufferIndex", "structe57_1_1_decode_channel.html#a90e1623624f455e4c0c5cf467574f72f", null ],
     [ "currentBytestreamBufferLength", "structe57_1_1_decode_channel.html#a9a46eb538fcc7ccd5d6feb35da763110", null ],

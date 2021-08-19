@@ -4,7 +4,7 @@ var classe57_1_1_constant_integer_encoder =
     [ "bitsPerRecord", "classe57_1_1_constant_integer_encoder.html#a9b15df87a943a3e2926c702185c7bc0d", null ],
     [ "currentRecordIndex", "classe57_1_1_constant_integer_encoder.html#a9b0dbf2737714909a84fed0e39d4561e", null ],
     [ "dump", "classe57_1_1_constant_integer_encoder.html#a7cd6343ca6a4aca5fbe4c1e7cac0fb19", null ],
-    [ "outputAvailable", "classe57_1_1_constant_integer_encoder.html#a522b54ae32255d82dbc4359a1c9d411d", null ],
+    [ "outputAvailable", "classe57_1_1_constant_integer_encoder.html#a78bb1f5ea055e88bf7ca370e8a86d0d7", null ],
     [ "outputClear", "classe57_1_1_constant_integer_encoder.html#ad36d9fe81181a54fc6ff3710e97829b4", null ],
     [ "outputGetMaxSize", "classe57_1_1_constant_integer_encoder.html#a269f492ce575a0010581f4e93d3ddd4a", null ],
     [ "outputRead", "classe57_1_1_constant_integer_encoder.html#a1b2ea8b205f0c1b1e5942ffd4bf9566d", null ],

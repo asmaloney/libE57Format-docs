@@ -13,7 +13,6 @@ var _e57_format_8h =
     [ "StringNode", "classe57_1_1_string_node.html", "classe57_1_1_string_node" ],
     [ "BlobNode", "classe57_1_1_blob_node.html", "classe57_1_1_blob_node" ],
     [ "ImageFile", "classe57_1_1_image_file.html", "classe57_1_1_image_file" ],
-    [ "E57_V1_0_URI", "_e57_format_8h.html#a3067d1e27f33a5b0574d285e1ab8763a", null ],
     [ "ReadChecksumPolicy", "_e57_format_8h.html#a378ea3f2fe1cb6817b037d1fff975b5b", null ],
     [ "ustring", "_e57_format_8h.html#aa52d9c7d60546840767b2484ed33f0de", null ],
     [ "FloatPrecision", "_e57_format_8h.html#a618d22a07440f27db5050260682c5b18", [
@@ -43,10 +42,9 @@ var _e57_format_8h =
       [ "E57_STRING", "_e57_format_8h.html#ac3fbb0958b358e3321b803df1a5aef35afa1b767e0587a3e9ef2215d249a40207", null ],
       [ "E57_BLOB", "_e57_format_8h.html#ac3fbb0958b358e3321b803df1a5aef35a3bb1ba198b2383c63b93174e4c045681", null ]
     ] ],
-    [ "CHECKSUM_POLICY_ALL", "_e57_format_8h.html#a6e030bcb4cdaca5b33b64c8535d6c78f", null ],
-    [ "CHECKSUM_POLICY_HALF", "_e57_format_8h.html#af4bcd116c3f5da88a49c3cc1983f9648", null ],
-    [ "CHECKSUM_POLICY_NONE", "_e57_format_8h.html#a461342424501631e49161d660b7cfa6d", null ],
-    [ "CHECKSUM_POLICY_SPARSE", "_e57_format_8h.html#a8ac56b8f8f9c0c8a1a8244366712038a", null ],
-    [ "E57_FOUNDATION_API_MAJOR", "_e57_format_8h.html#a8b4761e23198e2185adf77de7317fb06", null ],
-    [ "E57_FOUNDATION_API_MINOR", "_e57_format_8h.html#af3e88150e450b0ab5b7feb63952da6a3", null ]
+    [ "CHECKSUM_POLICY_ALL", "_e57_format_8h.html#a261186fd7531b7cc50f9aa5f41462dcc", null ],
+    [ "CHECKSUM_POLICY_HALF", "_e57_format_8h.html#a74444ad7e30308fac124b14ad39a840b", null ],
+    [ "CHECKSUM_POLICY_NONE", "_e57_format_8h.html#ade81b051f7d3ea443735b476ba6ab802", null ],
+    [ "CHECKSUM_POLICY_SPARSE", "_e57_format_8h.html#ab763ad9d4e9dec23561092c411eac468", null ],
+    [ "E57_V1_0_URI", "_e57_format_8h.html#a0aa74ddcae83c86ef7fd9397771a6736", null ]
 ];

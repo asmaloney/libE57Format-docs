@@ -26,22 +26,22 @@ var NAVTREE =
 [
   [ "libE57Format", "index.html", [
     [ "libE57Format Documentation", "index.html", [
-      [ "Introduction", "index.html#autotoc_md2", [
-        [ "This Documentation", "index.html#autotoc_md3", null ]
+      [ "Introduction", "index.html#autotoc_md1", [
+        [ "This Documentation", "index.html#autotoc_md2", null ]
       ] ],
       [ "Fork", "index.html#fork", [
-        [ "Why Fork?", "index.html#autotoc_md4", null ]
+        [ "Why Fork?", "index.html#autotoc_md3", null ]
       ] ],
-      [ "ASTM standard", "index.html#autotoc_md5", null ],
-      [ "Do I need to get the ASTM standard?", "index.html#autotoc_md6", null ],
-      [ "Is the E57 format XML?", "index.html#autotoc_md7", null ],
-      [ "The API objects", "index.html#autotoc_md8", null ],
-      [ "Set-once design", "index.html#autotoc_md9", null ],
-      [ "Handle semantics", "index.html#autotoc_md10", null ],
-      [ "No default constructors", "index.html#autotoc_md11", null ],
-      [ "How do I get a copy of the source?", "index.html#autotoc_md12", null ],
-      [ "How can I get help?", "index.html#autotoc_md13", null ],
-      [ "How can I help?", "index.html#autotoc_md14", null ]
+      [ "ASTM standard", "index.html#autotoc_md4", null ],
+      [ "Do I need to get the ASTM standard?", "index.html#autotoc_md5", null ],
+      [ "Is the E57 format XML?", "index.html#autotoc_md6", null ],
+      [ "The API objects", "index.html#autotoc_md7", null ],
+      [ "Set-once design", "index.html#autotoc_md8", null ],
+      [ "Handle semantics", "index.html#autotoc_md9", null ],
+      [ "No default constructors", "index.html#autotoc_md10", null ],
+      [ "How do I get a copy of the source?", "index.html#autotoc_md11", null ],
+      [ "How can I get help?", "index.html#autotoc_md12", null ],
+      [ "How can I help?", "index.html#autotoc_md13", null ]
     ] ],
     [ "Copyright", "md_supplemental_copyright.html", null ],
     [ "Namespaces", "namespaces.html", [
@@ -74,7 +74,6 @@ var NAVTREE =
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
-        [ "Enumerator", "globals_eval.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -83,13 +82,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_checked_file_8cpp.html",
-"classe57_1_1_bitpack_decoder.html#ac7fbaf4ac42745fb59de7ba959d5344d",
-"classe57_1_1_compressed_vector_reader_impl.html#ae8efc4875455ba37ece373915ab74b18",
-"classe57_1_1_image_file_impl.html#aada59c9195a106e3613322b40f5f5087",
-"classe57_1_1_source_dest_buffer_impl.html#a9f90bbb2322ae10d08d64e058686ae98",
-"namespaces.html",
-"structe57_1_1_point_standardized_fields_available.html#a80e0490ec4f90fc7be0a953be4c0c19a"
+"_blob_node_impl_8cpp.html",
+"class_e57_file_input_stream.html#a05521f2c67cd529208430591e3a20adf",
+"classe57_1_1_compressed_vector_reader.html#a0024da2ffbc788170c72e7ab9a5efee1",
+"classe57_1_1_image_file_impl.html#a1d632bf4ec7c8cfe3b1689f77cef5d0a",
+"classe57_1_1_source_dest_buffer.html#a6e90ebb1af381a14ef76ebaf6dec8743",
+"functions_y.html",
+"structe57_1_1_pinhole_representation.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

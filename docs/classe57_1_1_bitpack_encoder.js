@@ -5,7 +5,7 @@ var classe57_1_1_bitpack_encoder =
     [ "currentRecordIndex", "classe57_1_1_bitpack_encoder.html#af684afb4992ebaa28faf3cca1de0f80d", null ],
     [ "dump", "classe57_1_1_bitpack_encoder.html#a4ecfc390e84b22d4a8011870769b6557", null ],
     [ "outBufferShiftDown", "classe57_1_1_bitpack_encoder.html#ac4a9f89523d7365705b555ddb722c4bc", null ],
-    [ "outputAvailable", "classe57_1_1_bitpack_encoder.html#ad6eadd11b4958204b77a591c71665982", null ],
+    [ "outputAvailable", "classe57_1_1_bitpack_encoder.html#a4841cb031fe9f6891186f66ecc623cf8", null ],
     [ "outputClear", "classe57_1_1_bitpack_encoder.html#aa396905b4356456056a19fbf5f563ba3", null ],
     [ "outputGetMaxSize", "classe57_1_1_bitpack_encoder.html#a7373876af109d4c1db9aefe8a142e5d7", null ],
     [ "outputRead", "classe57_1_1_bitpack_encoder.html#abd819d0519f736d430f5fb1afa6d5a37", null ],

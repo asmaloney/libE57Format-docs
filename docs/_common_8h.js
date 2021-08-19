@@ -4,7 +4,6 @@ var _common_8h =
     [ "E57_EXCEPTION1", "_common_8h.html#a923d687f9b0a31fae3c0d70246751473", null ],
     [ "E57_EXCEPTION2", "_common_8h.html#a538dd43df33481a93594640f7c26bd4d", null ],
     [ "E57_INTERNAL_IMPLEMENTATION_ENABLE", "_common_8h.html#ae5c64c292c705a978f9030d171148b94", null ],
-    [ "LAS_V1_0_URI", "_common_8h.html#a156b66390f5fe62cd2908311c6a18701", null ],
     [ "ImageFileImplSharedPtr", "_common_8h.html#a50b5ff1227505d2cd8c991c35687bec5", null ],
     [ "ImageFileImplWeakPtr", "_common_8h.html#a3f1e7f11fc75ddb330124928237e93fe", null ],
     [ "NodeImplSharedPtr", "_common_8h.html#a3d9f3ef04a34eebe073ceb91a1b47251", null ],

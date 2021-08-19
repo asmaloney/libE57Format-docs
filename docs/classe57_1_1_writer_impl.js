@@ -10,7 +10,7 @@ var classe57_1_1_writer_impl =
     [ "IsOpen", "classe57_1_1_writer_impl.html#a6367c6e89b0587903c913f1de1e01aff", null ],
     [ "NewData3D", "classe57_1_1_writer_impl.html#a2fe90c765134139e04490116600edd13", null ],
     [ "NewImage2D", "classe57_1_1_writer_impl.html#a64905a344bb3817c4345f9fbf2b66ec9", null ],
-    [ "SetUpData3DPointsData", "classe57_1_1_writer_impl.html#a8180d95006b698e2b4e20da2475ffee4", null ],
+    [ "SetUpData3DPointsData", "classe57_1_1_writer_impl.html#a20efd59f2b411c698044688090d1b915", null ],
     [ "WriteData3DGroupsData", "classe57_1_1_writer_impl.html#a6457cdea85dbde040a9ed1120d7dc0c3", null ],
     [ "WriteImage2DData", "classe57_1_1_writer_impl.html#a6aa4413e8e1ba23d477b52c7011654d5", null ],
     [ "WriteImage2DNode", "classe57_1_1_writer_impl.html#ac8bfbc8c8725078f655cfdca4d39f559", null ],

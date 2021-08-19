@@ -16,5 +16,6 @@ var classe57_1_1_reader =
     [ "ReadData3DGroupsData", "classe57_1_1_reader.html#ac88a6fc5203b5617cade6419c32beb18", null ],
     [ "ReadImage2D", "classe57_1_1_reader.html#a0521113ef38b4a4500288001c2ff3ecd", null ],
     [ "ReadImage2DData", "classe57_1_1_reader.html#a4f360e3c9b528c3fe251f87864d9f850", null ],
-    [ "SetUpData3DPointsData", "classe57_1_1_reader.html#ad06ea51a4c8cd48e9fa94501e3798056", null ]
+    [ "SetUpData3DPointsData", "classe57_1_1_reader.html#ad06ea51a4c8cd48e9fa94501e3798056", null ],
+    [ "SetUpData3DPointsData", "classe57_1_1_reader.html#accbbe472f876fb49c9d4af8b76d5eda8", null ]
 ];

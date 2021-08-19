@@ -10,6 +10,7 @@ var classe57_1_1_writer =
     [ "NewData3D", "classe57_1_1_writer.html#aec44692abda097141436c285fb014a1d", null ],
     [ "NewImage2D", "classe57_1_1_writer.html#a95cb47c0be109badbdc29f21b97a6229", null ],
     [ "SetUpData3DPointsData", "classe57_1_1_writer.html#ae3240d1791a91244015109d8202b2ed2", null ],
+    [ "SetUpData3DPointsData", "classe57_1_1_writer.html#a9ba858e55376c83d9e3a1b8331d4ebd6", null ],
     [ "WriteData3DGroupsData", "classe57_1_1_writer.html#a868cbfa24d18df0d9a3d4a7a17eecc6d", null ],
     [ "WriteImage2DData", "classe57_1_1_writer.html#a9de44c17db00cd35183c1b37a3cb14b2", null ]
 ];

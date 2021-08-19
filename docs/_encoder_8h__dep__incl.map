@@ -1,5 +1,8 @@
 <map id="Encoder.h" name="Encoder.h">
-<area shape="rect" id="node1" title=" " alt="" coords="103,5,183,32"/>
-<area shape="rect" id="node2" href="$_e57_format_impl_8cpp.html" title=" " alt="" coords="5,80,141,107"/>
-<area shape="rect" id="node3" href="$_encoder_8cpp.html" title=" " alt="" coords="166,80,261,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="405,5,487,32"/>
+<area shape="rect" id="node2" href="$_compressed_vector_writer_impl_8h.html" title=" " alt="" coords="255,80,461,107"/>
+<area shape="rect" id="node6" href="$_encoder_8cpp.html" title=" " alt="" coords="486,80,582,107"/>
+<area shape="rect" id="node3" href="$_compressed_vector_node_impl_8cpp.html" title=" " alt="" coords="5,155,223,181"/>
+<area shape="rect" id="node4" href="$_compressed_vector_writer_impl_8cpp.html" title=" " alt="" coords="247,155,469,181"/>
+<area shape="rect" id="node5" href="$_e57_format_8cpp.html" title=" " alt="" coords="493,155,607,181"/>
 </map>

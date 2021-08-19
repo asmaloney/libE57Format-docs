@@ -1,20 +1,7 @@
 var searchData=
 [
-  ['e57exception_2ecpp_890',['E57Exception.cpp',['../_e57_exception_8cpp.html',1,'']]],
-  ['e57exception_2eh_891',['E57Exception.h',['../_e57_exception_8h.html',1,'']]],
-  ['e57format_2ecpp_892',['E57Format.cpp',['../_e57_format_8cpp.html',1,'']]],
-  ['e57format_2eh_893',['E57Format.h',['../_e57_format_8h.html',1,'']]],
-  ['e57formatimpl_2ecpp_894',['E57FormatImpl.cpp',['../_e57_format_impl_8cpp.html',1,'']]],
-  ['e57formatimpl_2eh_895',['E57FormatImpl.h',['../_e57_format_impl_8h.html',1,'']]],
-  ['e57simpledata_2ecpp_896',['E57SimpleData.cpp',['../_e57_simple_data_8cpp.html',1,'']]],
-  ['e57simpledata_2eh_897',['E57SimpleData.h',['../_e57_simple_data_8h.html',1,'']]],
-  ['e57simplereader_2ecpp_898',['E57SimpleReader.cpp',['../_e57_simple_reader_8cpp.html',1,'']]],
-  ['e57simplereader_2eh_899',['E57SimpleReader.h',['../_e57_simple_reader_8h.html',1,'']]],
-  ['e57simplewriter_2ecpp_900',['E57SimpleWriter.cpp',['../_e57_simple_writer_8cpp.html',1,'']]],
-  ['e57simplewriter_2eh_901',['E57SimpleWriter.h',['../_e57_simple_writer_8h.html',1,'']]],
-  ['e57version_2eh_902',['E57Version.h',['../_e57_version_8h.html',1,'']]],
-  ['e57xmlparser_2ecpp_903',['E57XmlParser.cpp',['../_e57_xml_parser_8cpp.html',1,'']]],
-  ['e57xmlparser_2eh_904',['E57XmlParser.h',['../_e57_xml_parser_8h.html',1,'']]],
-  ['encoder_2ecpp_905',['Encoder.cpp',['../_encoder_8cpp.html',1,'']]],
-  ['encoder_2eh_906',['Encoder.h',['../_encoder_8h.html',1,'']]]
+  ['decodechannel_2ecpp_915',['DecodeChannel.cpp',['../_decode_channel_8cpp.html',1,'']]],
+  ['decodechannel_2eh_916',['DecodeChannel.h',['../_decode_channel_8h.html',1,'']]],
+  ['decoder_2ecpp_917',['Decoder.cpp',['../_decoder_8cpp.html',1,'']]],
+  ['decoder_2eh_918',['Decoder.h',['../_decoder_8h.html',1,'']]]
 ];
