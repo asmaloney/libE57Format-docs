@@ -4,7 +4,7 @@
 This browser-based document describes the [libE57Format](https://github.com/asmaloney/libE57Format) API (Application Programmer Interface), which is a collection of functions that help a C++ programmer read and write ASTM E57 format files. The API acts as a documented software connector between an application (above the interface) and an implementation of the API.
 
 ## This Documentation
-This documentation was generated from the comments in the code that existed in the reference implementaion ([see below](#fork)). These docs are probably out of date and may not be complete, so consider them a starting point. Please submit any updates and fixes (for [these docs](https://github.com/asmaloney/libE57Format-docs/issues) or [in the code](https://github.com/asmaloney/libE57Format/issues)) so they may be improved over time.
+This documentation was generated from the comments in the code that existed in the reference implementation ([see below](#fork)). These docs are probably out of date and may not be complete, so consider them a starting point. Please submit any updates and fixes (for [these docs](https://github.com/asmaloney/libE57Format-docs/issues) or [in the code](https://github.com/asmaloney/libE57Format/issues)) so they may be improved over time.
 
 # Fork {#fork}
 libE57Format is a fork of [E57RefImpl](https://sourceforge.net/projects/e57-3d-imgfmt/) v1.1.332.
