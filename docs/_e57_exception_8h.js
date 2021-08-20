@@ -1,6 +1,6 @@
 var _e57_exception_8h =
 [
-    [ "E57Exception", "classe57_1_1_e57_exception.html", "classe57_1_1_e57_exception" ],
+    [ "e57::E57Exception", "classe57_1_1_e57_exception.html", "classe57_1_1_e57_exception" ],
     [ "ErrorCode", "_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4", [
       [ "E57_SUCCESS", "_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a1886bb3c583bb541192fe48b75501ba0", null ],
       [ "E57_ERROR_BAD_CV_HEADER", "_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4ac3f1ab8058295360fd0dbd28c374562f", null ],

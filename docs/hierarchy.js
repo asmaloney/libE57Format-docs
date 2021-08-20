@@ -41,7 +41,7 @@ var hierarchy =
     [ "e57::E57FileHeader", "structe57_1_1_e57_file_header.html", null ],
     [ "e57::E57Root", "structe57_1_1_e57_root.html", null ],
     [ "EmptyPacketHeader", "struct_empty_packet_header.html", null ],
-    [ "enable_shared_from_this", null, [
+    [ "std::enable_shared_from_this", null, [
       [ "e57::ImageFileImpl", "classe57_1_1_image_file_impl.html", null ],
       [ "e57::NodeImpl", "classe57_1_1_node_impl.html", [
         [ "e57::BlobNodeImpl", "classe57_1_1_blob_node_impl.html", null ],
@@ -64,23 +64,23 @@ var hierarchy =
       ] ],
       [ "e57::ConstantIntegerEncoder", "classe57_1_1_constant_integer_encoder.html", null ]
     ] ],
-    [ "exception", null, [
+    [ "std::exception", null, [
       [ "e57::E57Exception", "classe57_1_1_e57_exception.html", null ]
     ] ],
-    [ "FloatNode", "class_float_node.html", null ],
     [ "e57::FloatNode", "classe57_1_1_float_node.html", null ],
+    [ "FloatNode", "class_float_node.html", null ],
     [ "e57::GroupingByLine", "structe57_1_1_grouping_by_line.html", null ],
     [ "e57::Image2D", "structe57_1_1_image2_d.html", null ],
-    [ "ImageFile", "class_image_file.html", null ],
     [ "e57::ImageFile", "classe57_1_1_image_file.html", null ],
+    [ "ImageFile", "class_image_file.html", null ],
     [ "e57::IndexBounds", "structe57_1_1_index_bounds.html", null ],
     [ "IndexPacket", "struct_index_packet.html", null ],
     [ "IndexPacket::IndexPacketEntry", "struct_index_packet_1_1_index_packet_entry.html", null ],
     [ "InputSource", null, [
       [ "e57::E57XmlFileInputSource", "classe57_1_1_e57_xml_file_input_source.html", null ]
     ] ],
-    [ "IntegerNode", "class_integer_node.html", null ],
     [ "e57::IntegerNode", "classe57_1_1_integer_node.html", null ],
+    [ "IntegerNode", "class_integer_node.html", null ],
     [ "e57::IntensityLimits", "structe57_1_1_intensity_limits.html", null ],
     [ "e57::LineGroupRecord", "structe57_1_1_line_group_record.html", null ],
     [ "e57::NameSpace", "structe57_1_1_name_space.html", null ],
@@ -96,11 +96,11 @@ var hierarchy =
     [ "e57::Reader", "classe57_1_1_reader.html", null ],
     [ "e57::ReaderImpl", "classe57_1_1_reader_impl.html", null ],
     [ "e57::RigidBodyTransform", "structe57_1_1_rigid_body_transform.html", null ],
-    [ "ScaledIntegerNode", "class_scaled_integer_node.html", null ],
     [ "e57::ScaledIntegerNode", "classe57_1_1_scaled_integer_node.html", null ],
+    [ "ScaledIntegerNode", "class_scaled_integer_node.html", null ],
     [ "e57::SortByBytestreamNumber", "structe57_1_1_sort_by_bytestream_number.html", null ],
-    [ "SourceDestBuffer", "class_source_dest_buffer.html", null ],
     [ "e57::SourceDestBuffer", "classe57_1_1_source_dest_buffer.html", null ],
+    [ "SourceDestBuffer", "class_source_dest_buffer.html", null ],
     [ "e57::SphericalBounds", "structe57_1_1_spherical_bounds.html", null ],
     [ "e57::SphericalRepresentation", "structe57_1_1_spherical_representation.html", null ],
     [ "e57::StringNode", "classe57_1_1_string_node.html", null ],
@@ -108,8 +108,8 @@ var hierarchy =
     [ "e57::StructureNode", "classe57_1_1_structure_node.html", null ],
     [ "StructureNode", "class_structure_node.html", null ],
     [ "e57::Translation", "structe57_1_1_translation.html", null ],
-    [ "VectorNode", "class_vector_node.html", null ],
     [ "e57::VectorNode", "classe57_1_1_vector_node.html", null ],
+    [ "VectorNode", "class_vector_node.html", null ],
     [ "e57::VisualReferenceRepresentation", "structe57_1_1_visual_reference_representation.html", null ],
     [ "e57::Writer", "classe57_1_1_writer.html", null ],
     [ "e57::WriterImpl", "classe57_1_1_writer_impl.html", null ]

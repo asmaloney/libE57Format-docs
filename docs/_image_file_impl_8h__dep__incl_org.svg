@@ -13,8 +13,8 @@
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="806,-56.5 806,-75.5 894,-75.5 894,-56.5 806,-56.5"/>
-<text text-anchor="middle" x="850" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.h</text>
+<polygon fill="#bfbfbf" stroke="black" points="817,-56.5 817,-75.5 905,-75.5 905,-56.5 817,-56.5"/>
+<text text-anchor="middle" x="861" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.h</text>
 </a>
 </g>
 </g>
@@ -30,8 +30,8 @@
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M795.64,-63.45C672.68,-59.56 363.88,-47.65 107,-20 104.06,-19.68 101.05,-19.32 98.01,-18.93"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="795.81,-66.95 805.91,-63.77 796.03,-59.96 795.81,-66.95"/>
+<path fill="none" stroke="midnightblue" d="M806.67,-63.52C682.45,-59.74 368.26,-48 107,-20 104.06,-19.69 101.04,-19.33 98,-18.94"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="806.59,-67.01 816.69,-63.82 806.8,-60.02 806.59,-67.01"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -45,8 +45,8 @@
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M795.8,-60.99C695.66,-53.5 474.87,-36.64 289,-20 286,-19.73 282.94,-19.45 279.85,-19.17"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="795.74,-64.49 805.97,-61.75 796.26,-57.51 795.74,-64.49"/>
+<path fill="none" stroke="midnightblue" d="M806.82,-61.1C705.22,-53.71 479.18,-36.88 289,-20 286,-19.73 282.94,-19.46 279.85,-19.17"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="806.61,-64.6 816.84,-61.83 807.12,-57.61 806.61,-64.6"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
@@ -60,8 +60,8 @@
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge3" class="edge">
 <title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M795.68,-58.71C712.04,-49.01 551.54,-30.41 457.55,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="795.4,-62.2 805.74,-59.87 796.21,-55.24 795.4,-62.2"/>
+<path fill="none" stroke="midnightblue" d="M807.01,-58.89C721.87,-49.25 556.17,-30.49 459.35,-19.53"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="806.65,-62.37 816.98,-60.02 807.44,-55.41 806.65,-62.37"/>
 </g>
 <!-- Node5 -->
 <g id="node5" class="node">
@@ -75,128 +75,128 @@
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M795.94,-54.54C743.21,-44.33 664,-29 615,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="795.31,-57.98 805.79,-56.44 796.64,-51.11 795.31,-57.98"/>
+<path fill="none" stroke="midnightblue" d="M807.09,-54.96C752.37,-44.77 668.55,-29.16 616.9,-19.55"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="806.48,-58.41 816.96,-56.8 807.76,-51.53 806.48,-58.41"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="_node_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="672,-0.5 672,-19.5 750,-19.5 750,-0.5 672,-0.5"/>
-<text text-anchor="middle" x="711" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">NodeImpl.cpp</text>
+<g id="a_node6"><a xlink:href="_decoder_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="672.5,-0.5 672.5,-19.5 745.5,-19.5 745.5,-0.5 672.5,-0.5"/>
+<text text-anchor="middle" x="709" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Decoder.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M818.52,-52.77C792.41,-42.63 755.96,-28.47 732.92,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="817.39,-56.08 827.98,-56.44 819.92,-49.56 817.39,-56.08"/>
+<path fill="none" stroke="midnightblue" d="M827.33,-53.04C798.73,-42.88 758.39,-28.55 732.97,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="826.32,-56.39 836.92,-56.44 828.66,-49.8 826.32,-56.39"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="_decoder_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="768.5,-0.5 768.5,-19.5 841.5,-19.5 841.5,-0.5 768.5,-0.5"/>
-<text text-anchor="middle" x="805" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Decoder.cpp</text>
+<g id="a_node7"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="763.5,-0.5 763.5,-19.5 848.5,-19.5 848.5,-0.5 763.5,-0.5"/>
+<text text-anchor="middle" x="806" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M835.95,-48.14C828.11,-38.74 818.67,-27.4 812.29,-19.75"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="833.48,-50.64 842.57,-56.08 838.86,-46.16 833.48,-50.64"/>
+<path fill="none" stroke="midnightblue" d="M844.71,-49C834.96,-39.43 822.95,-27.64 814.91,-19.75"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="842.33,-51.57 851.92,-56.08 847.23,-46.58 842.33,-51.57"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="_encoder_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="860,-0.5 860,-19.5 932,-19.5 932,-0.5 860,-0.5"/>
-<text text-anchor="middle" x="896" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Encoder.cpp</text>
+<g id="a_node8"><a xlink:href="_e57_xml_parser_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="866.5,-0.5 866.5,-19.5 965.5,-19.5 965.5,-0.5 866.5,-0.5"/>
+<text text-anchor="middle" x="916" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M864.11,-48.43C872.18,-38.97 881.96,-27.48 888.55,-19.75"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="861.42,-46.2 857.6,-56.08 866.75,-50.74 861.42,-46.2"/>
+<path fill="none" stroke="midnightblue" d="M877.29,-49C887.04,-39.43 899.05,-27.64 907.09,-19.75"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="874.77,-46.58 870.08,-56.08 879.67,-51.57 874.77,-46.58"/>
 </g>
 <!-- Node9 -->
 <g id="node9" class="node">
 <title>Node9</title>
-<g id="a_node9"><a xlink:href="_image_file_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="950,-0.5 950,-19.5 1048,-19.5 1048,-0.5 950,-0.5"/>
-<text text-anchor="middle" x="999" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.cpp</text>
+<g id="a_node9"><a xlink:href="_encoder_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="984,-0.5 984,-19.5 1056,-19.5 1056,-0.5 984,-0.5"/>
+<text text-anchor="middle" x="1020" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Encoder.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node9 -->
 <g id="edge8" class="edge">
 <title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M883.37,-52.91C911.38,-42.75 950.7,-28.51 975.5,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="881.82,-49.75 873.61,-56.44 884.2,-56.33 881.82,-49.75"/>
+<path fill="none" stroke="midnightblue" d="M895.83,-53.17C925.77,-43 968.22,-28.59 994.92,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="894.54,-49.91 886.19,-56.44 896.79,-56.54 894.54,-49.91"/>
 </g>
 <!-- Node10 -->
 <g id="node10" class="node">
 <title>Node10</title>
-<g id="a_node10"><a xlink:href="_e57_xml_parser_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1066.5,-0.5 1066.5,-19.5 1165.5,-19.5 1165.5,-0.5 1066.5,-0.5"/>
-<text text-anchor="middle" x="1116" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
+<g id="a_node10"><a xlink:href="_image_file_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1074,-0.5 1074,-19.5 1172,-19.5 1172,-0.5 1074,-0.5"/>
+<text text-anchor="middle" x="1123" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node10 -->
 <g id="edge9" class="edge">
 <title>Node1&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M902.17,-54.41C952.44,-44.2 1027.53,-28.96 1074.05,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="901.25,-51.02 892.15,-56.44 902.64,-57.88 901.25,-51.02"/>
+<path fill="none" stroke="midnightblue" d="M912.38,-54.41C961.9,-44.2 1035.86,-28.96 1081.68,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="911.6,-51 902.51,-56.44 913.02,-57.85 911.6,-51"/>
 </g>
 <!-- Node11 -->
 <g id="node11" class="node">
 <title>Node11</title>
-<g id="a_node11"><a xlink:href="_structure_node_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1183.5,-0.5 1183.5,-19.5 1302.5,-19.5 1302.5,-0.5 1183.5,-0.5"/>
-<text text-anchor="middle" x="1243" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.cpp</text>
+<g id="a_node11"><a xlink:href="_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1190,-0.5 1190,-19.5 1268,-19.5 1268,-0.5 1190,-0.5"/>
+<text text-anchor="middle" x="1229" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">NodeImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node11 -->
 <g id="edge10" class="edge">
 <title>Node1&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M904.25,-57.55C977.41,-47.49 1107.25,-29.65 1183.17,-19.22"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="903.75,-54.08 894.32,-58.91 904.7,-61.02 903.75,-54.08"/>
+<path fill="none" stroke="midnightblue" d="M915.31,-58.13C979.06,-49.89 1087.91,-35.26 1181,-20 1183.93,-19.52 1186.95,-19 1189.99,-18.47"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="914.56,-54.7 905.09,-59.45 915.46,-61.64 914.56,-54.7"/>
 </g>
 <!-- Node12 -->
 <g id="node12" class="node">
 <title>Node12</title>
-<g id="a_node12"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1320.5,-0.5 1320.5,-19.5 1405.5,-19.5 1405.5,-0.5 1320.5,-0.5"/>
-<text text-anchor="middle" x="1363" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
+<g id="a_node12"><a xlink:href="_source_dest_buffer_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1286.5,-0.5 1286.5,-19.5 1419.5,-19.5 1419.5,-0.5 1286.5,-0.5"/>
+<text text-anchor="middle" x="1353" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SourceDestBufferImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node12 -->
 <g id="edge11" class="edge">
 <title>Node1&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M904.19,-61.09C990.65,-54.55 1165.07,-40.09 1312,-20 1314.76,-19.62 1317.6,-19.2 1320.46,-18.76"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="903.8,-57.61 894.09,-61.85 904.32,-64.59 903.8,-57.61"/>
+<path fill="none" stroke="midnightblue" d="M915.29,-59.3C994.73,-50.93 1147.3,-34.69 1277,-20 1280.04,-19.66 1283.14,-19.3 1286.28,-18.94"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="914.62,-55.86 905.04,-60.38 915.35,-62.82 914.62,-55.86"/>
 </g>
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="_source_dest_buffer_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="1423.5,-0.5 1423.5,-19.5 1556.5,-19.5 1556.5,-0.5 1423.5,-0.5"/>
-<text text-anchor="middle" x="1490" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">SourceDestBufferImpl.cpp</text>
+<g id="a_node13"><a xlink:href="_structure_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="1437.5,-0.5 1437.5,-19.5 1556.5,-19.5 1556.5,-0.5 1437.5,-0.5"/>
+<text text-anchor="middle" x="1497" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node13 -->
 <g id="edge12" class="edge">
 <title>Node1&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M904.24,-61.4C1004.98,-54.56 1227.76,-38.68 1415,-20 1417.74,-19.73 1420.54,-19.44 1423.36,-19.14"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="903.75,-57.93 894.01,-62.1 904.22,-64.91 903.75,-57.93"/>
+<path fill="none" stroke="midnightblue" d="M915.24,-61.65C1016.41,-55.2 1240.69,-39.91 1429,-20 1431.72,-19.71 1434.51,-19.4 1437.32,-19.08"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="915.02,-58.16 905.26,-62.29 915.46,-65.15 915.02,-58.16"/>
 </g>
 </g>
 </svg>

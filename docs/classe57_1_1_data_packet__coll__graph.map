@@ -1,6 +1,6 @@
 <map id="e57::DataPacket" name="e57::DataPacket">
 <area shape="rect" id="node1" title=" " alt="" coords="5,199,125,225"/>
-<area shape="rect" id="node2" title=" " alt="" coords="36,5,97,32"/>
-<area shape="rect" id="node3" href="$classe57_1_1_data_packet_header.html" title=" " alt="" coords="117,109,280,136"/>
-<area shape="rect" id="node4" title=" " alt="" coords="165,5,233,32"/>
+<area shape="rect" id="node2" href="$classe57_1_1_data_packet_header.html" title=" " alt="" coords="91,109,255,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="7,5,70,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="139,5,208,32"/>
 </map>

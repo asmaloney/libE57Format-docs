@@ -1,12 +1,12 @@
 <map id="E57SimpleData.h" name="E57SimpleData.h">
-<area shape="rect" id="node1" title="Data structures for E57 Simple API." alt="" coords="303,5,429,32"/>
+<area shape="rect" id="node1" title="Data structures for E57 Simple API." alt="" coords="322,5,447,32"/>
 <area shape="rect" id="node2" href="$_e57_simple_data_8cpp.html" title=" " alt="" coords="5,80,145,107"/>
-<area shape="rect" id="node3" href="$_reader_impl_8h.html" title=" " alt="" coords="169,80,272,107"/>
-<area shape="rect" id="node6" href="$_writer_impl_8h.html" title=" " alt="" coords="617,80,710,107"/>
-<area shape="rect" id="node9" href="$_e57_simple_reader_8h.html" title="E57 Simple API for reading E57." alt="" coords="296,80,436,107"/>
-<area shape="rect" id="node10" href="$_e57_simple_writer_8h.html" title="E57 Simple API for writing E57." alt="" coords="460,80,592,107"/>
-<area shape="rect" id="node4" href="$_e57_simple_reader_8cpp.html" title=" " alt="" coords="281,155,435,181"/>
-<area shape="rect" id="node5" href="$_reader_impl_8cpp.html" title=" " alt="" coords="140,155,256,181"/>
-<area shape="rect" id="node7" href="$_e57_simple_writer_8cpp.html" title=" " alt="" coords="459,155,606,181"/>
-<area shape="rect" id="node8" href="$_writer_impl_8cpp.html" title=" " alt="" coords="631,155,739,181"/>
+<area shape="rect" id="node3" href="$_e57_simple_reader_8h.html" title="E57 Simple API for reading E57." alt="" coords="169,80,309,107"/>
+<area shape="rect" id="node5" href="$_e57_simple_writer_8h.html" title="E57 Simple API for writing E57." alt="" coords="460,80,592,107"/>
+<area shape="rect" id="node7" href="$_reader_impl_8h.html" title=" " alt="" coords="333,80,436,107"/>
+<area shape="rect" id="node9" href="$_writer_impl_8h.html" title=" " alt="" coords="617,80,710,107"/>
+<area shape="rect" id="node4" href="$_e57_simple_reader_8cpp.html" title=" " alt="" coords="154,155,309,181"/>
+<area shape="rect" id="node6" href="$_e57_simple_writer_8cpp.html" title=" " alt="" coords="474,155,621,181"/>
+<area shape="rect" id="node8" href="$_reader_impl_8cpp.html" title=" " alt="" coords="333,155,449,181"/>
+<area shape="rect" id="node10" href="$_writer_impl_8cpp.html" title=" " alt="" coords="645,155,753,181"/>
 </map>

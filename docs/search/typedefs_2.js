@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['nodeimplsharedptr_1596',['NodeImplSharedPtr',['../namespacee57.html#a3d9f3ef04a34eebe073ceb91a1b47251',1,'e57']]],
-  ['nodeimplweakptr_1597',['NodeImplWeakPtr',['../namespacee57.html#aa06214e9810301ba9dcc049202582a4b',1,'e57']]]
+  ['nodeimplsharedptr_0',['NodeImplSharedPtr',['../namespacee57.html#a3d9f3ef04a34eebe073ceb91a1b47251',1,'e57']]],
+  ['nodeimplweakptr_1',['NodeImplWeakPtr',['../namespacee57.html#aa06214e9810301ba9dcc049202582a4b',1,'e57']]]
 ];

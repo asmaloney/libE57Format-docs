@@ -1,7 +1,7 @@
 <map id="e57::E57Root" name="e57::E57Root">
-<area shape="rect" id="node1" title="Stores the top&#45;level information for the XML section of the file." alt="" coords="148,199,252,225"/>
-<area shape="rect" id="node2" href="$structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="5,95,115,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="29,5,91,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="165,95,235,121"/>
-<area shape="rect" id="node5" title=" " alt="" coords="281,95,343,121"/>
+<area shape="rect" id="node1" title="Stores the top&#45;level information for the XML section of the file." alt="" coords="100,199,204,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,75,121"/>
+<area shape="rect" id="node3" href="$structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="99,95,208,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="122,5,185,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="261,95,323,121"/>
 </map>

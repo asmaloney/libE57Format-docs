@@ -1,7 +1,7 @@
 <map id="e57::BitpackEncoder" name="e57::BitpackEncoder">
-<area shape="rect" id="node1" title=" " alt="" coords="152,64,295,91"/>
-<area shape="rect" id="node3" href="$classe57_1_1_bitpack_float_encoder.html" title=" " alt="" coords="348,5,520,32"/>
-<area shape="rect" id="node4" href="$classe57_1_1_bitpack_integer_encoder.html" title=" " alt="" coords="343,57,525,98"/>
-<area shape="rect" id="node5" href="$classe57_1_1_bitpack_string_encoder.html" title=" " alt="" coords="345,123,523,149"/>
-<area shape="rect" id="node2" href="$classe57_1_1_encoder.html" title=" " alt="" coords="5,64,104,91"/>
+<area shape="rect" id="node1" title=" " alt="" coords="155,64,300,91"/>
+<area shape="rect" id="node3" href="$classe57_1_1_bitpack_float_encoder.html" title=" " alt="" coords="354,5,529,32"/>
+<area shape="rect" id="node4" href="$classe57_1_1_bitpack_integer_encoder.html" title=" " alt="" coords="348,57,535,98"/>
+<area shape="rect" id="node5" href="$classe57_1_1_bitpack_string_encoder.html" title=" " alt="" coords="351,123,531,149"/>
+<area shape="rect" id="node2" href="$classe57_1_1_encoder.html" title=" " alt="" coords="5,64,107,91"/>
 </map>

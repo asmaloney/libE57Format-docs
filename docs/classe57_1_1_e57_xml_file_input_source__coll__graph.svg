@@ -36,32 +36,39 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:title=" ">
-<polygon fill="white" stroke="#bfbfbf" points="155,-236.5 155,-255.5 207,-255.5 207,-236.5 155,-236.5"/>
-<text text-anchor="middle" x="181" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">uint64_t</text>
+<g id="a_node3"><a xlink:href="classe57_1_1_checked_file.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="134,-67.5 134,-86.5 228,-86.5 228,-67.5 134,-67.5"/>
+<text text-anchor="middle" x="181" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">e57::CheckedFile</text>
 </a>
 </g>
 </g>
 <!-- Node3&#45;&gt;Node1 -->
 <g id="edge2" class="edge">
 <title>Node3&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M161.93,-61.07C145.55,-48.24 122.5,-30.19 109.02,-19.63"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="159.78,-63.82 169.81,-67.23 164.09,-58.31 159.78,-63.82"/>
+<text text-anchor="middle" x="153.5" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00"> cf_</text>
+</g>
+<!-- Node4 -->
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:title=" ">
+<polygon fill="white" stroke="#bfbfbf" points="155,-236.5 155,-255.5 207,-255.5 207,-236.5 155,-236.5"/>
+<text text-anchor="middle" x="181" y="-243.5" font-family="Helvetica,sans-Serif" font-size="10.00">uint64_t</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node1 -->
+<g id="edge6" class="edge">
+<title>Node4&#45;&gt;Node1</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M167.38,-228.31C150.43,-206.5 122.12,-166.43 109,-127 96.23,-88.61 96.7,-39.4 97.52,-19.71"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="164.71,-230.58 173.67,-236.23 170.19,-226.23 164.71,-230.58"/>
 <text text-anchor="middle" x="143" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00"> logicalLength_</text>
 <text text-anchor="middle" x="143" y="-108" font-family="Helvetica,sans-Serif" font-size="10.00">logicalStart_</text>
 </g>
-<!-- Node4 -->
-<g id="node4" class="node">
-<title>Node4</title>
-<g id="a_node4"><a xlink:href="classe57_1_1_checked_file.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="134,-67.5 134,-86.5 228,-86.5 228,-67.5 134,-67.5"/>
-<text text-anchor="middle" x="181" y="-74.5" font-family="Helvetica,sans-Serif" font-size="10.00">e57::CheckedFile</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge4" class="edge">
-<title>Node3&#45;&gt;Node4</title>
+<!-- Node4&#45;&gt;Node3 -->
+<g id="edge3" class="edge">
+<title>Node4&#45;&gt;Node3</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M181,-226.41C181,-190.47 181,-112.73 181,-86.69"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="177.5,-226.49 181,-236.49 184.5,-226.49 177.5,-226.49"/>
 <text text-anchor="middle" x="232.5" y="-170" font-family="Helvetica,sans-Serif" font-size="10.00"> logicalLength_</text>
@@ -77,27 +84,20 @@
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node5 -->
-<g id="edge6" class="edge">
-<title>Node3&#45;&gt;Node5</title>
+<!-- Node4&#45;&gt;Node5 -->
+<g id="edge5" class="edge">
+<title>Node4&#45;&gt;Node5</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M207.37,-231.81C241.48,-214.76 299.93,-185.54 328.81,-171.1"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="205.42,-228.88 198.04,-236.48 208.55,-235.14 205.42,-228.88"/>
-<text text-anchor="middle" x="313.5" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00"> cursorStream_</text>
-<text text-anchor="middle" x="313.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">streamSize_</text>
+<text text-anchor="middle" x="312.5" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00"> cursorStream_</text>
+<text text-anchor="middle" x="312.5" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">streamSize_</text>
 </g>
-<!-- Node4&#45;&gt;Node1 -->
-<g id="edge3" class="edge">
-<title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M161.93,-61.07C145.55,-48.24 122.5,-30.19 109.02,-19.63"/>
-<polygon fill="#9a32cd" stroke="#9a32cd" points="159.78,-63.82 169.81,-67.23 164.09,-58.31 159.78,-63.82"/>
-<text text-anchor="middle" x="153.5" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00"> cf_</text>
-</g>
-<!-- Node5&#45;&gt;Node4 -->
-<g id="edge5" class="edge">
-<title>Node5&#45;&gt;Node4</title>
+<!-- Node5&#45;&gt;Node3 -->
+<g id="edge4" class="edge">
+<title>Node5&#45;&gt;Node3</title>
 <path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M319.63,-147.31C285.52,-130.26 227.07,-101.04 198.19,-86.6"/>
 <polygon fill="#9a32cd" stroke="#9a32cd" points="318.45,-150.64 328.96,-151.98 321.58,-144.38 318.45,-150.64"/>
-<text text-anchor="middle" x="301" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00"> bufView_</text>
+<text text-anchor="middle" x="300" y="-113.5" font-family="Helvetica,sans-Serif" font-size="10.00"> bufView_</text>
 </g>
 </g>
 </svg>

@@ -5,10 +5,10 @@
  -->
 <!-- Title: CompressedVectorNodeImpl.h Pages: 1 -->
 <svg width="948pt" height="84pt"
- viewBox="0.00 0.00 948.00 84.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 947.50 84.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 80)">
 <title>CompressedVectorNodeImpl.h</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-80 944,-80 944,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-80 943.5,-80 943.5,4 -4,4"/>
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
@@ -81,47 +81,47 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="_encoder_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="647.5,-0.5 647.5,-19.5 719.5,-19.5 719.5,-0.5 647.5,-0.5"/>
-<text text-anchor="middle" x="683.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Encoder.cpp</text>
+<g id="a_node6"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="647,-0.5 647,-19.5 732,-19.5 732,-0.5 647,-0.5"/>
+<text text-anchor="middle" x="689.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
 <title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M615.79,-51.18C632.54,-41.24 654.6,-28.15 668.92,-19.65"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="613.93,-48.21 607.12,-56.32 617.51,-54.23 613.93,-48.21"/>
+<path fill="none" stroke="midnightblue" d="M616.84,-51.45C634.74,-41.48 658.55,-28.23 673.95,-19.65"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="615.12,-48.4 608.08,-56.32 618.52,-54.52 615.12,-48.4"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
 <g id="a_node7"><a xlink:href="_e57_xml_parser_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="738,-0.5 738,-19.5 837,-19.5 837,-0.5 738,-0.5"/>
-<text text-anchor="middle" x="787.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
+<polygon fill="white" stroke="black" points="750,-0.5 750,-19.5 849,-19.5 849,-0.5 750,-0.5"/>
+<text text-anchor="middle" x="799.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M633.31,-53.7C670.11,-43.51 723.43,-28.74 756.75,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="632.1,-50.4 623.4,-56.44 633.97,-57.15 632.1,-50.4"/>
+<path fill="none" stroke="midnightblue" d="M635.32,-53.83C674.41,-43.63 731.33,-28.78 766.85,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="634.09,-50.53 625.3,-56.44 635.86,-57.31 634.09,-50.53"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="855,-0.5 855,-19.5 940,-19.5 940,-0.5 855,-0.5"/>
-<text text-anchor="middle" x="897.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
+<g id="a_node8"><a xlink:href="_encoder_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="867.5,-0.5 867.5,-19.5 939.5,-19.5 939.5,-0.5 867.5,-0.5"/>
+<text text-anchor="middle" x="903.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Encoder.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M650.84,-54.67C710.46,-44.12 801.61,-27.98 854.81,-18.56"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="650.06,-51.25 640.83,-56.44 651.29,-58.15 650.06,-51.25"/>
+<path fill="none" stroke="midnightblue" d="M655.68,-54.86C709.63,-46.06 789.27,-32.78 858.5,-20 861.32,-19.48 864.24,-18.93 867.17,-18.36"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="654.88,-51.44 645.57,-56.5 656.01,-58.35 654.88,-51.44"/>
 </g>
 </g>
 </svg>

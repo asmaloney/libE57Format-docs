@@ -20,7 +20,7 @@ var classe57_1_1_node_impl =
     [ "isTypeConstrained", "classe57_1_1_node_impl.html#af0b7562252c6fc5b2aa068a0b472a162", null ],
     [ "isTypeEquivalent", "classe57_1_1_node_impl.html#ad729f803323cde47b6b6b4ebacaf1e82", null ],
     [ "lookup", "classe57_1_1_node_impl.html#a263660e02f49078fe497f694bb726282", null ],
-    [ "operator=", "classe57_1_1_node_impl.html#ab5896ca6d81e11eaaf3a0b125f8bfda9", null ],
+    [ "operator=", "classe57_1_1_node_impl.html#af1d4c481c5ac997df22841b5608df6be", null ],
     [ "parent", "classe57_1_1_node_impl.html#abbb635c5988c15cd733f521fbd50c532", null ],
     [ "pathName", "classe57_1_1_node_impl.html#aec636276e93a267192ea780e834fa240", null ],
     [ "relativePathName", "classe57_1_1_node_impl.html#a3a4269b964e43321e1797cfa3fe6dd5b", null ],

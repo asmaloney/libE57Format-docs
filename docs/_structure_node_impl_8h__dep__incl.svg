@@ -59,8 +59,8 @@ var sectionId = 'dynsection-1';
 <g id="node1" class="node">
 <title>Node1</title>
 <g id="a_node1"><a xlink:title=" ">
-<polygon fill="#bfbfbf" stroke="black" points="273.5,-112.5 273.5,-131.5 381.5,-131.5 381.5,-112.5 273.5,-112.5"/>
-<text text-anchor="middle" x="327.5" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.h</text>
+<polygon fill="#bfbfbf" stroke="black" points="153.5,-112.5 153.5,-131.5 261.5,-131.5 261.5,-112.5 153.5,-112.5"/>
+<text text-anchor="middle" x="207.5" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.h</text>
 </a>
 </g>
 </g>
@@ -68,121 +68,121 @@ var sectionId = 'dynsection-1';
 <g id="node2" class="node">
 <title>Node2</title>
 <g id="a_node2"><a xlink:href="_image_file_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="163.5,-56.5 163.5,-75.5 261.5,-75.5 261.5,-56.5 163.5,-56.5"/>
-<text text-anchor="middle" x="212.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.cpp</text>
+<polygon fill="white" stroke="black" points="31.5,-56.5 31.5,-75.5 129.5,-75.5 129.5,-56.5 31.5,-56.5"/>
+<text text-anchor="middle" x="80.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">ImageFileImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge1" class="edge">
 <title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M300.02,-108.1C278.53,-98.01 249.28,-84.27 230.64,-75.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="298.74,-111.36 309.28,-112.44 301.71,-105.02 298.74,-111.36"/>
+<path fill="none" stroke="midnightblue" d="M178.11,-108.5C154.3,-98.38 121.39,-84.39 100.53,-75.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="176.8,-111.75 187.38,-112.44 179.54,-105.31 176.8,-111.75"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="_vector_node_impl_8h.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="279.5,-56.5 279.5,-75.5 375.5,-75.5 375.5,-56.5 279.5,-56.5"/>
-<text text-anchor="middle" x="327.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">VectorNodeImpl.h</text>
+<g id="a_node3"><a xlink:href="_structure_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="148,-56.5 148,-75.5 267,-75.5 267,-56.5 148,-56.5"/>
+<text text-anchor="middle" x="207.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.cpp</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge2" class="edge">
 <title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M327.5,-101.8C327.5,-92.91 327.5,-82.78 327.5,-75.75"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="324,-102.08 327.5,-112.08 331,-102.08 324,-102.08"/>
-</g>
-<!-- Node9 -->
-<g id="node9" class="node">
-<title>Node9</title>
-<g id="a_node9"><a xlink:href="_structure_node_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="394,-56.5 394,-75.5 513,-75.5 513,-56.5 394,-56.5"/>
-<text text-anchor="middle" x="453.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">StructureNodeImpl.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node1&#45;&gt;Node9 -->
-<g id="edge8" class="edge">
-<title>Node1&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M356.66,-108.5C380.28,-98.38 412.93,-84.39 433.63,-75.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="355.28,-105.29 347.47,-112.44 358.04,-111.72 355.28,-105.29"/>
+<path fill="none" stroke="midnightblue" d="M207.5,-101.8C207.5,-92.91 207.5,-82.78 207.5,-75.75"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="204,-102.08 207.5,-112.08 211,-102.08 204,-102.08"/>
 </g>
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="_compressed_vector_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="_vector_node_impl_8h.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="285.5,-56.5 285.5,-75.5 381.5,-75.5 381.5,-56.5 285.5,-56.5"/>
+<text text-anchor="middle" x="333.5" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">VectorNodeImpl.h</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node4 -->
+<g id="edge3" class="edge">
+<title>Node1&#45;&gt;Node4</title>
+<path fill="none" stroke="midnightblue" d="M236.66,-108.5C260.28,-98.38 292.93,-84.39 313.63,-75.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="235.28,-105.29 227.47,-112.44 238.04,-111.72 235.28,-105.29"/>
+</g>
+<!-- Node5 -->
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="_compressed_vector_node_impl_8cpp.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-19.5 163,-19.5 163,-0.5 0,-0.5"/>
 <text text-anchor="middle" x="81.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">CompressedVectorNodeImpl.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node4 -->
-<g id="edge3" class="edge">
-<title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M278.67,-54.28C232.18,-44.08 163.14,-28.92 120.3,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="278,-57.72 288.52,-56.44 279.5,-50.88 278,-57.72"/>
-</g>
-<!-- Node5 -->
-<g id="node5" class="node">
-<title>Node5</title>
-<g id="a_node5"><a xlink:href="_node_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="181.5,-0.5 181.5,-19.5 259.5,-19.5 259.5,-0.5 181.5,-0.5"/>
-<text text-anchor="middle" x="220.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">NodeImpl.cpp</text>
-</a>
-</g>
-</g>
-<!-- Node3&#45;&gt;Node5 -->
+<!-- Node4&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
-<title>Node3&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M301.2,-51.73C281.39,-41.73 254.79,-28.31 237.65,-19.65"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="299.8,-54.94 310.31,-56.32 302.96,-48.69 299.8,-54.94"/>
+<title>Node4&#45;&gt;Node5</title>
+<path fill="none" stroke="midnightblue" d="M283.78,-54.35C236.16,-44.14 165.22,-28.94 121.24,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="283.06,-57.77 293.57,-56.44 284.53,-50.93 283.06,-57.77"/>
 </g>
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="_e57_xml_parser_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="278,-0.5 278,-19.5 377,-19.5 377,-0.5 278,-0.5"/>
-<text text-anchor="middle" x="327.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
+<g id="a_node6"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="181,-0.5 181,-19.5 266,-19.5 266,-0.5 181,-0.5"/>
+<text text-anchor="middle" x="223.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node6 -->
+<!-- Node4&#45;&gt;Node6 -->
 <g id="edge5" class="edge">
-<title>Node3&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M327.5,-45.8C327.5,-36.91 327.5,-26.78 327.5,-19.75"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="324,-46.08 327.5,-56.08 331,-46.08 324,-46.08"/>
+<title>Node4&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M306.74,-51.86C286.34,-41.85 258.83,-28.35 241.13,-19.65"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="305.31,-55.06 315.83,-56.32 308.39,-48.78 305.31,-55.06"/>
 </g>
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="_vector_node_impl_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="395,-0.5 395,-19.5 502,-19.5 502,-0.5 395,-0.5"/>
-<text text-anchor="middle" x="448.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">VectorNodeImpl.cpp</text>
+<g id="a_node7"><a xlink:href="_e57_xml_parser_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="284,-0.5 284,-19.5 383,-19.5 383,-0.5 284,-0.5"/>
+<text text-anchor="middle" x="333.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57XmlParser.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node7 -->
+<!-- Node4&#45;&gt;Node7 -->
 <g id="edge6" class="edge">
-<title>Node3&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M355.81,-52.37C378.47,-42.26 409.63,-28.35 429.42,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="354.38,-49.17 346.67,-56.44 357.23,-55.56 354.38,-49.17"/>
+<title>Node4&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M333.5,-45.8C333.5,-36.91 333.5,-26.78 333.5,-19.75"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="330,-46.08 333.5,-56.08 337,-46.08 330,-46.08"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a xlink:href="_e57_format_8cpp.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="520,-0.5 520,-19.5 605,-19.5 605,-0.5 520,-0.5"/>
-<text text-anchor="middle" x="562.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">E57Format.cpp</text>
+<g id="a_node8"><a xlink:href="_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="401.5,-0.5 401.5,-19.5 479.5,-19.5 479.5,-0.5 401.5,-0.5"/>
+<text text-anchor="middle" x="440.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">NodeImpl.cpp</text>
 </a>
 </g>
 </g>
-<!-- Node3&#45;&gt;Node8 -->
+<!-- Node4&#45;&gt;Node8 -->
 <g id="edge7" class="edge">
-<title>Node3&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M374.71,-54.15C419.11,-43.95 484.69,-28.88 525.44,-19.52"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="373.7,-50.79 364.74,-56.44 375.27,-57.62 373.7,-50.79"/>
+<title>Node4&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M359.8,-51.73C379.61,-41.73 406.21,-28.31 423.35,-19.65"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="358.04,-48.69 350.69,-56.32 361.2,-54.94 358.04,-48.69"/>
+</g>
+<!-- Node9 -->
+<g id="node9" class="node">
+<title>Node9</title>
+<g id="a_node9"><a xlink:href="_vector_node_impl_8cpp.html" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="498,-0.5 498,-19.5 605,-19.5 605,-0.5 498,-0.5"/>
+<text text-anchor="middle" x="551.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">VectorNodeImpl.cpp</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node9 -->
+<g id="edge8" class="edge">
+<title>Node4&#45;&gt;Node9</title>
+<path fill="none" stroke="midnightblue" d="M377.81,-54.02C418.99,-43.82 479.47,-28.84 517.12,-19.52"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="376.91,-50.64 368.04,-56.44 378.59,-57.44 376.91,-50.64"/>
 </g>
 </g>
 </svg>
