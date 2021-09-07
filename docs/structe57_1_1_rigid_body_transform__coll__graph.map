@@ -1,5 +1,0 @@
-<map id="e57::RigidBodyTransform" name="e57::RigidBodyTransform">
-<area shape="rect" id="node1" title="Defines a rigid body transform in cartesian coordinates." alt="" coords="48,95,221,121"/>
-<area shape="rect" id="node2" href="$structe57_1_1_quaternion.html" title="Represents a rigid body rotation." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="node3" href="$structe57_1_1_translation.html" title="Defines a rigid body translation in Cartesian coordinates." alt="" coords="147,5,264,32"/>
-</map>

@@ -43,7 +43,7 @@ var NAVTREE =
       [ "How can I get help?", "index.html#autotoc_md12", null ],
       [ "How can I help?", "index.html#autotoc_md13", null ]
     ] ],
-    [ "Copyright", "md_supplemental_copyright.html", null ],
+    [ "Copyright", "d5/d90/md_supplemental_copyright.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -82,18 +82,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_blob_node_impl_8cpp.html",
-"class_e57_file_input_stream.html#ac84c0c98794225a4c7fc6965d5182e46",
-"classe57_1_1_blob_node_impl.html#a3d0fd3932e399d9d1508c17253f68a0a",
-"classe57_1_1_compressed_vector_reader_impl.html#a2067381364b5167014c4f809a99e1d95",
-"classe57_1_1_e57_exception.html#a8bdff13f6d071459863fb68c4fbb3de9",
-"classe57_1_1_image_file_impl.html#a5964f189ac02ccec8951f51891f58aa0",
-"classe57_1_1_packet_read_cache.html#a304f035ae5fce5e1a05583c47d3e57f4",
-"classe57_1_1_source_dest_buffer_impl.html#a29ef3182951dbfddabb1c4b0ef97cbcd",
-"classe57_1_1_vector_node_impl.html#ad98d199c0ea8e601c71fd10574efef87",
-"namespacee57.html#a99aed1effce36df6e2146d3c237807f6",
-"structe57_1_1_data3_d_points_data__t.html#a986b0a5d3514c5f2e643a021d2289c09",
-"structe57_1_1_point_standardized_fields_available.html#a0bc5f5326079729675f00dc32da0441a"
+"annotated.html",
+"d1/d59/classe57_1_1_image_file_impl.html#a8accc3528021208808a047619231ff0e",
+"d2/df3/structe57_1_1_rigid_body_transform.html",
+"d4/d6f/classe57_1_1_scaled_integer_node.html#aa8b6e1f0b213fc160d18ce29da1d8a99",
+"d6/d4e/classe57_1_1_bitpack_encoder.html#a4841cb031fe9f6891186f66ecc623cf8",
+"d7/d4c/structe57_1_1_index_bounds.html#a72e5572b6836fde559ac443b70eb1f48",
+"d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#a11dd947fcaaad10cc52033e49b59c68b",
+"da/dac/classe57_1_1_vector_node.html#a3b2c35064d67b05785c9b4b17d926691",
+"dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4a668d330dead7d7b65dd037827b0890a2",
+"dc/d60/classe57_1_1_node_impl.html#a6e5304c0c93b5be1f16f28b05775d3b1",
+"dd/d7a/structe57_1_1_pinhole_representation.html#af8d706685f7618a2db3f03c942cb824b",
+"df/d39/classe57_1_1_source_dest_buffer.html#a420159aaec78c9aa2a472499427b3eae"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
