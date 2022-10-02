@@ -1,4 +1,4 @@
-# Copyright
+# Copyright {#copyright}
 
 Copyright 2010 Kevin Ackley (kackley@gwi.net)
 
