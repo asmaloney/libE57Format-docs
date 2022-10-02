@@ -10,3 +10,7 @@ The docs will be generated in the `docs` directory.
 # libE57Format Library
 
 For information about the libE57Format library, please see its [GitHub repo](https://github.com/asmaloney/libE57Format).
+
+# CSS Theme
+
+These docs use the [doxygen-awesome](https://github.com/jothepro/doxygen-awesome-css) CSS theme.
