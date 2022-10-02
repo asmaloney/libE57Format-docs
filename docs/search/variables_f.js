@@ -1,28 +1,4 @@
 var searchData=
 [
-  ['radius_0',['radius',['../df/d8e/structe57_1_1_cylindrical_representation.html#a6bd9a444cf2eb94ab430560f5a783d70',1,'e57::CylindricalRepresentation']]],
-  ['rangemaximum_1',['rangeMaximum',['../d2/d00/structe57_1_1_spherical_bounds.html#a8416a08ba6256fa146278d7fd58509a9',1,'e57::SphericalBounds']]],
-  ['rangeminimum_2',['rangeMinimum',['../d2/d00/structe57_1_1_spherical_bounds.html#a81df0cec4e3aaa10a9b5d25fcccd845a',1,'e57::SphericalBounds']]],
-  ['readercount_5f_3',['readerCount_',['../d1/d59/classe57_1_1_image_file_impl.html#a25d4aa31c30184919f0f1192e7e4fc3a',1,'e57::ImageFileImpl']]],
-  ['readingprefix_5f_4',['readingPrefix_',['../d9/d8f/classe57_1_1_bitpack_string_decoder.html#ae9862a65a956e5cfba0dac7f6a7755b5',1,'e57::BitpackStringDecoder']]],
-  ['readonly_5f_5',['readOnly_',['../dd/d96/classe57_1_1_checked_file.html#a04aaf501869299f6be4fd5d06bce8839',1,'e57::CheckedFile']]],
-  ['recordcount_6',['recordCount',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#ab7dfb3b6068db1f5c4284a171f1a65c4',1,'e57::E57XmlParser::ParseInfo']]],
-  ['recordcount_5f_7',['recordCount_',['../d2/d69/classe57_1_1_compressed_vector_node_impl.html#a641a460cdc62c884bcfdf5d197ef3c84',1,'e57::CompressedVectorNodeImpl::recordCount_()'],['../d9/dd3/classe57_1_1_compressed_vector_reader_impl.html#adc46286c662d906830c82105333f67e6',1,'e57::CompressedVectorReaderImpl::recordCount_()'],['../d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#a4a8bcf009e93661f1219f503f70fbcfe',1,'e57::CompressedVectorWriterImpl::recordCount_()']]],
-  ['register_5f_8',['register_',['../d0/d93/classe57_1_1_bitpack_integer_encoder.html#af87c57a3fb4a5d242faa8bbf7e547a99',1,'e57::BitpackIntegerEncoder']]],
-  ['registerbitsused_5f_9',['registerBitsUsed_',['../d0/d93/classe57_1_1_bitpack_integer_encoder.html#ae154028dafbdafc41bd7bf7aeedc26e7',1,'e57::BitpackIntegerEncoder']]],
-  ['relativehumidity_10',['relativeHumidity',['../da/d40/structe57_1_1_data3_d.html#a469e9665ffc55b3ebdea882e83dfc9f1',1,'e57::Data3D']]],
-  ['reserved1_11',['reserved1',['../d3/db1/struct_index_packet.html#a0b3e4cee417b149e5794e6a08dafbd5a',1,'IndexPacket::reserved1()'],['../d1/d17/struct_empty_packet_header.html#a47cfb55306fb4558795b8020aaa75645',1,'EmptyPacketHeader::reserved1()'],['../dc/d57/structe57_1_1_blob_section_header.html#a46b1f03cffe32c7660218acf4a06f0a0',1,'e57::BlobSectionHeader::reserved1()'],['../d8/d6d/structe57_1_1_compressed_vector_section_header.html#a9443fb9578d029b61a83dcdbe2759c90',1,'e57::CompressedVectorSectionHeader::reserved1()']]],
-  ['returncount_12',['returnCount',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#afce9dce925509ddd22ef0579881246c4',1,'e57::Data3DPointsData_t']]],
-  ['returncountfield_13',['returnCountField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a0c39514bba6ccb6bad52b72478d177f4',1,'e57::PointStandardizedFieldsAvailable']]],
-  ['returnindex_14',['returnIndex',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a2aa41f1198e65a2ccdc88a78610abc3f',1,'e57::Data3DPointsData_t']]],
-  ['returnindexfield_15',['returnIndexField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a298c5593ffae682a5bdb7027108560ee',1,'e57::PointStandardizedFieldsAvailable']]],
-  ['returnmaximum_16',['returnMaximum',['../d7/d4c/structe57_1_1_index_bounds.html#aea0caad065f56393fb65055626c59194',1,'e57::IndexBounds::returnMaximum()'],['../dc/d25/structe57_1_1_point_standardized_fields_available.html#adaf2a981788f61b1bebc0e1052da3289',1,'e57::PointStandardizedFieldsAvailable::returnMaximum()']]],
-  ['returnminimum_17',['returnMinimum',['../d7/d4c/structe57_1_1_index_bounds.html#a4f91ef434110d5a289d2f95e00b2a309',1,'e57::IndexBounds']]],
-  ['root_5f_18',['root_',['../d1/d59/classe57_1_1_image_file_impl.html#a6db9b997be12efc8eb889a26ea8c8efd',1,'e57::ImageFileImpl::root_()'],['../de/d5c/classe57_1_1_reader_impl.html#af638949a0226168c6be110f73ff60296',1,'e57::ReaderImpl::root_()'],['../de/d7c/classe57_1_1_writer_impl.html#a8ebda886edb078f7e5a94a61a463d7a5',1,'e57::WriterImpl::root_()']]],
-  ['rotation_19',['rotation',['../d2/df3/structe57_1_1_rigid_body_transform.html#a6b8b47f8cc6778c4608bcafa994cbc22',1,'e57::RigidBodyTransform']]],
-  ['rowindex_20',['rowIndex',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#abb7861c9c918ede51ec3e471cf8f8952',1,'e57::Data3DPointsData_t']]],
-  ['rowindexfield_21',['rowIndexField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a80e0490ec4f90fc7be0a953be4c0c19a',1,'e57::PointStandardizedFieldsAvailable']]],
-  ['rowindexmaximum_22',['rowIndexMaximum',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ace9df25bd208a739a202a3f5bc1bff76',1,'e57::PointStandardizedFieldsAvailable']]],
-  ['rowmaximum_23',['rowMaximum',['../d7/d4c/structe57_1_1_index_bounds.html#a1777fa0172cab7f341bf94deef62ed4a',1,'e57::IndexBounds']]],
-  ['rowminimum_24',['rowMinimum',['../d7/d4c/structe57_1_1_index_bounds.html#ad5401a4af6ac8f342a28f130449457b9',1,'e57::IndexBounds']]]
+  ['w_0',['w',['../dc/da9/structe57_1_1_quaternion.html#af833e7cab7cc75b9ea8a37259e1859ac',1,'e57::Quaternion']]]
 ];

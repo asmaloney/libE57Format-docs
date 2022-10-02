@@ -1,20 +1,11 @@
 var searchData=
 [
-  ['data3d_5f_0',['data3D_',['../de/d5c/classe57_1_1_reader_impl.html#a4a4c5c3a04e4fe7256515f5f1fbf2382',1,'e57::ReaderImpl::data3D_()'],['../de/d7c/classe57_1_1_writer_impl.html#a346fb658176405dda651849d76845a3a',1,'e57::WriterImpl::data3D_()']]],
-  ['data3dsize_1',['data3DSize',['../d4/dc0/structe57_1_1_e57_root.html#adf14ed381f24563935dde639478d519a',1,'e57::E57Root']]],
-  ['data_5fpacket_5fmax_2',['DATA_PACKET_MAX',['../dc/d1c/namespacee57.html#acd53d624e3b54e4c2dc4647400370272',1,'e57']]],
-  ['datapacket_5f_3',['dataPacket_',['../d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#a11dd947fcaaad10cc52033e49b59c68b',1,'e57::CompressedVectorWriterImpl']]],
-  ['datapacketscount_5f_4',['dataPacketsCount_',['../d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#a8c1d168492999b565d35dd604dc2d443',1,'e57::CompressedVectorWriterImpl']]],
-  ['dataphysicaloffset_5',['dataPhysicalOffset',['../d8/d6d/structe57_1_1_compressed_vector_section_header.html#a2f0cf30f4238793f8d857c3a36baf4df',1,'e57::CompressedVectorSectionHeader']]],
-  ['dataphysicaloffset_5f_6',['dataPhysicalOffset_',['../d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#afe4a0e68845870b2dc2020721909eb77',1,'e57::CompressedVectorWriterImpl']]],
-  ['datetimevalue_7',['dateTimeValue',['../d1/dd7/structe57_1_1_date_time.html#ae5a42a6a2d0e21cc6dab6f91e9adb35c',1,'e57::DateTime']]],
-  ['dbuf_8',['dbuf',['../da/d18/structe57_1_1_decode_channel.html#a3a3d53be6f9c4a65558509b83d971fcc',1,'e57::DecodeChannel']]],
-  ['dbufs_5f_9',['dbufs_',['../d9/dd3/classe57_1_1_compressed_vector_reader_impl.html#a9fc9fe7115812bf2bc4489d3d6ef741d',1,'e57::CompressedVectorReaderImpl']]],
-  ['decoder_10',['decoder',['../da/d18/structe57_1_1_decode_channel.html#adc824fa241998c1011cbef43ed83ce44',1,'e57::DecodeChannel']]],
-  ['description_11',['description',['../da/d40/structe57_1_1_data3_d.html#ad64faece559176e53b0aa1405ea6e9b8',1,'e57::Data3D::description()'],['../d1/d28/structe57_1_1_image2_d.html#a2b11ddc508b64aa7e8269be1a3a92d90',1,'e57::Image2D::description()']]],
-  ['destbitmask_5f_12',['destBitMask_',['../d9/d17/classe57_1_1_bitpack_integer_decoder.html#a98aaedcb1cc821bba68f297561a20344',1,'e57::BitpackIntegerDecoder']]],
-  ['destbuffer_5f_13',['destBuffer_',['../d5/df3/classe57_1_1_bitpack_decoder.html#a782dcb29181887f804934786dea6ccad',1,'e57::BitpackDecoder::destBuffer_()'],['../d3/d10/classe57_1_1_constant_integer_decoder.html#a6e2b41288ddeabf65370a2019e68ddd3',1,'e57::ConstantIntegerDecoder::destBuffer_()']]],
-  ['destimagefile_5f_14',['destImageFile_',['../dc/d60/classe57_1_1_node_impl.html#a0c9c8482ec495e73bada4ed7861efbd1',1,'e57::NodeImpl::destImageFile_()'],['../db/de2/classe57_1_1_source_dest_buffer_impl.html#a742acc9639b7693fc06938ca957a48bd',1,'e57::SourceDestBufferImpl::destImageFile_()']]],
-  ['doconversion_5f_15',['doConversion_',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#aa2c8b3c339271aa01eff7aa36dec7a3c',1,'e57::SourceDestBufferImpl']]],
-  ['doscaling_5f_16',['doScaling_',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#a133dae50e5c6ffcac58ffc4b13226fe3',1,'e57::SourceDestBufferImpl']]]
+  ['e57_5fformat_5fmajor_0',['E57_FORMAT_MAJOR',['../dc/d1c/namespacee57.html#a0d3c28919dc305c1072ed688e8e07216',1,'e57']]],
+  ['e57_5fformat_5fminor_1',['E57_FORMAT_MINOR',['../dc/d1c/namespacee57.html#abd2406dd8b622778a9b6552a0e465923',1,'e57']]],
+  ['e57_5fnot_5fscaled_5fuse_5ffloat_2',['E57_NOT_SCALED_USE_FLOAT',['../dc/d1c/namespacee57.html#aa0330b9b080afb0b0e46ef5ff69838b8',1,'e57']]],
+  ['e57_5fnot_5fscaled_5fuse_5finteger_3',['E57_NOT_SCALED_USE_INTEGER',['../dc/d1c/namespacee57.html#a76d6dc9d4d8327c5fd4e28ee36c07477',1,'e57']]],
+  ['e57_5fv1_5f0_5furi_4',['E57_V1_0_URI',['../dc/d1c/namespacee57.html#a0aa74ddcae83c86ef7fd9397771a6736',1,'e57']]],
+  ['e57libraryversion_5',['e57LibraryVersion',['../d4/dc0/structe57_1_1_e57_root.html#ac12f97079492ff51ea5e93632ba1faa5',1,'e57::E57Root']]],
+  ['elevationmaximum_6',['elevationMaximum',['../d2/d00/structe57_1_1_spherical_bounds.html#a10f8c76085deeebab9946eacf7822612',1,'e57::SphericalBounds']]],
+  ['elevationminimum_7',['elevationMinimum',['../d2/d00/structe57_1_1_spherical_bounds.html#a9b24a243698b14bf0d011233f74b501a',1,'e57::SphericalBounds']]]
 ];

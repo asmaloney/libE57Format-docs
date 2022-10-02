@@ -1,12 +1,20 @@
 var searchData=
 [
-  ['name_0',['name',['../da/d40/structe57_1_1_data3_d.html#aa20ac97ac2e13de8fc5c1d294d3ef624',1,'e57::Data3D::name()'],['../d1/d28/structe57_1_1_image2_d.html#a452ac738275d8ad44edefbd7497b8eb0',1,'e57::Image2D::name()']]],
-  ['namespaces_5f_1',['nameSpaces_',['../d1/d59/classe57_1_1_image_file_impl.html#ac52d30e320764b5ca49e5114b1b45d6d',1,'e57::ImageFileImpl']]],
-  ['nbytesprefixread_5f_2',['nBytesPrefixRead_',['../d9/d8f/classe57_1_1_bitpack_string_decoder.html#ad6eec8e734dd33469f00a10f3aa223bc',1,'e57::BitpackStringDecoder']]],
-  ['nbytesstringread_5f_3',['nBytesStringRead_',['../d9/d8f/classe57_1_1_bitpack_string_decoder.html#aca89cf3135596de6b57a81de97c553ee',1,'e57::BitpackStringDecoder']]],
-  ['nextindex_5f_4',['nextIndex_',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#aee80b58d2e2efbe45a1b09f98e3975ff',1,'e57::SourceDestBufferImpl']]],
-  ['nodetype_5',['nodeType',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#afba09003fdd5e9767e9a6b8cb7b3d95f',1,'e57::E57XmlParser::ParseInfo']]],
-  ['normalx_6',['normalX',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ac3445e50508edc2e741dc384c7f8f7e0',1,'e57::PointStandardizedFieldsAvailable::normalX()'],['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a1a3daf5db0db82ec7bcd37a091cdf5e8',1,'e57::Data3DPointsData_t::normalX()']]],
-  ['normaly_7',['normalY',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a2b9ef68e208f7bb105a2ce12cda85fde',1,'e57::PointStandardizedFieldsAvailable::normalY()'],['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a2a6f525450608f25fd040230c328ce5d',1,'e57::Data3DPointsData_t::normalY()']]],
-  ['normalz_8',['normalZ',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a137e3c03639aaecb3a1974d3ef29228a',1,'e57::PointStandardizedFieldsAvailable::normalZ()'],['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a12ba944678e15adcc612dd8802d984a8',1,'e57::Data3DPointsData_t::normalZ()']]]
+  ['sensorfirmwareversion_0',['sensorFirmwareVersion',['../da/d40/structe57_1_1_data3_d.html#a91242b67cd49ca5d64ba16aaa0a69a71',1,'e57::Data3D']]],
+  ['sensorhardwareversion_1',['sensorHardwareVersion',['../da/d40/structe57_1_1_data3_d.html#a75fbfe31f5b36f0090fa184bbd0ed404',1,'e57::Data3D']]],
+  ['sensormodel_2',['sensorModel',['../da/d40/structe57_1_1_data3_d.html#aec7865ed72dd98e65291f95a4cac686b',1,'e57::Data3D::sensorModel()'],['../d1/d28/structe57_1_1_image2_d.html#a65368bbf868327433d2cd5cfa7753ec9',1,'e57::Image2D::sensorModel()']]],
+  ['sensorserialnumber_3',['sensorSerialNumber',['../da/d40/structe57_1_1_data3_d.html#ac530382b5a380d348c66988ca83d9ee2',1,'e57::Data3D::sensorSerialNumber()'],['../d1/d28/structe57_1_1_image2_d.html#ac13cf96893606544287b4943d196fcfe',1,'e57::Image2D::sensorSerialNumber()']]],
+  ['sensorsoftwareversion_4',['sensorSoftwareVersion',['../da/d40/structe57_1_1_data3_d.html#afca080fcd9170164c4587d9bad8e8dbb',1,'e57::Data3D']]],
+  ['sensorvendor_5',['sensorVendor',['../da/d40/structe57_1_1_data3_d.html#af087e80c26bc9228c2c5e6bf001256fe',1,'e57::Data3D::sensorVendor()'],['../d1/d28/structe57_1_1_image2_d.html#a1dc85d94cfd1e1195ef560bb5dc4a8b7',1,'e57::Image2D::sensorVendor()']]],
+  ['sphericalazimuth_6',['sphericalAzimuth',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a2b1659c1365536dbacc0b3fde4b3aca2',1,'e57::Data3DPointsData_t']]],
+  ['sphericalazimuthfield_7',['sphericalAzimuthField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ab46a602fe3e4d1dbeff2dfa1a6da9505',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['sphericalbounds_8',['sphericalBounds',['../de/d97/structe57_1_1_line_group_record.html#ae2868019be4b5917d99d17600f04e09c',1,'e57::LineGroupRecord::sphericalBounds()'],['../da/d40/structe57_1_1_data3_d.html#abfb4ae367634a767f42789f82c8263fe',1,'e57::Data3D::sphericalBounds()']]],
+  ['sphericalelevation_9',['sphericalElevation',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a34e7b8da647a7d4a3e1a2bc38af006c4',1,'e57::Data3DPointsData_t']]],
+  ['sphericalelevationfield_10',['sphericalElevationField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ab360d62415537375cd7905738424fe78',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['sphericalinvalidstate_11',['sphericalInvalidState',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a3c671302a687390f6a64c3030287a910',1,'e57::Data3DPointsData_t']]],
+  ['sphericalinvalidstatefield_12',['sphericalInvalidStateField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#abac2f2cbf4f828ae79c7bc53dfc2e590',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['sphericalrange_13',['sphericalRange',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#aa934433843b9d6d46111011bfc8b1995',1,'e57::Data3DPointsData_t']]],
+  ['sphericalrangefield_14',['sphericalRangeField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a2cf044fb82dbf6af9b1c82f8c25015f7',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['sphericalrepresentation_15',['sphericalRepresentation',['../d1/d28/structe57_1_1_image2_d.html#aaefc5f3f604ba4686711ddfbb11996c2',1,'e57::Image2D']]],
+  ['startpointindex_16',['startPointIndex',['../de/d97/structe57_1_1_line_group_record.html#a8c19b8f9fcd6b8e37c179fcd7715d5a5',1,'e57::LineGroupRecord']]]
 ];

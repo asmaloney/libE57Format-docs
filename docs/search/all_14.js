@@ -1,11 +1,9 @@
 var searchData=
 [
-  ['unlink_0',['unlink',['../dd/d96/classe57_1_1_checked_file.html#ac6cac1e0d2863c6aa6fd98389625ad4e',1,'e57::CheckedFile']]],
-  ['unlock_1',['unlock',['../d4/dc6/classe57_1_1_packet_read_cache.html#a5f6ba548bdb28b53a591c7a064712f21',1,'e57::PacketReadCache']]],
-  ['unusedlogicalstart_5f_2',['unusedLogicalStart_',['../d1/d59/classe57_1_1_image_file_impl.html#a05a79ac88a8d076dabbcdf57d8987a48',1,'e57::ImageFileImpl']]],
-  ['uri_3',['uri',['../d2/dcd/structe57_1_1_name_space.html#a199511efb8154b6161a9109eca67d022',1,'e57::NameSpace']]],
-  ['usecount_5f_4',['useCount_',['../d4/dc6/classe57_1_1_packet_read_cache.html#aabcd5a247d3680283479e188807f1e01',1,'e57::PacketReadCache']]],
-  ['ustring_5',['ustring',['../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de',1,'e57']]],
-  ['ustrings_6',['ustrings',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#a83ea1745432a326a3de779aaf888b852',1,'e57::SourceDestBufferImpl']]],
-  ['ustrings_5f_7',['ustrings_',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#a7c02ba6814a14febba4b27cb3902189d',1,'e57::SourceDestBufferImpl']]]
+  ['value_0',['value',['../d6/da6/classe57_1_1_integer_node.html#a9ebcd0dbafcd8ae38bf2a53800d28a35',1,'e57::IntegerNode::value()'],['../dd/d6c/classe57_1_1_float_node.html#a79c29c9b421fcfa616aa7e2657b0302a',1,'e57::FloatNode::value()'],['../d7/d34/classe57_1_1_string_node.html#a634de27debbc3b5a9d58441f4d5e8e9c',1,'e57::StringNode::value()']]],
+  ['vectornode_1',['VectorNode',['../da/dac/classe57_1_1_vector_node.html',1,'e57::VectorNode'],['../da/dac/classe57_1_1_vector_node.html#affb0761350c2599b3a85fcbeb7928424',1,'e57::VectorNode::VectorNode()=delete'],['../da/dac/classe57_1_1_vector_node.html#a60701e804de5f3429a0e0f0a72e6557f',1,'e57::VectorNode::VectorNode(ImageFile destImageFile, bool allowHeteroChildren=false)'],['../da/dac/classe57_1_1_vector_node.html#a3e85342520ced013df8a40c5e2dd1b14',1,'e57::VectorNode::VectorNode(const Node &amp;n)']]],
+  ['versionmajor_2',['versionMajor',['../d4/dc0/structe57_1_1_e57_root.html#ac234781def28bc0642ed713d5b4e6dca',1,'e57::E57Root']]],
+  ['versionminor_3',['versionMinor',['../d4/dc0/structe57_1_1_e57_root.html#ad8aed3a07e7c40e61bfc563034a33f84',1,'e57::E57Root']]],
+  ['visualreferencerepresentation_4',['VisualReferenceRepresentation',['../d9/d81/structe57_1_1_visual_reference_representation.html',1,'e57']]],
+  ['visualreferencerepresentation_5',['visualReferenceRepresentation',['../d1/d28/structe57_1_1_image2_d.html#afb07d3cef1df6049182eb0fde0672520',1,'e57::Image2D']]]
 ];

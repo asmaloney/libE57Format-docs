@@ -1,7 +1,7 @@
 <map id="E57Exception.h" name="E57Exception.h">
-<area shape="rect" id="node1" title=" " alt="" coords="131,5,247,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,84,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="108,80,181,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="205,80,260,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="285,80,381,107"/>
+<area shape="rect" id="node1" title="Exception handling for E57 API." alt="" coords="131,5,246,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,79,84,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="109,79,181,104"/>
+<area shape="rect" id="node4" title=" " alt="" coords="205,79,260,104"/>
+<area shape="rect" id="node5" title=" " alt="" coords="284,79,379,104"/>
 </map>

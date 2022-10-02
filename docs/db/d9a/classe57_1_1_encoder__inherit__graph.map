@@ -1,8 +1,0 @@
-<map id="e57::Encoder" name="e57::Encoder">
-<area shape="rect" id="node1" title=" " alt="" coords="5,89,107,116"/>
-<area shape="rect" id="node2" href="$d6/d4e/classe57_1_1_bitpack_encoder.html" title=" " alt="" coords="180,64,325,91"/>
-<area shape="rect" id="node6" href="$d9/d05/classe57_1_1_constant_integer_encoder.html" title=" " alt="" coords="155,115,351,141"/>
-<area shape="rect" id="node3" href="$dd/d88/classe57_1_1_bitpack_float_encoder.html" title=" " alt="" coords="405,5,579,32"/>
-<area shape="rect" id="node4" href="$d0/d93/classe57_1_1_bitpack_integer_encoder.html" title=" " alt="" coords="399,57,585,98"/>
-<area shape="rect" id="node5" href="$dc/df1/classe57_1_1_bitpack_string_encoder.html" title=" " alt="" coords="402,123,582,149"/>
-</map>

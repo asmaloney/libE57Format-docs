@@ -1,13 +1,19 @@
 var searchData=
 [
-  ['majorversion_0',['majorVersion',['../d8/d34/structe57_1_1_e57_file_header.html#adb51995fc353fa8e3d186f8e02d22856',1,'e57::E57FileHeader']]],
-  ['max_5fentries_1',['MAX_ENTRIES',['../d3/db1/struct_index_packet.html#aa2c233850e5fab97cec4c46960a17908',1,'IndexPacket']]],
-  ['maximum_2',['maximum',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#a0b41b591fbde55b801fe787391e9132c',1,'e57::E57XmlParser::ParseInfo']]],
-  ['maximum_5f_3',['maximum_',['../d9/d17/classe57_1_1_bitpack_integer_decoder.html#ace247ec0cd83f44c0e360c4f655a210a',1,'e57::BitpackIntegerDecoder::maximum_()'],['../d0/d93/classe57_1_1_bitpack_integer_encoder.html#a5a64b18fded34710705cad33c9a1aa07',1,'e57::BitpackIntegerEncoder::maximum_()'],['../d1/d31/classe57_1_1_float_node_impl.html#ac2e9a4ba40cbac4a278e79bd446bc6f1',1,'e57::FloatNodeImpl::maximum_()'],['../d3/d04/classe57_1_1_integer_node_impl.html#a2c83bfd9c6aa3562e41b3687e6f4c4ef',1,'e57::IntegerNodeImpl::maximum_()'],['../d6/def/classe57_1_1_scaled_integer_node_impl.html#a9fbe533a72c42f561a1a2c9676fb07f5',1,'e57::ScaledIntegerNodeImpl::maximum_()']]],
-  ['maxrecordcount_4',['maxRecordCount',['../da/d18/structe57_1_1_decode_channel.html#a4e7b955bc5190cd0ed7977ab46431c0c',1,'e57::DecodeChannel']]],
-  ['maxrecordcount_5f_5',['maxRecordCount_',['../d9/dd3/classe57_1_1_compressed_vector_reader_impl.html#a9c1451ef55342f7cb78f58b3215ed36f',1,'e57::CompressedVectorReaderImpl::maxRecordCount_()'],['../d5/df3/classe57_1_1_bitpack_decoder.html#a2e4581861229198f81134548b124b28e',1,'e57::BitpackDecoder::maxRecordCount_()'],['../d3/d10/classe57_1_1_constant_integer_decoder.html#adc91eb734e70ab6d705696fa34aafa44',1,'e57::ConstantIntegerDecoder::maxRecordCount_()']]],
-  ['memoryrepresentation_5f_6',['memoryRepresentation_',['../db/de2/classe57_1_1_source_dest_buffer_impl.html#a9edfec6a083f3326a2f7548db78a7177',1,'e57::SourceDestBufferImpl']]],
-  ['minimum_7',['minimum',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#a8bc08bafd60b55874dbebae4c9243ab8',1,'e57::E57XmlParser::ParseInfo']]],
-  ['minimum_5f_8',['minimum_',['../d9/d17/classe57_1_1_bitpack_integer_decoder.html#a1bd997382f72d516d1ccc11de0de2e25',1,'e57::BitpackIntegerDecoder::minimum_()'],['../d3/d10/classe57_1_1_constant_integer_decoder.html#a04457c8f1155dccccb3b1ed6ca48234e',1,'e57::ConstantIntegerDecoder::minimum_()'],['../d0/d93/classe57_1_1_bitpack_integer_encoder.html#a7add6bd31a830bb9a0a690f8e95c9a23',1,'e57::BitpackIntegerEncoder::minimum_()'],['../d9/d05/classe57_1_1_constant_integer_encoder.html#af65a87855ccbbb89df690eb1a1eb22fe',1,'e57::ConstantIntegerEncoder::minimum_()'],['../d1/d31/classe57_1_1_float_node_impl.html#a1c4d8ede29d79b255659ae91ccb393ac',1,'e57::FloatNodeImpl::minimum_()'],['../d3/d04/classe57_1_1_integer_node_impl.html#ab25b9543cde206ac2ee658f5bc354d09',1,'e57::IntegerNodeImpl::minimum_()'],['../d6/def/classe57_1_1_scaled_integer_node_impl.html#a6ebe0c549fc7f30bd42956fe489220f1',1,'e57::ScaledIntegerNodeImpl::minimum_()']]],
-  ['minorversion_9',['minorVersion',['../d8/d34/structe57_1_1_e57_file_header.html#a48e503440f697da51ead78b3be088725',1,'e57::E57FileHeader']]]
+  ['radius_0',['radius',['../df/d8e/structe57_1_1_cylindrical_representation.html#a6bd9a444cf2eb94ab430560f5a783d70',1,'e57::CylindricalRepresentation']]],
+  ['rangemaximum_1',['rangeMaximum',['../d2/d00/structe57_1_1_spherical_bounds.html#a8416a08ba6256fa146278d7fd58509a9',1,'e57::SphericalBounds']]],
+  ['rangeminimum_2',['rangeMinimum',['../d2/d00/structe57_1_1_spherical_bounds.html#a81df0cec4e3aaa10a9b5d25fcccd845a',1,'e57::SphericalBounds']]],
+  ['relativehumidity_3',['relativeHumidity',['../da/d40/structe57_1_1_data3_d.html#a469e9665ffc55b3ebdea882e83dfc9f1',1,'e57::Data3D']]],
+  ['returncount_4',['returnCount',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#afce9dce925509ddd22ef0579881246c4',1,'e57::Data3DPointsData_t']]],
+  ['returncountfield_5',['returnCountField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a0c39514bba6ccb6bad52b72478d177f4',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['returnindex_6',['returnIndex',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a2aa41f1198e65a2ccdc88a78610abc3f',1,'e57::Data3DPointsData_t']]],
+  ['returnindexfield_7',['returnIndexField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a298c5593ffae682a5bdb7027108560ee',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['returnmaximum_8',['returnMaximum',['../d7/d4c/structe57_1_1_index_bounds.html#aea0caad065f56393fb65055626c59194',1,'e57::IndexBounds::returnMaximum()'],['../dc/d25/structe57_1_1_point_standardized_fields_available.html#adaf2a981788f61b1bebc0e1052da3289',1,'e57::PointStandardizedFieldsAvailable::returnMaximum()']]],
+  ['returnminimum_9',['returnMinimum',['../d7/d4c/structe57_1_1_index_bounds.html#a4f91ef434110d5a289d2f95e00b2a309',1,'e57::IndexBounds']]],
+  ['rotation_10',['rotation',['../d2/df3/structe57_1_1_rigid_body_transform.html#a6b8b47f8cc6778c4608bcafa994cbc22',1,'e57::RigidBodyTransform']]],
+  ['rowindex_11',['rowIndex',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#abb7861c9c918ede51ec3e471cf8f8952',1,'e57::Data3DPointsData_t']]],
+  ['rowindexfield_12',['rowIndexField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a80e0490ec4f90fc7be0a953be4c0c19a',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['rowindexmaximum_13',['rowIndexMaximum',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ace9df25bd208a739a202a3f5bc1bff76',1,'e57::PointStandardizedFieldsAvailable']]],
+  ['rowmaximum_14',['rowMaximum',['../d7/d4c/structe57_1_1_index_bounds.html#a1777fa0172cab7f341bf94deef62ed4a',1,'e57::IndexBounds']]],
+  ['rowminimum_15',['rowMinimum',['../d7/d4c/structe57_1_1_index_bounds.html#ad5401a4af6ac8f342a28f130449457b9',1,'e57::IndexBounds']]]
 ];

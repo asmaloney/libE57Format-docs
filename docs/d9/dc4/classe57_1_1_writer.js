@@ -1,6 +1,7 @@
 var classe57_1_1_writer =
 [
-    [ "Writer", "d9/dc4/classe57_1_1_writer.html#a83393eb9872cf4bdd42d4aa1c64a032a", null ],
+    [ "Writer", "d9/dc4/classe57_1_1_writer.html#abcd7ba497313d4c649493099b373de88", null ],
+    [ "Writer", "d9/dc4/classe57_1_1_writer.html#aea8f48a1c5f5bb549739a097572ecf90", null ],
     [ "Close", "d9/dc4/classe57_1_1_writer.html#aec666d70aeb14a5c961eeac5ba90cd3f", null ],
     [ "GetRawData3D", "d9/dc4/classe57_1_1_writer.html#a92bf95471657f9893cb68020372324ce", null ],
     [ "GetRawE57Root", "d9/dc4/classe57_1_1_writer.html#afcd7492196d165907f7353779656d80c", null ],

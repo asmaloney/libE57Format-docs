@@ -1,5 +1,5 @@
 <map id="e57::PinholeRepresentation" name="e57::PinholeRepresentation">
-<area shape="rect" id="node1" title="Stores an image that is mapped from 3D using the pinhole camera projection model." alt="" coords="7,124,194,151"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,68,32"/>
-<area shape="rect" id="node3" title=" " alt="" coords="135,5,197,32"/>
+<area shape="rect" id="node1" title="Stores an image that is mapped from 3D using the pinhole camera projection model." alt="" coords="9,123,191,148"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,67,31"/>
+<area shape="rect" id="node3" title=" " alt="" coords="133,5,195,31"/>
 </map>

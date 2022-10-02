@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['copyright_0',['Copyright',['../d5/d90/md_supplemental_copyright.html',1,'']]]
+  ['astm_20standard_0',['ASTM Standard',['../d2/d73/_a_s_t_m.html',1,'']]]
 ];

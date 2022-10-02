@@ -6,6 +6,6 @@ var classe57_1_1_compressed_vector_writer =
     [ "compressedVectorNode", "d6/d11/classe57_1_1_compressed_vector_writer.html#addf84dce4da3036f0e5886e3ada6cf24", null ],
     [ "dump", "d6/d11/classe57_1_1_compressed_vector_writer.html#ae347b0318d51635b3fbf26f827a1ba39", null ],
     [ "isOpen", "d6/d11/classe57_1_1_compressed_vector_writer.html#a5f18003208a40fdf2e2dc7bf281433e9", null ],
-    [ "write", "d6/d11/classe57_1_1_compressed_vector_writer.html#a942b89edb591dc0e62c8cabd2ca44f5d", null ],
-    [ "write", "d6/d11/classe57_1_1_compressed_vector_writer.html#a829736157200d1c735d6fc283f6c56fb", null ]
+    [ "write", "d6/d11/classe57_1_1_compressed_vector_writer.html#ae4134c4458d67ee7cbadab4a1803c887", null ],
+    [ "write", "d6/d11/classe57_1_1_compressed_vector_writer.html#a657e9187b38736c8cac14a989263efac", null ]
 ];

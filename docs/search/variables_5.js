@@ -1,13 +1,6 @@
 var searchData=
 [
-  ['fd_5f_0',['fd_',['../dd/d96/classe57_1_1_checked_file.html#aa4fbd13f8b5a106020660ab673704dfc',1,'e57::CheckedFile']]],
-  ['file_5f_1',['file_',['../d1/d59/classe57_1_1_image_file_impl.html#a44a6575a8c6df530d9f2c8554ada711d',1,'e57::ImageFileImpl']]],
-  ['filename_5f_2',['fileName_',['../dd/d96/classe57_1_1_checked_file.html#a02575fa29f18f67fba8dc85d1cfa6159',1,'e57::CheckedFile::fileName_()'],['../d1/d59/classe57_1_1_image_file_impl.html#adc3a97a36878cabffb0521f027ba8825',1,'e57::ImageFileImpl::fileName_()']]],
-  ['fileoffset_3',['fileOffset',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#a60bb5c236409ad4a29aecbde34fa7acd',1,'e57::E57XmlParser::ParseInfo']]],
-  ['filephysicallength_4',['filePhysicalLength',['../d8/d34/structe57_1_1_e57_file_header.html#a5c75a75cd0a0a430fb8590b0db3dc728',1,'e57::E57FileHeader']]],
-  ['filesignature_5',['fileSignature',['../d8/d34/structe57_1_1_e57_file_header.html#a50ade8961d39fd85f6e5c010fea4db23',1,'e57::E57FileHeader']]],
-  ['floatmaximum_6',['floatMaximum',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#a85fcc0e6a48e97cf4a34e43ce686c30b',1,'e57::E57XmlParser::ParseInfo']]],
-  ['floatminimum_7',['floatMinimum',['../d1/d34/structe57_1_1_e57_xml_parser_1_1_parse_info.html#ad2591e9154607466396b80bf1cbe0ef4',1,'e57::E57XmlParser::ParseInfo']]],
-  ['focallength_8',['focalLength',['../dd/d7a/structe57_1_1_pinhole_representation.html#a5c456ea9ededdea77b6a7f2472163c48',1,'e57::PinholeRepresentation']]],
-  ['formatname_9',['formatName',['../d4/dc0/structe57_1_1_e57_root.html#a7d9f44ecbb8fea79a31a1485510520d3',1,'e57::E57Root']]]
+  ['groupingbyline_0',['groupingByLine',['../dd/d87/structe57_1_1_point_grouping_schemes.html#ac983cdf08cb4c99a54bde7e75fd1ff58',1,'e57::PointGroupingSchemes']]],
+  ['groupssize_1',['groupsSize',['../df/dfe/structe57_1_1_grouping_by_line.html#a2d859cac9f1f5901071c0eab74d07583',1,'e57::GroupingByLine']]],
+  ['guid_2',['guid',['../d4/dc0/structe57_1_1_e57_root.html#ab666bdd92d780956c88c0e7a19dfe5eb',1,'e57::E57Root::guid()'],['../da/d40/structe57_1_1_data3_d.html#a629adfd18ffe84d551c05d4dc6a5eac0',1,'e57::Data3D::guid()'],['../d1/d28/structe57_1_1_image2_d.html#a21ca8a7b3df2d669a7b997e149e23850',1,'e57::Image2D::guid()'],['../d4/de1/structe57_1_1_writer_options.html#ad899299952f46300a75294bbdda84f8e',1,'e57::WriterOptions::guid()']]]
 ];

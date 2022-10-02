@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['allocatespace_0',['allocateSpace',['../d1/d59/classe57_1_1_image_file_impl.html#a749073f4bda05e54caa3063987bc3d48',1,'e57::ImageFileImpl']]],
-  ['allowheterochildren_1',['allowHeteroChildren',['../da/dac/classe57_1_1_vector_node.html#a493a1d8445dcdadb60194a26074bb86c',1,'e57::VectorNode::allowHeteroChildren()'],['../d2/d6f/classe57_1_1_vector_node_impl.html#a91a5a42ed81dcf72c216060e8a8a9871',1,'e57::VectorNodeImpl::allowHeteroChildren()']]],
-  ['append_2',['append',['../da/dac/classe57_1_1_vector_node.html#a5de0cc03de9af2d529cbd0162af27c3f',1,'e57::VectorNode::append()'],['../d3/dfc/classe57_1_1_structure_node_impl.html#ad3f2b7e851ee213a77ed98c63015b0db',1,'e57::StructureNodeImpl::append()']]]
+  ['blobnode_0',['BlobNode',['../dc/d83/classe57_1_1_blob_node.html#ada88683c8f5d592a89113c2a528cf7d7',1,'e57::BlobNode::BlobNode()=delete'],['../dc/d83/classe57_1_1_blob_node.html#a65d8a306bbf955f5a421f3cbc104933d',1,'e57::BlobNode::BlobNode(ImageFile destImageFile, int64_t byteCount)'],['../dc/d83/classe57_1_1_blob_node.html#a3f580ddfebc2ba49bbedeadad10d18c5',1,'e57::BlobNode::BlobNode(const Node &amp;n)']]],
+  ['bytecount_1',['byteCount',['../dc/d83/classe57_1_1_blob_node.html#a48a69df2321e72b0e95aaa649129a542',1,'e57::BlobNode']]]
 ];

@@ -25,25 +25,23 @@
 var NAVTREE =
 [
   [ "libE57Format", "index.html", [
-    [ "libE57Format Documentation", "index.html", [
-      [ "Introduction", "index.html#autotoc_md1", [
-        [ "This Documentation", "index.html#autotoc_md2", null ]
-      ] ],
-      [ "Fork", "index.html#fork", [
-        [ "Why Fork?", "index.html#autotoc_md3", null ]
-      ] ],
-      [ "ASTM standard", "index.html#autotoc_md4", null ],
-      [ "Do I need to get the ASTM standard?", "index.html#autotoc_md5", null ],
-      [ "Is the E57 format XML?", "index.html#autotoc_md6", null ],
-      [ "The API objects", "index.html#autotoc_md7", null ],
-      [ "Set-once design", "index.html#autotoc_md8", null ],
-      [ "Handle semantics", "index.html#autotoc_md9", null ],
-      [ "No default constructors", "index.html#autotoc_md10", null ],
-      [ "How do I get a copy of the source?", "index.html#autotoc_md11", null ],
-      [ "How can I get help?", "index.html#autotoc_md12", null ],
-      [ "How can I help?", "index.html#autotoc_md13", null ]
+    [ "Code Fork", "d3/d3f/fork.html", [
+      [ "How do I get a copy of the source?", "index.html#autotoc_md0", null ],
+      [ "How can I get help?", "index.html#autotoc_md1", null ],
+      [ "How can I help?", "index.html#autotoc_md2", null ],
+      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md7", null ]
     ] ],
-    [ "Copyright", "d5/d90/md_supplemental_copyright.html", null ],
+    [ "ASTM Standard", "d2/d73/_a_s_t_m.html", [
+      [ "Do I need to get the ASTM standard?", "d2/d73/_a_s_t_m.html#autotoc_md8", null ],
+      [ "Is the E57 format XML?", "d2/d73/_a_s_t_m.html#autotoc_md9", null ]
+    ] ],
+    [ "Library Design", "db/db9/design.html", [
+      [ "The API objects", "db/db9/design.html#autotoc_md3", null ],
+      [ "Set-once design", "db/db9/design.html#autotoc_md4", null ],
+      [ "Handle semantics", "db/db9/design.html#autotoc_md5", null ],
+      [ "No default constructors", "db/db9/design.html#autotoc_md6", null ]
+    ] ],
+    [ "Copyright", "d1/d67/copyright.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -62,10 +60,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Variables", "functions_vars.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
@@ -73,7 +68,6 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -83,17 +77,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d59/classe57_1_1_image_file_impl.html#a8accc3528021208808a047619231ff0e",
-"d2/df3/structe57_1_1_rigid_body_transform.html",
-"d4/d6f/classe57_1_1_scaled_integer_node.html#aa8b6e1f0b213fc160d18ce29da1d8a99",
-"d6/d4e/classe57_1_1_bitpack_encoder.html#a4841cb031fe9f6891186f66ecc623cf8",
-"d7/d4c/structe57_1_1_index_bounds.html#a72e5572b6836fde559ac443b70eb1f48",
-"d9/d9b/classe57_1_1_compressed_vector_writer_impl.html#a11dd947fcaaad10cc52033e49b59c68b",
-"da/dac/classe57_1_1_vector_node.html#a3b2c35064d67b05785c9b4b17d926691",
-"dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4a668d330dead7d7b65dd037827b0890a2",
-"dc/d60/classe57_1_1_node_impl.html#a6e5304c0c93b5be1f16f28b05775d3b1",
-"dd/d7a/structe57_1_1_pinhole_representation.html#af8d706685f7618a2db3f03c942cb824b",
-"df/d39/classe57_1_1_source_dest_buffer.html#a420159aaec78c9aa2a472499427b3eae"
+"d4/d6f/classe57_1_1_scaled_integer_node.html#a4d20f7e16aa9aabee2a014974966a0bd",
+"d7/d34/classe57_1_1_string_node.html#aea889ab697c7a730eac09d6028480869",
+"db/df2/structe57_1_1_intensity_limits.html#a90443e86322613aebfbd545b2b1618ae",
+"dc/d83/classe57_1_1_blob_node.html#af4d051baebe82f61bf7caec83cea5d77",
+"functions_func_g.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

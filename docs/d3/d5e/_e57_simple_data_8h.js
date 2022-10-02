@@ -21,8 +21,8 @@ var _e57_simple_data_8h =
     [ "e57::SphericalRepresentation", "d9/d2d/structe57_1_1_spherical_representation.html", "d9/d2d/structe57_1_1_spherical_representation" ],
     [ "e57::CylindricalRepresentation", "df/d8e/structe57_1_1_cylindrical_representation.html", "df/d8e/structe57_1_1_cylindrical_representation" ],
     [ "e57::Image2D", "d1/d28/structe57_1_1_image2_d.html", "d1/d28/structe57_1_1_image2_d" ],
-    [ "Data3DPointsData", "d3/d5e/_e57_simple_data_8h.html#a99aed1effce36df6e2146d3c237807f6", null ],
-    [ "Data3DPointsData_d", "d3/d5e/_e57_simple_data_8h.html#ae77a805dd5e88bb7d1e40d8e40fd6af0", null ],
+    [ "Data3DPointsData", "d3/d5e/_e57_simple_data_8h.html#a2ef909d6c6c04302697226fd2ef9e5e1", null ],
+    [ "Data3DPointsData_d", "d3/d5e/_e57_simple_data_8h.html#a93808f05bfe31a143f77126734116e28", null ],
     [ "Image2DProjection", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5", [
       [ "E57_NO_PROJECTION", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a487b73b15e9ea76e39820dee8d2495b4", null ],
       [ "E57_VISUAL", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5af3ce03405c19f80b04339dd1d8b4a8c4", null ],
