@@ -140,48 +140,48 @@ $(document).ready(function(){initNavTree('d3/d3a/_e57_simple_writer_8h_source.ht
 <div class="line"><a id="l00045" name="l00045"></a><span class="lineno"><a class="line" href="../../d9/dc4/classe57_1_1_writer.html">   45</a></span>   <span class="keyword">class </span>E57_DLL <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a></div>
 <div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>   {</div>
 <div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>   <span class="keyword">public</span>:</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>      <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a>( <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;filePath, <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;coordinateMetadata = {} );</div>
-<div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span> </div>
-<div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>      <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a>( <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;filePath, <span class="keyword">const</span> <a class="code hl_struct" href="../../d4/de1/structe57_1_1_writer_options.html">WriterOptions</a> &amp;options );</div>
-<div class="line"><a id="l00057" name="l00057"></a><span class="lineno">   57</span> </div>
-<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span>      <span class="keywordtype">bool</span> IsOpen() <span class="keyword">const</span>;</div>
-<div class="line"><a id="l00060" name="l00060"></a><span class="lineno">   60</span> </div>
-<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>      <span class="keywordtype">bool</span> Close();</div>
-<div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span> </div>
-<div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span> </div>
-<div class="line"><a id="l00071" name="l00071"></a><span class="lineno">   71</span>      int64_t NewImage2D( <a class="code hl_struct" href="../../d1/d28/structe57_1_1_image2_d.html">Image2D</a> &amp;image2DHeader );</div>
-<div class="line"><a id="l00072" name="l00072"></a><span class="lineno">   72</span> </div>
-<div class="line"><a id="l00081" name="l00081"></a><span class="lineno">   81</span>      int64_t WriteImage2DData( int64_t imageIndex, <a class="code hl_enumeration" href="../../dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821">Image2DType</a> imageType, <a class="code hl_enumeration" href="../../dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5">Image2DProjection</a> imageProjection,</div>
-<div class="line"><a id="l00082" name="l00082"></a><span class="lineno">   82</span>                                <span class="keywordtype">void</span> *buffer, int64_t start, int64_t count );</div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span> </div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>      <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a>( <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;filePath, <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;coordinateMetadata = {} );</div>
+<div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span> </div>
+<div class="line"><a id="l00058" name="l00058"></a><span class="lineno">   58</span>      <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a>( <span class="keyword">const</span> <a class="code hl_typedef" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &amp;filePath, <span class="keyword">const</span> <a class="code hl_struct" href="../../d4/de1/structe57_1_1_writer_options.html">WriterOptions</a> &amp;options );</div>
+<div class="line"><a id="l00059" name="l00059"></a><span class="lineno">   59</span> </div>
+<div class="line"><a id="l00061" name="l00061"></a><span class="lineno">   61</span>      <span class="keywordtype">bool</span> IsOpen() <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span> </div>
+<div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span>      <span class="keywordtype">bool</span> Close();</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span> </div>
+<div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span> </div>
+<div class="line"><a id="l00073" name="l00073"></a><span class="lineno">   73</span>      int64_t NewImage2D( <a class="code hl_struct" href="../../d1/d28/structe57_1_1_image2_d.html">Image2D</a> &amp;image2DHeader );</div>
+<div class="line"><a id="l00074" name="l00074"></a><span class="lineno">   74</span> </div>
+<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>      int64_t WriteImage2DData( int64_t imageIndex, <a class="code hl_enumeration" href="../../dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821">Image2DType</a> imageType, <a class="code hl_enumeration" href="../../dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5">Image2DProjection</a> imageProjection,</div>
+<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span>                                <span class="keywordtype">void</span> *buffer, int64_t start, int64_t count );</div>
 <div class="line"><a id="l00085" name="l00085"></a><span class="lineno">   85</span> </div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span> </div>
-<div class="line"><a id="l00094" name="l00094"></a><span class="lineno">   94</span>      int64_t NewData3D( <a class="code hl_struct" href="../../da/d40/structe57_1_1_data3_d.html">Data3D</a> &amp;data3DHeader );</div>
-<div class="line"><a id="l00095" name="l00095"></a><span class="lineno">   95</span> </div>
-<div class="line"><a id="l00101" name="l00101"></a><span class="lineno">  101</span>      <a class="code hl_class" href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">CompressedVectorWriter</a> SetUpData3DPointsData( int64_t dataIndex, <span class="keywordtype">size_t</span> pointCount,</div>
-<div class="line"><a id="l00102" name="l00102"></a><span class="lineno">  102</span>                                                    <span class="keyword">const</span> <a class="code hl_struct" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">Data3DPointsData</a> &amp;buffers );</div>
-<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span> </div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>      <a class="code hl_class" href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">CompressedVectorWriter</a> SetUpData3DPointsData( int64_t dataIndex, <span class="keywordtype">size_t</span> pointCount,</div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>                                                    <span class="keyword">const</span> <a class="code hl_struct" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">Data3DPointsData_d</a> &amp;buffers );</div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span> </div>
-<div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>      <span class="keywordtype">bool</span> WriteData3DGroupsData( int64_t dataIndex, int64_t groupCount, int64_t *idElementValue,</div>
-<div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span>                                  int64_t *startPointIndex, int64_t *pointCount );</div>
-<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span> </div>
+<div class="line"><a id="l00087" name="l00087"></a><span class="lineno">   87</span> </div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span> </div>
+<div class="line"><a id="l00096" name="l00096"></a><span class="lineno">   96</span>      int64_t NewData3D( <a class="code hl_struct" href="../../da/d40/structe57_1_1_data3_d.html">Data3D</a> &amp;data3DHeader );</div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span> </div>
+<div class="line"><a id="l00103" name="l00103"></a><span class="lineno">  103</span>      <a class="code hl_class" href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">CompressedVectorWriter</a> SetUpData3DPointsData( int64_t dataIndex, <span class="keywordtype">size_t</span> pointCount,</div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>                                                    <span class="keyword">const</span> <a class="code hl_struct" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">Data3DPointsData</a> &amp;buffers );</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span> </div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>      <a class="code hl_class" href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">CompressedVectorWriter</a> SetUpData3DPointsData( int64_t dataIndex, <span class="keywordtype">size_t</span> pointCount,</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span>                                                    <span class="keyword">const</span> <a class="code hl_struct" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">Data3DPointsData_d</a> &amp;buffers );</div>
+<div class="line"><a id="l00113" name="l00113"></a><span class="lineno">  113</span> </div>
+<div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>      <span class="keywordtype">bool</span> WriteData3DGroupsData( int64_t dataIndex, int64_t groupCount, int64_t *idElementValue,</div>
+<div class="line"><a id="l00122" name="l00122"></a><span class="lineno">  122</span>                                  int64_t *startPointIndex, int64_t *pointCount );</div>
 <div class="line"><a id="l00123" name="l00123"></a><span class="lineno">  123</span> </div>
-<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span> </div>
-<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>      <a class="code hl_class" href="../../d5/de9/classe57_1_1_structure_node.html">StructureNode</a> GetRawE57Root();</div>
-<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>      <a class="code hl_class" href="../../da/dac/classe57_1_1_vector_node.html">VectorNode</a> GetRawData3D();</div>
-<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>      <a class="code hl_class" href="../../da/dac/classe57_1_1_vector_node.html">VectorNode</a> GetRawImages2D();</div>
-<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>      <a class="code hl_class" href="../../d6/d6f/classe57_1_1_image_file.html">ImageFile</a> GetRawIMF();</div>
-<div class="line"><a id="l00135" name="l00135"></a><span class="lineno">  135</span> </div>
+<div class="line"><a id="l00125" name="l00125"></a><span class="lineno">  125</span> </div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span> </div>
+<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>      <a class="code hl_class" href="../../d5/de9/classe57_1_1_structure_node.html">StructureNode</a> GetRawE57Root();</div>
+<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span>      <a class="code hl_class" href="../../da/dac/classe57_1_1_vector_node.html">VectorNode</a> GetRawData3D();</div>
+<div class="line"><a id="l00134" name="l00134"></a><span class="lineno">  134</span>      <a class="code hl_class" href="../../da/dac/classe57_1_1_vector_node.html">VectorNode</a> GetRawImages2D();</div>
+<div class="line"><a id="l00136" name="l00136"></a><span class="lineno">  136</span>      <a class="code hl_class" href="../../d6/d6f/classe57_1_1_image_file.html">ImageFile</a> GetRawIMF();</div>
 <div class="line"><a id="l00137" name="l00137"></a><span class="lineno">  137</span> </div>
-<div class="line"><a id="l00140" name="l00140"></a><span class="lineno">  140</span>   <span class="keyword">protected</span>:</div>
-<div class="line"><a id="l00141" name="l00141"></a><span class="lineno">  141</span>      <span class="keyword">friend</span> <span class="keyword">class </span>WriterImpl;</div>
-<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span> </div>
-<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>      E57_OBJECT_IMPLEMENTATION( <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a> ) <span class="comment">// Internal implementation details, not part of API, must be last in object</span></div>
-<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span><span class="comment"></span>   }; <span class="comment">// end Writer class</span></div>
-<div class="line"><a id="l00146" name="l00146"></a><span class="lineno">  146</span> </div>
-<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span>} <span class="comment">// end namespace e57</span></div>
+<div class="line"><a id="l00139" name="l00139"></a><span class="lineno">  139</span> </div>
+<div class="line"><a id="l00142" name="l00142"></a><span class="lineno">  142</span>   <span class="keyword">protected</span>:</div>
+<div class="line"><a id="l00143" name="l00143"></a><span class="lineno">  143</span>      <span class="keyword">friend</span> <span class="keyword">class </span>WriterImpl;</div>
+<div class="line"><a id="l00144" name="l00144"></a><span class="lineno">  144</span> </div>
+<div class="line"><a id="l00145" name="l00145"></a><span class="lineno">  145</span>      E57_OBJECT_IMPLEMENTATION( <a class="code hl_class" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a> ) <span class="comment">// Internal implementation details, not part of API, must be last in object</span></div>
+<div class="line"><a id="l00147" name="l00147"></a><span class="lineno">  147</span><span class="comment"></span>   }; <span class="comment">// end Writer class</span></div>
+<div class="line"><a id="l00148" name="l00148"></a><span class="lineno">  148</span> </div>
+<div class="line"><a id="l00149" name="l00149"></a><span class="lineno">  149</span>} <span class="comment">// end namespace e57</span></div>
 <div class="ttc" id="a_e57_simple_data_8h_html"><div class="ttname"><a href="../../d3/d5e/_e57_simple_data_8h.html">E57SimpleData.h</a></div><div class="ttdoc">Data structures for E57 Simple API.</div></div>
 <div class="ttc" id="aclasse57_1_1_compressed_vector_writer_html"><div class="ttname"><a href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">e57::CompressedVectorWriter</a></div><div class="ttdoc">An iterator object keeping track of a write in progress to a CompressedVectorNode.</div><div class="ttdef"><b>Definition:</b> E57Format.h:372</div></div>
 <div class="ttc" id="aclasse57_1_1_image_file_html"><div class="ttname"><a href="../../d6/d6f/classe57_1_1_image_file.html">e57::ImageFile</a></div><div class="ttdoc">An ASTM E57 3D format file object.</div><div class="ttdef"><b>Definition:</b> E57Format.h:641</div></div>
@@ -204,7 +204,7 @@ $(document).ready(function(){initNavTree('d3/d3a/_e57_simple_writer_8h_source.ht
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_55aa2e83ac3322d9b00141cab0d00173.html">libE57Format</a></li><li class="navelem"><a class="el" href="../../dir_a74708ac11a31e904939bed6b2855a02.html">include</a></li><li class="navelem"><a class="el" href="../../d3/d3a/_e57_simple_writer_8h.html">E57SimpleWriter.h</a></li>
-    <li class="footer">Generated on Sun Oct 2 2022 13:48:03 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Tue Oct 4 2022 16:28:46 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

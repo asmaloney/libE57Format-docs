@@ -29,19 +29,20 @@ var NAVTREE =
       [ "How do I get a copy of the source?", "index.html#autotoc_md0", null ],
       [ "How can I get help?", "index.html#autotoc_md1", null ],
       [ "How can I help?", "index.html#autotoc_md2", null ],
-      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md7", null ]
+      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md5", null ]
     ] ],
     [ "ASTM Standard", "d2/d73/_a_s_t_m.html", [
-      [ "Do I need to get the ASTM standard?", "d2/d73/_a_s_t_m.html#autotoc_md8", null ],
-      [ "Is the E57 format XML?", "d2/d73/_a_s_t_m.html#autotoc_md9", null ]
+      [ "Do I need to get the ASTM standard?", "d2/d73/_a_s_t_m.html#autotoc_md3", null ],
+      [ "Is the E57 format XML?", "d2/d73/_a_s_t_m.html#autotoc_md4", null ]
     ] ],
     [ "Library Design", "db/db9/design.html", [
-      [ "The API objects", "db/db9/design.html#autotoc_md3", null ],
-      [ "Set-once design", "db/db9/design.html#autotoc_md4", null ],
-      [ "Handle semantics", "db/db9/design.html#autotoc_md5", null ],
-      [ "No default constructors", "db/db9/design.html#autotoc_md6", null ]
+      [ "The API objects", "db/db9/design.html#autotoc_md6", null ],
+      [ "Set-once design", "db/db9/design.html#autotoc_md7", null ],
+      [ "Handle semantics", "db/db9/design.html#autotoc_md8", null ],
+      [ "No default constructors", "db/db9/design.html#autotoc_md9", null ]
     ] ],
     [ "Copyright", "d1/d67/copyright.html", null ],
+    [ "Deprecated List", "da/d58/deprecated.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -81,7 +82,7 @@ var NAVTREEINDEX =
 "d7/d34/classe57_1_1_string_node.html#aea889ab697c7a730eac09d6028480869",
 "db/df2/structe57_1_1_intensity_limits.html#a90443e86322613aebfbd545b2b1618ae",
 "dc/d83/classe57_1_1_blob_node.html#af4d051baebe82f61bf7caec83cea5d77",
-"functions_func_g.html"
+"functions_func_f.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
