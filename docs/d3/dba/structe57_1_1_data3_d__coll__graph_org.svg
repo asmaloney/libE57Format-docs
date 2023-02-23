@@ -1,1 +1,300 @@
-<svg height="434pt" viewBox="0 0 786 433.5" width="786pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(4 429.5)"><a xlink:title="Stores the top&#45;level information for a single lidar scan."><path d="m778-209h-72v19h72z" fill="#999" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="742" y="-197">e57::Data3D</text></a><a target="_top" xlink:href="../../d1/dd7/structe57_1_1_date_time.html" xlink:title="Encodes date and time."><path d="m533.5-414h-81v19h81z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-402">e57::DateTime</text></a><g><path d="m543.76-406.74c43.29.77 105.06 8.84 144.24 44.24 46.36 41.9 52.33 124.74 52.97 153.16" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m543.71-403.24-9.98-3.56 10.02-3.44z" fill="#9a32cd" stroke="#9a32cd"/><g font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle"><text x="635.5" y="-417.5">acquisitionEnd</text><text x="635.5" y="-406.5">acquisitionStart</text></g></g><a xlink:title=""><path d="m236.5-425h-46v19h46z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-413">int32_t</text></a><g><path d="m246.86-414.22c50.99 2.02 149.9 5.94 205.22 8.14" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m246.59-410.72-9.85-3.9 10.13-3.1z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-415.5">isAtomicClockReferenced</text></g><a target="_top" xlink:href="../../d2/df3/structe57_1_1_rigid_body_transform.html" xlink:title="Defines a rigid body transform in cartesian coordinates."><path d="m557-351h-128v19h128z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-339">e57::RigidBodyTransform</text></a><g><path d="m567.5-348.39c39.24.09 86.34 6.63 120.5 31.89 36.4 26.92 48.4 84.72 51.81 107.49" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m567.48-344.89-10.04-3.38 9.96-3.62z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-350.5">pose</text></g><a target="_top" xlink:href="../../dc/da9/structe57_1_1_quaternion.html" xlink:title="Represents a rigid body rotation."><path d="m256.5-388h-86v19h86z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-376">e57::Quaternion</text></a><g><path d="m266.79-373.12c37.88 4.08 90.29 10.08 136.21 16.62 11.32 1.61 23.43 3.53 34.94 5.44" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m266.08-369.67-9.58-4.55 10.32-2.41z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-373.5">rotation</text></g><a target="_top" xlink:href="../../d6/dad/structe57_1_1_translation.html" xlink:title="Defines a rigid body translation in Cartesian coordinates."><path d="m256.5-351h-86v19h86z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-339">e57::Translation</text></a><g><path d="m266.7-341.5h162.11" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m266.65-338-10-3.5 10-3.5z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-344.5">translation</text></g><a target="_top" xlink:href="../../d7/d4c/structe57_1_1_index_bounds.html" xlink:title="Stores the minimum and maximum of rowIndex, columnIndex, and returnIndex fields for a set of points."><path d="m391.5-246h-95v19h95z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-234">e57::IndexBounds</text></a><g><path d="m401.75-237.33c6.49-.07 13.02-.13 19.25-.17 118.78-.78 152.73-20.45 267 12 13.21 3.75 27.11 10.7 37.36 16.47" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m401.66-233.83-10.04-3.38 9.96-3.62z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-246.5">indexBounds</text></g><a xlink:title=""><path d="m46-232h-46v19h46z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="23" y="-220">int64_t</text></a><g><path d="m29.86-242.45c5.84-15.88 16.53-37.05 34.14-47.05 30.15-17.11 43.36-1.27 78 0 188.38 6.89 235.06 16.47 423 31 54.68 4.23 72.78-12.05 123 10 19.74 8.66 36.88 27.81 46 39.43" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m33.03-240.89-6.46 8.39-.18-10.59z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-284.5">pointsSize</text></g><g><path d="m56.39-222.29c23.71.04 56.67-.15 85.61-1.21 52.94-1.93 113.62-6.13 154.33-9.24" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m56.18-218.79-9.99-3.53 10.01-3.47z" fill="#9a32cd" stroke="#9a32cd"/><g font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle"><text x="103" y="-281.5">columnMaximum</text><text x="103" y="-270.5">columnMinimum</text><text x="103" y="-259.5">returnMaximum</text><text x="103" y="-248.5">returnMinimum</text><text x="103" y="-237.5">rowMaximum</text><text x="103" y="-226.5">rowMinimum</text></g></g><a target="_top" xlink:href="../../df/dfe/structe57_1_1_grouping_by_line.html" xlink:title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord."><path d="m267-191h-107v19h107z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-179">e57::GroupingByLine</text></a><g><path d="m35.05-204.35c6.97 9.62 16.93 20.53 28.95 25.85 34.67 15.34 78.48 12.07 109.51 6.51" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m31.94-202.7-2.63-10.26 8.46 6.37z" fill="#9a32cd" stroke="#9a32cd"/><g font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle"><text x="103" y="-192.5">groupsSize</text><text x="103" y="-181.5">pointCountSize</text></g></g><a target="_top" xlink:href="../../d7/d34/structe57_1_1_cartesian_bounds.html" xlink:title="Specifies an axis&#45;aligned box in local cartesian coordinates."><path d="m549.5-191h-113v19h113z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-179">e57::CartesianBounds</text></a><g><path d="m560.25-178.28c37.65.77 85.56-.03 127.75-6.22 8.04-1.18 16.59-3.23 24.41-5.44" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m559.83-174.79-9.91-3.75 10.08-3.25z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-187.5">cartesianBounds</text></g><a target="_top" xlink:href="../../d2/d00/structe57_1_1_spherical_bounds.html" xlink:title="Stores the bounds of some data in spherical coordinates."><path d="m549-154h-112v19h112z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-142">e57::SphericalBounds</text></a><g><path d="m559.22-142.31c38.54-.7 87.67-5.14 128.78-20.19 16.44-6.02 32.52-18.44 42.58-27.23" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m559.2-138.81-10.04-3.4 9.96-3.6z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-165.5">sphericalBounds</text></g><a target="_top" xlink:href="../../db/df2/structe57_1_1_intensity_limits.html" xlink:title="Specifies the limits for the value of signal intensity that a sensor is capable of producing."><path d="m544-117h-102v19h102z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-105">e57::IntensityLimits</text></a><g><path d="m554.62-101.52c40.33 1.16 93.09-2.94 133.38-25.98 25.2-14.41 41.86-46.19 49.02-62.27" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m554.24-98.03-9.85-3.91 10.13-3.09z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-130.5">intensityLimits</text></g><a target="_top" xlink:href="../../dc/dc8/structe57_1_1_color_limits.html" xlink:title="Specifies the limits for the value of red, green, and blue color that a sensor is capable of producin..."><path d="m537-80h-88v19h88z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-68">e57::ColorLimits</text></a><g><path d="m547.07-61.34c41.95 4.26 100.04 3.26 140.93-25.16 35.95-24.98 48.16-80.89 51.72-103.37" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m546.58-57.88-9.53-4.61 10.33-2.34z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-89.5">colorLimits</text></g><a target="_top" xlink:href="../../dd/d87/structe57_1_1_point_grouping_schemes.html" xlink:title="Supports the division of points within an Data3D into logical groupings."><path d="m563.5-228h-141v19h141z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-216">e57::PointGroupingSchemes</text></a><g><path d="m574.02-212.34c44.53 3.42 97.7 7.51 131.88 10.14" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m573.49-208.87-9.7-4.26 10.24-2.72z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-213.5">pointGroupingSchemes</text></g><g><path d="m277.12-189.85c43.19-5.76 100.64-13.42 145.26-19.37" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m277.4-186.36-10.38-2.14 9.45-4.79z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-209.5">groupingByLine</text></g><a target="_top" xlink:href="../../dc/d25/structe57_1_1_point_standardized_fields_available.html" xlink:title="Used to interrogate if standardized fields are available."><path d="m565-42.5h-144v30h144z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" x="429" y="-30.5">e57::PointStandardizedFields</text><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="493" y="-19.5">Available</text></a><g><path d="m575.42-15.03c37.84 1.34 81.28-4.04 112.58-28.47 47.35-36.96 52.68-118.26 53.07-146.28" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m575.23-11.53-9.8-4.01 10.16-2.98z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="635.5" y="-46.5">pointFields</text></g><a xlink:title=""><path d="m239-56h-51v19h51z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-44">uint32_t</text></a><g><path d="m249.32-44.12c42.84 2.94 116.65 7.99 171.65 11.76" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m248.86-40.64-9.73-4.17 10.21-2.81z" fill="#9a32cd" stroke="#9a32cd"/><g font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle"><text x="344" y="-55.5">columnIndexMaximum</text><text x="344" y="-44.5">rowIndexMaximum</text></g></g><a xlink:title=""><path d="m236.5-19h-46v19h46z" fill="#fff" stroke="#666"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="213.5" y="-7">uint8_t</text></a><g><path d="m246.95-8.86c37.62.43 101.45.21 156.05-4.64 5.76-.51 11.72-1.17 17.7-1.92" fill="none" stroke="#9a32cd" stroke-dasharray="5 2"/><path d="m246.56-5.37-9.95-3.64 10.05-3.36z" fill="#9a32cd" stroke="#9a32cd"/><text font-family="Helvetica,sans-Serif" font-size="10" text-anchor="middle" x="344" y="-16.5">returnMaximum</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generated by graphviz version 7.0.0 (20221023.0053)
+ -->
+<!-- Title: e57::Data3D Pages: 1 -->
+<svg width="786pt" height="434pt"
+ viewBox="0.00 0.00 786.00 433.50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 429.5)">
+<title>e57::Data3D</title>
+<!-- Node1 -->
+<g id="node1" class="node">
+<title>Node1</title>
+<g id="a_node1"><a xlink:title="Stores the top&#45;level information for a single lidar scan.">
+<polygon fill="#999999" stroke="#666666" points="778,-209 706,-209 706,-190 778,-190 778,-209"/>
+<text text-anchor="middle" x="742" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">e57::Data3D</text>
+</a>
+</g>
+</g>
+<!-- Node2 -->
+<g id="node2" class="node">
+<title>Node2</title>
+<g id="a_node2"><a xlink:href="../../d1/dd7/structe57_1_1_date_time.html" target="_top" xlink:title="Encodes date and time.">
+<polygon fill="white" stroke="#666666" points="533.5,-414 452.5,-414 452.5,-395 533.5,-395 533.5,-414"/>
+<text text-anchor="middle" x="493" y="-402" font-family="Helvetica,sans-Serif" font-size="10.00">e57::DateTime</text>
+</a>
+</g>
+</g>
+<!-- Node2&#45;&gt;Node1 -->
+<g id="edge1" class="edge">
+<title>Node2&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M545.14,-406.72C588.35,-405.8 649.24,-397.53 688,-362.5 734.36,-320.6 740.33,-237.76 740.97,-209.34"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="545.22,-403.22 535.24,-406.79 545.27,-410.22 545.22,-403.22"/>
+<text text-anchor="middle" x="635.5" y="-417.5" font-family="Helvetica,sans-Serif" font-size="10.00"> acquisitionEnd</text>
+<text text-anchor="middle" x="635.5" y="-406.5" font-family="Helvetica,sans-Serif" font-size="10.00">acquisitionStart</text>
+</g>
+<!-- Node3 -->
+<g id="node3" class="node">
+<title>Node3</title>
+<g id="a_node3"><a xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="236.5,-425 190.5,-425 190.5,-406 236.5,-406 236.5,-425"/>
+<text text-anchor="middle" x="213.5" y="-413" font-family="Helvetica,sans-Serif" font-size="10.00">int32_t</text>
+</a>
+</g>
+</g>
+<!-- Node3&#45;&gt;Node2 -->
+<g id="edge2" class="edge">
+<title>Node3&#45;&gt;Node2</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M248.15,-414.17C299.5,-412.13 397.22,-408.26 452.08,-406.08"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="248.11,-410.67 238.25,-414.56 248.38,-417.66 248.11,-410.67"/>
+<text text-anchor="middle" x="344" y="-415.5" font-family="Helvetica,sans-Serif" font-size="10.00"> isAtomicClockReferenced</text>
+</g>
+<!-- Node4 -->
+<g id="node4" class="node">
+<title>Node4</title>
+<g id="a_node4"><a xlink:href="../../d2/df3/structe57_1_1_rigid_body_transform.html" target="_top" xlink:title="Defines a rigid body transform in cartesian coordinates.">
+<polygon fill="white" stroke="#666666" points="557,-351 429,-351 429,-332 557,-332 557,-351"/>
+<text text-anchor="middle" x="493" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">e57::RigidBodyTransform</text>
+</a>
+</g>
+</g>
+<!-- Node4&#45;&gt;Node1 -->
+<g id="edge3" class="edge">
+<title>Node4&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M568.75,-348.38C607.73,-348.16 654.2,-341.5 688,-316.5 724.22,-289.71 736.28,-232.35 739.75,-209.35"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="568.99,-344.89 558.95,-348.29 568.92,-351.89 568.99,-344.89"/>
+<text text-anchor="middle" x="635.5" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00"> pose</text>
+</g>
+<!-- Node5 -->
+<g id="node5" class="node">
+<title>Node5</title>
+<g id="a_node5"><a xlink:href="../../dc/da9/structe57_1_1_quaternion.html" target="_top" xlink:title="Represents a rigid body rotation.">
+<polygon fill="white" stroke="#666666" points="256.5,-388 170.5,-388 170.5,-369 256.5,-369 256.5,-388"/>
+<text text-anchor="middle" x="213.5" y="-376" font-family="Helvetica,sans-Serif" font-size="10.00">e57::Quaternion</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node4 -->
+<g id="edge4" class="edge">
+<title>Node5&#45;&gt;Node4</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M268.13,-372.97C305.9,-368.9 357.63,-362.97 403,-356.5 413.55,-355 424.77,-353.23 435.57,-351.45"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="267.95,-369.47 258.38,-374.01 268.7,-376.43 267.95,-369.47"/>
+<text text-anchor="middle" x="344" y="-373.5" font-family="Helvetica,sans-Serif" font-size="10.00"> rotation</text>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a xlink:href="../../d6/dad/structe57_1_1_translation.html" target="_top" xlink:title="Defines a rigid body translation in Cartesian coordinates.">
+<polygon fill="white" stroke="#666666" points="256.5,-351 170.5,-351 170.5,-332 256.5,-332 256.5,-351"/>
+<text text-anchor="middle" x="213.5" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">e57::Translation</text>
+</a>
+</g>
+</g>
+<!-- Node6&#45;&gt;Node4 -->
+<g id="edge5" class="edge">
+<title>Node6&#45;&gt;Node4</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M268.45,-341.5C314.34,-341.5 380.31,-341.5 428.69,-341.5"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="268.46,-338 258.46,-341.5 268.46,-345 268.46,-338"/>
+<text text-anchor="middle" x="344" y="-344.5" font-family="Helvetica,sans-Serif" font-size="10.00"> translation</text>
+</g>
+<!-- Node7 -->
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="../../d7/d4c/structe57_1_1_index_bounds.html" target="_top" xlink:title="Stores the minimum and maximum of rowIndex, columnIndex, and returnIndex fields for a set of points.">
+<polygon fill="white" stroke="#666666" points="391.5,-246 296.5,-246 296.5,-227 391.5,-227 391.5,-246"/>
+<text text-anchor="middle" x="344" y="-234" font-family="Helvetica,sans-Serif" font-size="10.00">e57::IndexBounds</text>
+</a>
+</g>
+</g>
+<!-- Node7&#45;&gt;Node1 -->
+<g id="edge6" class="edge">
+<title>Node7&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M402.68,-237.34C408.86,-237.4 415.06,-237.46 421,-237.5 539.78,-238.28 573.73,-257.95 688,-225.5 701.01,-221.8 714.7,-215.01 724.9,-209.29"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="403.18,-233.84 393.14,-237.23 403.09,-240.84 403.18,-233.84"/>
+<text text-anchor="middle" x="493" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00"> indexBounds</text>
+</g>
+<!-- Node8 -->
+<g id="node8" class="node">
+<title>Node8</title>
+<g id="a_node8"><a xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="46,-232 0,-232 0,-213 46,-213 46,-232"/>
+<text text-anchor="middle" x="23" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">int64_t</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node1 -->
+<g id="edge18" class="edge">
+<title>Node8&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M30.21,-243.37C36.12,-259.14 46.73,-279.69 64,-289.5 94.15,-306.61 107.36,-290.77 142,-289.5 330.38,-282.61 377.06,-273.03 565,-258.5 619.68,-254.27 637.78,-270.55 688,-248.5 707.51,-239.94 724.48,-221.14 733.68,-209.48"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="33.54,-242.31 27.05,-233.93 26.9,-244.53 33.54,-242.31"/>
+<text text-anchor="middle" x="344" y="-284.5" font-family="Helvetica,sans-Serif" font-size="10.00"> pointCount</text>
+</g>
+<!-- Node8&#45;&gt;Node7 -->
+<g id="edge7" class="edge">
+<title>Node8&#45;&gt;Node7</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M57.68,-222.28C81.29,-222.26 113.58,-222.46 142,-223.5 194.94,-225.43 255.62,-229.63 296.33,-232.74"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="57.69,-218.78 47.71,-222.31 57.72,-225.78 57.69,-218.78"/>
+<text text-anchor="middle" x="103" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00"> columnMaximum</text>
+<text text-anchor="middle" x="103" y="-270.5" font-family="Helvetica,sans-Serif" font-size="10.00">columnMinimum</text>
+<text text-anchor="middle" x="103" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">returnMaximum</text>
+<text text-anchor="middle" x="103" y="-248.5" font-family="Helvetica,sans-Serif" font-size="10.00">returnMinimum</text>
+<text text-anchor="middle" x="103" y="-237.5" font-family="Helvetica,sans-Serif" font-size="10.00">rowMaximum</text>
+<text text-anchor="middle" x="103" y="-226.5" font-family="Helvetica,sans-Serif" font-size="10.00">rowMinimum</text>
+</g>
+<!-- Node14 -->
+<g id="node14" class="node">
+<title>Node14</title>
+<g id="a_node14"><a xlink:href="../../df/dfe/structe57_1_1_grouping_by_line.html" target="_top" xlink:title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord.">
+<polygon fill="white" stroke="#666666" points="267,-191 160,-191 160,-172 267,-172 267,-191"/>
+<text text-anchor="middle" x="213.5" y="-179" font-family="Helvetica,sans-Serif" font-size="10.00">e57::GroupingByLine</text>
+</a>
+</g>
+</g>
+<!-- Node8&#45;&gt;Node14 -->
+<g id="edge14" class="edge">
+<title>Node8&#45;&gt;Node14</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M35.95,-203.12C42.87,-193.81 52.49,-183.59 64,-178.5 97.72,-163.58 140.11,-166.27 170.95,-171.54"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="33.11,-201.08 30.39,-211.33 38.9,-205.01 33.11,-201.08"/>
+<text text-anchor="middle" x="103" y="-192.5" font-family="Helvetica,sans-Serif" font-size="10.00"> groupsSize</text>
+<text text-anchor="middle" x="103" y="-181.5" font-family="Helvetica,sans-Serif" font-size="10.00">pointCountSize</text>
+</g>
+<!-- Node9 -->
+<g id="node9" class="node">
+<title>Node9</title>
+<g id="a_node9"><a xlink:href="../../d7/d34/structe57_1_1_cartesian_bounds.html" target="_top" xlink:title="Specifies an axis&#45;aligned box in local cartesian coordinates.">
+<polygon fill="white" stroke="#666666" points="549.5,-191 436.5,-191 436.5,-172 549.5,-172 549.5,-191"/>
+<text text-anchor="middle" x="493" y="-179" font-family="Helvetica,sans-Serif" font-size="10.00">e57::CartesianBounds</text>
+</a>
+</g>
+</g>
+<!-- Node9&#45;&gt;Node1 -->
+<g id="edge8" class="edge">
+<title>Node9&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M561.22,-178.26C598.72,-177.52 646.17,-178.36 688,-184.5 695.57,-185.61 703.58,-187.49 711.03,-189.55"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="561.34,-174.76 551.43,-178.5 561.51,-181.76 561.34,-174.76"/>
+<text text-anchor="middle" x="635.5" y="-187.5" font-family="Helvetica,sans-Serif" font-size="10.00"> cartesianBounds</text>
+</g>
+<!-- Node10 -->
+<g id="node10" class="node">
+<title>Node10</title>
+<g id="a_node10"><a xlink:href="../../d2/d00/structe57_1_1_spherical_bounds.html" target="_top" xlink:title="Stores the bounds of some data in spherical coordinates.">
+<polygon fill="white" stroke="#666666" points="549,-154 437,-154 437,-135 549,-135 549,-154"/>
+<text text-anchor="middle" x="493" y="-142" font-family="Helvetica,sans-Serif" font-size="10.00">e57::SphericalBounds</text>
+</a>
+</g>
+</g>
+<!-- Node10&#45;&gt;Node1 -->
+<g id="edge9" class="edge">
+<title>Node10&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M560.21,-142.33C598.59,-143.09 647.24,-147.57 688,-162.5 704.44,-168.52 720.52,-180.94 730.58,-189.73"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="560.71,-138.83 550.67,-142.22 560.63,-145.83 560.71,-138.83"/>
+<text text-anchor="middle" x="635.5" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00"> sphericalBounds</text>
+</g>
+<!-- Node11 -->
+<g id="node11" class="node">
+<title>Node11</title>
+<g id="a_node11"><a xlink:href="../../db/df2/structe57_1_1_intensity_limits.html" target="_top" xlink:title="Specifies the limits for the value of signal intensity that a sensor is capable of producing.">
+<polygon fill="white" stroke="#666666" points="544,-117 442,-117 442,-98 544,-98 544,-117"/>
+<text text-anchor="middle" x="493" y="-105" font-family="Helvetica,sans-Serif" font-size="10.00">e57::IntensityLimits</text>
+</a>
+</g>
+</g>
+<!-- Node11&#45;&gt;Node1 -->
+<g id="edge10" class="edge">
+<title>Node11&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M555.65,-101.49C595.85,-100.43 648.05,-104.66 688,-127.5 713.06,-141.83 729.68,-173.35 736.9,-189.51"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="555.76,-97.99 545.9,-101.88 556.03,-104.98 555.76,-97.99"/>
+<text text-anchor="middle" x="635.5" y="-130.5" font-family="Helvetica,sans-Serif" font-size="10.00"> intensityLimits</text>
+</g>
+<!-- Node12 -->
+<g id="node12" class="node">
+<title>Node12</title>
+<g id="a_node12"><a xlink:href="../../dc/dc8/structe57_1_1_color_limits.html" target="_top" xlink:title="Specifies the limits for the value of red, green, and blue color that a sensor is capable of producin...">
+<polygon fill="white" stroke="#666666" points="537,-80 449,-80 449,-61 537,-61 537,-80"/>
+<text text-anchor="middle" x="493" y="-68" font-family="Helvetica,sans-Serif" font-size="10.00">e57::ColorLimits</text>
+</a>
+</g>
+</g>
+<!-- Node12&#45;&gt;Node1 -->
+<g id="edge11" class="edge">
+<title>Node12&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M548.8,-61.17C590.6,-57.11 647.67,-58.47 688,-86.5 723.77,-111.35 736.04,-166.84 739.66,-189.54"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="548.5,-57.69 538.95,-62.28 549.28,-64.64 548.5,-57.69"/>
+<text text-anchor="middle" x="635.5" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00"> colorLimits</text>
+</g>
+<!-- Node13 -->
+<g id="node13" class="node">
+<title>Node13</title>
+<g id="a_node13"><a xlink:href="../../dd/d87/structe57_1_1_point_grouping_schemes.html" target="_top" xlink:title="Supports the division of points within an Data3D into logical groupings.">
+<polygon fill="white" stroke="#666666" points="563.5,-228 422.5,-228 422.5,-209 563.5,-209 563.5,-228"/>
+<text text-anchor="middle" x="493" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">e57::PointGroupingSchemes</text>
+</a>
+</g>
+</g>
+<!-- Node13&#45;&gt;Node1 -->
+<g id="edge12" class="edge">
+<title>Node13&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M575.12,-212.26C619.27,-208.86 671.65,-204.83 705.56,-202.23"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="575,-208.76 565.3,-213.02 575.54,-215.74 575,-208.76"/>
+<text text-anchor="middle" x="635.5" y="-213.5" font-family="Helvetica,sans-Serif" font-size="10.00"> pointGroupingSchemes</text>
+</g>
+<!-- Node14&#45;&gt;Node13 -->
+<g id="edge13" class="edge">
+<title>Node14&#45;&gt;Node13</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M278.51,-190.03C321.42,-195.76 377.93,-203.29 422.03,-209.17"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="279.22,-186.6 268.85,-188.75 278.3,-193.54 279.22,-186.6"/>
+<text text-anchor="middle" x="344" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00"> groupingByLine</text>
+</g>
+<!-- Node15 -->
+<g id="node15" class="node">
+<title>Node15</title>
+<g id="a_node15"><a xlink:href="../../dc/d25/structe57_1_1_point_standardized_fields_available.html" target="_top" xlink:title="Used to interrogate if standardized fields are available.">
+<polygon fill="white" stroke="#666666" points="565,-42.5 421,-42.5 421,-12.5 565,-12.5 565,-42.5"/>
+<text text-anchor="start" x="429" y="-30.5" font-family="Helvetica,sans-Serif" font-size="10.00">e57::PointStandardizedFields</text>
+<text text-anchor="middle" x="493" y="-19.5" font-family="Helvetica,sans-Serif" font-size="10.00">Available</text>
+</a>
+</g>
+</g>
+<!-- Node15&#45;&gt;Node1 -->
+<g id="edge15" class="edge">
+<title>Node15&#45;&gt;Node1</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M576.87,-14.98C614.37,-13.83 657.1,-19.38 688,-43.5 735.35,-80.46 740.68,-161.76 741.07,-189.78"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="576.76,-11.48 566.94,-15.46 577.1,-18.47 576.76,-11.48"/>
+<text text-anchor="middle" x="635.5" y="-46.5" font-family="Helvetica,sans-Serif" font-size="10.00"> pointFields</text>
+</g>
+<!-- Node16 -->
+<g id="node16" class="node">
+<title>Node16</title>
+<g id="a_node16"><a xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="239,-56 188,-56 188,-37 239,-37 239,-56"/>
+<text text-anchor="middle" x="213.5" y="-44" font-family="Helvetica,sans-Serif" font-size="10.00">uint32_t</text>
+</a>
+</g>
+</g>
+<!-- Node16&#45;&gt;Node15 -->
+<g id="edge16" class="edge">
+<title>Node16&#45;&gt;Node15</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M250.4,-44.04C293.31,-41.1 366.16,-36.12 420.67,-32.38"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="250.37,-40.54 240.64,-44.71 250.85,-47.52 250.37,-40.54"/>
+<text text-anchor="middle" x="344" y="-55.5" font-family="Helvetica,sans-Serif" font-size="10.00"> columnIndexMaximum</text>
+<text text-anchor="middle" x="344" y="-44.5" font-family="Helvetica,sans-Serif" font-size="10.00">rowIndexMaximum</text>
+</g>
+<!-- Node17 -->
+<g id="node17" class="node">
+<title>Node17</title>
+<g id="a_node17"><a xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="236.5,-19 190.5,-19 190.5,0 236.5,0 236.5,-19"/>
+<text text-anchor="middle" x="213.5" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">uint8_t</text>
+</a>
+</g>
+</g>
+<!-- Node17&#45;&gt;Node15 -->
+<g id="edge17" class="edge">
+<title>Node17&#45;&gt;Node15</title>
+<path fill="none" stroke="#9a32cd" stroke-dasharray="5,2" d="M248.23,-8.85C286.01,-8.44 349.01,-8.7 403,-13.5 408.76,-14.01 414.72,-14.67 420.7,-15.42"/>
+<polygon fill="#9a32cd" stroke="#9a32cd" points="248.36,-5.35 238.41,-8.98 248.46,-12.35 248.36,-5.35"/>
+<text text-anchor="middle" x="344" y="-16.5" font-family="Helvetica,sans-Serif" font-size="10.00"> returnMaximum</text>
+</g>
+</g>
+</svg>

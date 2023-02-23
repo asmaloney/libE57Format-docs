@@ -1,5 +1,6 @@
 var classe57_1_1_reader =
 [
+    [ "Reader", "dc/dec/classe57_1_1_reader.html#ac1e856d3a1100a89197471aa0e6b27c4", null ],
     [ "Reader", "dc/dec/classe57_1_1_reader.html#a7d5027ccfc10bfaf9a66feecbac6dadc", null ],
     [ "Close", "dc/dec/classe57_1_1_reader.html#ac22acca780ed5cc3d187ae25b0ba63fd", null ],
     [ "GetData3DCount", "dc/dec/classe57_1_1_reader.html#aad2e7beca3d59844377bc926e1edee9a", null ],
@@ -16,6 +17,6 @@ var classe57_1_1_reader =
     [ "ReadData3DGroupsData", "dc/dec/classe57_1_1_reader.html#ac88a6fc5203b5617cade6419c32beb18", null ],
     [ "ReadImage2D", "dc/dec/classe57_1_1_reader.html#a0521113ef38b4a4500288001c2ff3ecd", null ],
     [ "ReadImage2DData", "dc/dec/classe57_1_1_reader.html#a4f360e3c9b528c3fe251f87864d9f850", null ],
-    [ "SetUpData3DPointsData", "dc/dec/classe57_1_1_reader.html#ad06ea51a4c8cd48e9fa94501e3798056", null ],
-    [ "SetUpData3DPointsData", "dc/dec/classe57_1_1_reader.html#accbbe472f876fb49c9d4af8b76d5eda8", null ]
+    [ "SetUpData3DPointsData", "dc/dec/classe57_1_1_reader.html#a9870a2c8f40371badc7aa13428fc12a8", null ],
+    [ "SetUpData3DPointsData", "dc/dec/classe57_1_1_reader.html#aec05f16fa2b896f7e1ff2e8f3f3a54e8", null ]
 ];

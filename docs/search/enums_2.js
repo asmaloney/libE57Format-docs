@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['image2dprojection_0',['Image2DProjection',['../dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5',1,'e57']]],
-  ['image2dtype_1',['Image2DType',['../dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821',1,'e57']]]
+  ['floatprecision_0',['FloatPrecision',['../dc/d1c/namespacee57.html#a618d22a07440f27db5050260682c5b18',1,'e57']]]
 ];

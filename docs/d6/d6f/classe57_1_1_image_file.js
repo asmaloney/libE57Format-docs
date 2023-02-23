@@ -1,8 +1,8 @@
 var classe57_1_1_image_file =
 [
     [ "ImageFile", "d6/d6f/classe57_1_1_image_file.html#a4cc1d268bbe7380fe97fbd4438bbd1e7", null ],
-    [ "ImageFile", "d6/d6f/classe57_1_1_image_file.html#a2359411210b362f3c382b17d7fdfe764", null ],
-    [ "ImageFile", "d6/d6f/classe57_1_1_image_file.html#a25f234bcb7cdb4295e2172103f9de845", null ],
+    [ "ImageFile", "d6/d6f/classe57_1_1_image_file.html#a0f52e1c5367051ec798ce2da29f79970", null ],
+    [ "ImageFile", "d6/d6f/classe57_1_1_image_file.html#a065de45f0720972d8b915f90703cddb3", null ],
     [ "cancel", "d6/d6f/classe57_1_1_image_file.html#a84e4b3d8c90e46d3ad834295a91bee89", null ],
     [ "checkInvariant", "d6/d6f/classe57_1_1_image_file.html#a87c4680b622e7d5f9937441d19b9e19a", null ],
     [ "close", "d6/d6f/classe57_1_1_image_file.html#af1c37e380147725d8fa3bb587d863a45", null ],
@@ -10,6 +10,7 @@ var classe57_1_1_image_file =
     [ "elementNameParse", "d6/d6f/classe57_1_1_image_file.html#a5ce2eb30a80d539933173752bb754599", null ],
     [ "extensionsAdd", "d6/d6f/classe57_1_1_image_file.html#ae0703f44158370e5567236fe14a6fdd0", null ],
     [ "extensionsCount", "d6/d6f/classe57_1_1_image_file.html#a24e3dc9675e97b6d830a84816860c3c9", null ],
+    [ "extensionsLookupPrefix", "d6/d6f/classe57_1_1_image_file.html#a68d710de036772663ead74a7f7812326", null ],
     [ "extensionsLookupPrefix", "d6/d6f/classe57_1_1_image_file.html#a3c01a05009ce092f6b20154b0f208cd0", null ],
     [ "extensionsLookupUri", "d6/d6f/classe57_1_1_image_file.html#a7f9e0bc80dbec249822223779df7b55f", null ],
     [ "extensionsPrefix", "d6/d6f/classe57_1_1_image_file.html#a1e0a2cf227297cface43544ea00cee0b", null ],
@@ -18,8 +19,8 @@ var classe57_1_1_image_file =
     [ "isElementNameExtended", "d6/d6f/classe57_1_1_image_file.html#aff8e9d13091799a30380a27de88d6b00", null ],
     [ "isOpen", "d6/d6f/classe57_1_1_image_file.html#a1f2407297723971baec4e449a168a5b4", null ],
     [ "isWritable", "d6/d6f/classe57_1_1_image_file.html#afe5d05e856ca5d97f22767cfb0b807a5", null ],
-    [ "operator!=", "d6/d6f/classe57_1_1_image_file.html#a95b0029a99590e66a094eb0826ed1c83", null ],
-    [ "operator==", "d6/d6f/classe57_1_1_image_file.html#aa5826cf250d1bce93a297cfbdeabc9d9", null ],
+    [ "operator!=", "d6/d6f/classe57_1_1_image_file.html#aa3fca40546aa9bdfd335c5e566fa05c6", null ],
+    [ "operator==", "d6/d6f/classe57_1_1_image_file.html#a6cb833111f9b3dc948590a258bb086ee", null ],
     [ "readerCount", "d6/d6f/classe57_1_1_image_file.html#ad4a0c26ac983dc6dc3208e11d16cbfbd", null ],
     [ "root", "d6/d6f/classe57_1_1_image_file.html#a02d6566b4dc1189e9efeb6ca04355d60", null ],
     [ "writerCount", "d6/d6f/classe57_1_1_image_file.html#a83ccf973b2370d14bd6869be42944938", null ]

@@ -1,13 +1,14 @@
 <map id="E57SimpleReader.h" name="E57SimpleReader.h">
-<area shape="rect" id="node1" title="E57 Simple API for reading E57." alt="" coords="95,5,232,31"/>
-<area shape="rect" id="node2" href="$d3/d5e/_e57_simple_data_8h.html" title="Data structures for E57 Simple API." alt="" coords="101,79,225,104"/>
-<area shape="rect" id="node3" href="$d1/df2/_e57_format_8h.html" title="Header file for the E57 API." alt="" coords="115,152,212,177"/>
+<area shape="rect" id="node1" title="E57 Simple API for reading E57." alt="" coords="136,5,273,31"/>
+<area shape="rect" id="node2" href="$d3/d5e/_e57_simple_data_8h.html" title="Data structures for E57 Simple API." alt="" coords="143,79,267,104"/>
+<area shape="rect" id="node3" href="$d1/df2/_e57_format_8h.html" title="Header file for the E57 API." alt="" coords="156,152,253,177"/>
 <area shape="rect" id="node4" title=" " alt="" coords="5,225,60,251"/>
-<area shape="rect" id="node5" title=" " alt="" coords="85,225,154,251"/>
-<area shape="rect" id="node6" title=" " alt="" coords="178,225,237,251"/>
-<area shape="rect" id="node7" href="$d4/d6e/_e57_exception_8h.html" title="Exception handling for E57 API." alt="" coords="261,225,375,251"/>
-<area shape="rect" id="node8" title=" " alt="" coords="135,299,213,324"/>
-<area shape="rect" id="node9" title=" " alt="" coords="238,299,310,324"/>
-<area shape="rect" id="node10" title=" " alt="" coords="335,299,389,324"/>
-<area shape="rect" id="node11" title=" " alt="" coords="413,299,508,324"/>
+<area shape="rect" id="node5" title=" " alt="" coords="85,225,146,251"/>
+<area shape="rect" id="node6" title=" " alt="" coords="170,225,239,251"/>
+<area shape="rect" id="node7" title=" " alt="" coords="263,225,322,251"/>
+<area shape="rect" id="node8" href="$d4/d6e/_e57_exception_8h.html" title="Exception handling for E57 API." alt="" coords="346,225,461,251"/>
+<area shape="rect" id="node9" title=" " alt="" coords="220,299,299,324"/>
+<area shape="rect" id="node10" title=" " alt="" coords="323,299,395,324"/>
+<area shape="rect" id="node11" title=" " alt="" coords="420,299,475,324"/>
+<area shape="rect" id="node12" title=" " alt="" coords="499,299,593,324"/>
 </map>

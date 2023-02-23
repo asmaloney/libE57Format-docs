@@ -29,17 +29,17 @@ var NAVTREE =
       [ "How do I get a copy of the source?", "index.html#autotoc_md0", null ],
       [ "How can I get help?", "index.html#autotoc_md1", null ],
       [ "How can I help?", "index.html#autotoc_md2", null ],
-      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md5", null ]
+      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md9", null ]
     ] ],
     [ "ASTM Standard", "d2/d73/_a_s_t_m.html", [
       [ "Do I need to get the ASTM standard?", "d2/d73/_a_s_t_m.html#autotoc_md3", null ],
       [ "Is the E57 format XML?", "d2/d73/_a_s_t_m.html#autotoc_md4", null ]
     ] ],
     [ "Library Design", "db/db9/design.html", [
-      [ "The API objects", "db/db9/design.html#autotoc_md6", null ],
-      [ "Set-once design", "db/db9/design.html#autotoc_md7", null ],
-      [ "Handle semantics", "db/db9/design.html#autotoc_md8", null ],
-      [ "No default constructors", "db/db9/design.html#autotoc_md9", null ]
+      [ "The API objects", "db/db9/design.html#autotoc_md5", null ],
+      [ "Set-once design", "db/db9/design.html#autotoc_md6", null ],
+      [ "Handle semantics", "db/db9/design.html#autotoc_md7", null ],
+      [ "No default constructors", "db/db9/design.html#autotoc_md8", null ]
     ] ],
     [ "Copyright", "d1/d67/copyright.html", null ],
     [ "Deprecated List", "da/d58/deprecated.html", null ],
@@ -78,11 +78,12 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d6f/classe57_1_1_scaled_integer_node.html#a4d20f7e16aa9aabee2a014974966a0bd",
-"d7/d34/classe57_1_1_string_node.html#aea889ab697c7a730eac09d6028480869",
-"db/df2/structe57_1_1_intensity_limits.html#a90443e86322613aebfbd545b2b1618ae",
-"dc/d83/classe57_1_1_blob_node.html#af4d051baebe82f61bf7caec83cea5d77",
-"functions_func_f.html"
+"d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a31f9a4cdf3be960f2ae8547ddda352c1",
+"d6/d6f/classe57_1_1_image_file.html#a02d6566b4dc1189e9efeb6ca04355d60",
+"d9/dc0/_a_s_t_m_version_8h.html#abd2406dd8b622778a9b6552a0e465923",
+"dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37",
+"dc/da9/structe57_1_1_quaternion.html#a6f89c65d7f33f8eaa1722b55f94a010b",
+"functions_func_g.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

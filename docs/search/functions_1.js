@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['blobnode_0',['BlobNode',['../dc/d83/classe57_1_1_blob_node.html#ada88683c8f5d592a89113c2a528cf7d7',1,'e57::BlobNode::BlobNode()=delete'],['../dc/d83/classe57_1_1_blob_node.html#a65d8a306bbf955f5a421f3cbc104933d',1,'e57::BlobNode::BlobNode(ImageFile destImageFile, int64_t byteCount)'],['../dc/d83/classe57_1_1_blob_node.html#a3f580ddfebc2ba49bbedeadad10d18c5',1,'e57::BlobNode::BlobNode(const Node &amp;n)']]],
-  ['bytecount_1',['byteCount',['../dc/d83/classe57_1_1_blob_node.html#a48a69df2321e72b0e95aaa649129a542',1,'e57::BlobNode']]]
+  ['allowheterochildren_0',['allowHeteroChildren',['../da/dac/classe57_1_1_vector_node.html#a493a1d8445dcdadb60194a26074bb86c',1,'e57::VectorNode']]],
+  ['append_1',['append',['../da/dac/classe57_1_1_vector_node.html#a5de0cc03de9af2d529cbd0162af27c3f',1,'e57::VectorNode']]],
+  ['astm_2',['astm',['../d8/d78/namespacee57_1_1_version.html#abba515b808935ca6244b9c3b50c98204',1,'e57::Version']]],
+  ['astmmajor_3',['astmMajor',['../d8/d78/namespacee57_1_1_version.html#a3d2a01a4e6f9defc1dfc1986b506df74',1,'e57::Version']]],
+  ['astmminor_4',['astmMinor',['../d8/d78/namespacee57_1_1_version.html#ac7ce6491c355a9f04d772b16c53e49d1',1,'e57::Version']]]
 ];

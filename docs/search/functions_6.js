@@ -1,14 +1,5 @@
 var searchData=
 [
-  ['get_0',['get',['../d5/de9/classe57_1_1_structure_node.html#a592664b85febdd0f2aa2cbf7828cb751',1,'e57::StructureNode::get(int64_t index) const'],['../d5/de9/classe57_1_1_structure_node.html#a2e0d65bf9e87fe15adbcf1b2d736da46',1,'e57::StructureNode::get(const ustring &amp;pathName) const'],['../da/dac/classe57_1_1_vector_node.html#a4a4dbce5daa5041fe7f7fde674d9b0db',1,'e57::VectorNode::get(int64_t index) const'],['../da/dac/classe57_1_1_vector_node.html#a544ddf5ef961db1a3fb1f4799e99a3b7',1,'e57::VectorNode::get(const ustring &amp;pathName) const']]],
-  ['getdata3dcount_1',['GetData3DCount',['../dc/dec/classe57_1_1_reader.html#aad2e7beca3d59844377bc926e1edee9a',1,'e57::Reader']]],
-  ['getdata3dsizes_2',['GetData3DSizes',['../dc/dec/classe57_1_1_reader.html#a0630bec312690483c4c5ddf3465aaac2',1,'e57::Reader']]],
-  ['gete57root_3',['GetE57Root',['../dc/dec/classe57_1_1_reader.html#ad4df7c9a3e7c5c3eba29cdc147248fff',1,'e57::Reader']]],
-  ['getimage2dcount_4',['GetImage2DCount',['../dc/dec/classe57_1_1_reader.html#aa55d9a700288307a65588d8d93d9b417',1,'e57::Reader']]],
-  ['getimage2dsizes_5',['GetImage2DSizes',['../dc/dec/classe57_1_1_reader.html#a92a94c83f9c278cb7a7539b4cb016589',1,'e57::Reader']]],
-  ['getrawdata3d_6',['GetRawData3D',['../dc/dec/classe57_1_1_reader.html#a991c3522edc3013f318633130c5c1388',1,'e57::Reader::GetRawData3D()'],['../d9/dc4/classe57_1_1_writer.html#a92bf95471657f9893cb68020372324ce',1,'e57::Writer::GetRawData3D()']]],
-  ['getrawe57root_7',['GetRawE57Root',['../dc/dec/classe57_1_1_reader.html#a45dbcb4b0100aa2167e5a75a7865cfc4',1,'e57::Reader::GetRawE57Root()'],['../d9/dc4/classe57_1_1_writer.html#afcd7492196d165907f7353779656d80c',1,'e57::Writer::GetRawE57Root()']]],
-  ['getrawimages2d_8',['GetRawImages2D',['../dc/dec/classe57_1_1_reader.html#a1f41694ebd73efdbebca4ce326091ca8',1,'e57::Reader::GetRawImages2D()'],['../d9/dc4/classe57_1_1_writer.html#a47b24b9ada3a1735488f203e199d8ec6',1,'e57::Writer::GetRawImages2D()']]],
-  ['getrawimf_9',['GetRawIMF',['../dc/dec/classe57_1_1_reader.html#a9450c57ef2270dca44f6795fceefe150',1,'e57::Reader::GetRawIMF()'],['../d9/dc4/classe57_1_1_writer.html#affabd237e1626b24bb7c442bbc8fef81',1,'e57::Writer::GetRawIMF()']]],
-  ['getversions_10',['getVersions',['../de/d74/namespacee57_1_1_utilities.html#ad245b22a8181887a574c0aac9190dc8b',1,'e57::Utilities']]]
+  ['filename_0',['fileName',['../d6/d6f/classe57_1_1_image_file.html#ab566e85929f03f8fe96aca2ab4a0b51a',1,'e57::ImageFile']]],
+  ['floatnode_1',['FloatNode',['../dd/d6c/classe57_1_1_float_node.html#a61521a543c53e53ae5fd8f1ac0e1c679',1,'e57::FloatNode::FloatNode()=delete'],['../dd/d6c/classe57_1_1_float_node.html#a8f7c303cf23a11394be4ace3e94a0a68',1,'e57::FloatNode::FloatNode(const ImageFile &amp;destImageFile, double value=0.0, FloatPrecision precision=PrecisionDouble, double minimum=DOUBLE_MIN, double maximum=DOUBLE_MAX)'],['../dd/d6c/classe57_1_1_float_node.html#a1b78119f02f548334dcaae09ee6b7bd0',1,'e57::FloatNode::FloatNode(const Node &amp;n)']]]
 ];

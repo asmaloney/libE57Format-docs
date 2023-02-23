@@ -28,6 +28,7 @@ var hierarchy =
     [ "e57::PointStandardizedFieldsAvailable", "dc/d25/structe57_1_1_point_standardized_fields_available.html", null ],
     [ "e57::Quaternion", "dc/da9/structe57_1_1_quaternion.html", null ],
     [ "e57::Reader", "dc/dec/classe57_1_1_reader.html", null ],
+    [ "e57::ReaderOptions", "d0/d68/structe57_1_1_reader_options.html", null ],
     [ "e57::RigidBodyTransform", "d2/df3/structe57_1_1_rigid_body_transform.html", null ],
     [ "e57::ScaledIntegerNode", "d4/d6f/classe57_1_1_scaled_integer_node.html", null ],
     [ "e57::SourceDestBuffer", "df/d39/classe57_1_1_source_dest_buffer.html", null ],
