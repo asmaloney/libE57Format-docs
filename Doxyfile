@@ -48,7 +48,7 @@ PROJECT_NAME           = libE57Format
 # could be handy for archiving the generated documentation or if some version
 # control system is used.
 
-PROJECT_NUMBER         = 2.3.0
+PROJECT_NUMBER         = 3.0.0
 
 # Using the PROJECT_BRIEF tag one can provide an optional one line description
 # for a project that appears at the top of each page and should give viewer a
@@ -669,7 +669,7 @@ SORT_MEMBER_DOCS       = YES
 # this will also influence the order of the classes in the class list.
 # The default value is: NO.
 
-SORT_BRIEF_DOCS        = NO
+SORT_BRIEF_DOCS        = YES
 
 # If the SORT_MEMBERS_CTORS_1ST tag is set to YES then doxygen will sort the
 # (brief and detailed) documentation of class members so that constructors and
@@ -681,7 +681,7 @@ SORT_BRIEF_DOCS        = NO
 # detailed member documentation.
 # The default value is: NO.
 
-SORT_MEMBERS_CTORS_1ST = NO
+SORT_MEMBERS_CTORS_1ST = YES
 
 # If the SORT_GROUP_NAMES tag is set to YES then doxygen will sort the hierarchy
 # of group names into alphabetical order. If set to NO the group names will
@@ -866,7 +866,7 @@ WARN_NO_PARAMDOC       = NO
 # Possible values are: NO, YES and FAIL_ON_WARNINGS.
 # The default value is: NO.
 
-WARN_AS_ERROR          = NO
+WARN_AS_ERROR          = FAIL_ON_WARNINGS
 
 # The WARN_FORMAT tag determines the format of the warning messages that doxygen
 # can produce. The string should contain the $file, $line, and $text tags, which
@@ -1027,7 +1027,10 @@ EXCLUDE                = ../libE57Format/src/CheckedFile.cpp \
                          ../libE57Format/src/SectionHeaders.cpp \
                          ../libE57Format/src/SectionHeaders.h \
                          ../libE57Format/src/E57XmlParser.cpp \
-                         ../libE57Format/src/E57XmlParser.h
+                         ../libE57Format/src/E57XmlParser.h \
+                         ../libE57Format/src/E57Version.h \
+                         ../libE57Format/src/StringFunctions.cpp \
+                         ../libE57Format/src/StringFunctions.h
 
 # The EXCLUDE_SYMLINKS tag can be used to select whether or not files or
 # directories that are symbolic links (a Unix file system feature) are excluded
