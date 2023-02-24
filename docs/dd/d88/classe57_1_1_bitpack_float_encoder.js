@@ -1,8 +1,0 @@
-var classe57_1_1_bitpack_float_encoder =
-[
-    [ "BitpackFloatEncoder", "dd/d88/classe57_1_1_bitpack_float_encoder.html#a841eec7d140e772118a31c0df366f1b9", null ],
-    [ "processRecords", "dd/d88/classe57_1_1_bitpack_float_encoder.html#a3a6abf90810c3099970320015b722e63", null ],
-    [ "registerFlushToOutput", "dd/d88/classe57_1_1_bitpack_float_encoder.html#ae17f76e6374a83645f35d4d86501acc4", null ],
-    [ "bitsPerRecord", "dd/d88/classe57_1_1_bitpack_float_encoder.html#a99273c30e38f2ffa5d8c2dc8cbef1c7f", null ],
-    [ "precision_", "dd/d88/classe57_1_1_bitpack_float_encoder.html#a21847c88c6cada032e43f61e49960b10", null ]
-];

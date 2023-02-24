@@ -26,20 +26,20 @@ var NAVTREE =
 [
   [ "libE57Format", "index.html", [
     [ "Code Fork", "d3/d3f/fork.html", [
-      [ "How do I get a copy of the source?", "index.html#autotoc_md0", null ],
-      [ "How can I get help?", "index.html#autotoc_md1", null ],
-      [ "How can I help?", "index.html#autotoc_md2", null ],
-      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md9", null ]
+      [ "How do I get a copy of the source?", "index.html#autotoc_md2", null ],
+      [ "How can I get help?", "index.html#autotoc_md3", null ],
+      [ "How can I help?", "index.html#autotoc_md4", null ],
+      [ "Why Fork?", "d3/d3f/fork.html#autotoc_md5", null ]
     ] ],
-    [ "ASTM Standard", "d2/d73/_a_s_t_m.html", [
-      [ "Do I need to get the ASTM standard?", "d2/d73/_a_s_t_m.html#autotoc_md3", null ],
-      [ "Is the E57 format XML?", "d2/d73/_a_s_t_m.html#autotoc_md4", null ]
+    [ "ASTM Standard", "de/dd9/astm.html", [
+      [ "Do I need to get the ASTM standard?", "de/dd9/astm.html#autotoc_md0", null ],
+      [ "Is the E57 format XML?", "de/dd9/astm.html#autotoc_md1", null ]
     ] ],
     [ "Library Design", "db/db9/design.html", [
-      [ "The API objects", "db/db9/design.html#autotoc_md5", null ],
-      [ "Set-once design", "db/db9/design.html#autotoc_md6", null ],
-      [ "Handle semantics", "db/db9/design.html#autotoc_md7", null ],
-      [ "No default constructors", "db/db9/design.html#autotoc_md8", null ]
+      [ "The API objects", "db/db9/design.html#autotoc_md6", null ],
+      [ "Set-once design", "db/db9/design.html#autotoc_md7", null ],
+      [ "Handle semantics", "db/db9/design.html#autotoc_md8", null ],
+      [ "No default constructors", "db/db9/design.html#autotoc_md9", null ]
     ] ],
     [ "Copyright", "d1/d67/copyright.html", null ],
     [ "Deprecated List", "da/d58/deprecated.html", null ],
@@ -78,11 +78,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a31f9a4cdf3be960f2ae8547ddda352c1",
-"d6/d6f/classe57_1_1_image_file.html#a02d6566b4dc1189e9efeb6ca04355d60",
-"d9/dc0/_a_s_t_m_version_8h.html#abd2406dd8b622778a9b6552a0e465923",
+"d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a3a2f8b0a1d0e19d7d1f1f88b927a4ad3",
+"d6/d6f/classe57_1_1_image_file.html#a065de45f0720972d8b915f90703cddb3",
+"d9/dc4/classe57_1_1_writer.html",
 "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37",
-"dc/da9/structe57_1_1_quaternion.html#a6f89c65d7f33f8eaa1722b55f94a010b",
+"dc/da9/structe57_1_1_quaternion.html#a7b040576b65b6e2ce2193c1327b3b093",
 "functions_func_g.html"
 ];
 

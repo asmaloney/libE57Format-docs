@@ -1,4 +1,4 @@
-# ASTM Standard {#ASTM}
+# ASTM Standard {#astm}
 
 libE57Format is not sanctioned or approved in any way by ASTM. The designer of the API and author of the original Reference Implementation (Kevin Ackley) was heavily involved in the drafting of the E57 format standard. However, the E57 Standard for 3D Imaging Data Exchange is the final word on what is a legal/valid .e57 file.
 

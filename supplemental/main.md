@@ -21,6 +21,6 @@ Help is available by submitting an issue on [GitHub](https://github.com/asmalone
 - Support the project using the support link on the [libE57Format GitHub page](https://github.com/asmaloney/libE57Format).
 
 @page fork Code Fork
-@page ASTM ASTM Standard
+@page astm ASTM Standard
 @page design Library Design
 @page copyright Copyright
