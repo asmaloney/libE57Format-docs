@@ -14,7 +14,7 @@ var classe57_1_1_reader =
     [ "GetRawIMF", "dc/dec/classe57_1_1_reader.html#a9450c57ef2270dca44f6795fceefe150", null ],
     [ "IsOpen", "dc/dec/classe57_1_1_reader.html#a248e7f12f1a145b512fdef0a7de4876f", null ],
     [ "ReadData3D", "dc/dec/classe57_1_1_reader.html#a5c4c418944c94794472e2288bdcea6c1", null ],
-    [ "ReadData3DGroupsData", "dc/dec/classe57_1_1_reader.html#ac88a6fc5203b5617cade6419c32beb18", null ],
+    [ "ReadData3DGroupsData", "dc/dec/classe57_1_1_reader.html#aab86fd80cac4d8f7d15d018c69578719", null ],
     [ "ReadImage2D", "dc/dec/classe57_1_1_reader.html#a0521113ef38b4a4500288001c2ff3ecd", null ],
     [ "ReadImage2DData", "dc/dec/classe57_1_1_reader.html#a4f360e3c9b528c3fe251f87864d9f850", null ],
     [ "SetUpData3DPointsData", "dc/dec/classe57_1_1_reader.html#a9870a2c8f40371badc7aa13428fc12a8", null ],

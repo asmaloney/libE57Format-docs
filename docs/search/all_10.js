@@ -7,7 +7,7 @@ var searchData=
   ['read_4',['read',['../d4/df0/classe57_1_1_compressed_vector_reader.html#a28b3e629404b7022ec501eabc438d5cc',1,'e57::CompressedVectorReader::read()'],['../d4/df0/classe57_1_1_compressed_vector_reader.html#a28588174f0ff650f90d2424628698cb4',1,'e57::CompressedVectorReader::read(std::vector&lt; SourceDestBuffer &gt; &amp;dbufs)'],['../dc/d83/classe57_1_1_blob_node.html#add09845dd965c832194eb8b5f9f0afa7',1,'e57::BlobNode::read()']]],
   ['readchecksumpolicy_5',['ReadChecksumPolicy',['../dc/d1c/namespacee57.html#a378ea3f2fe1cb6817b037d1fff975b5b',1,'e57']]],
   ['readdata3d_6',['ReadData3D',['../dc/dec/classe57_1_1_reader.html#a5c4c418944c94794472e2288bdcea6c1',1,'e57::Reader']]],
-  ['readdata3dgroupsdata_7',['ReadData3DGroupsData',['../dc/dec/classe57_1_1_reader.html#ac88a6fc5203b5617cade6419c32beb18',1,'e57::Reader']]],
+  ['readdata3dgroupsdata_7',['ReadData3DGroupsData',['../dc/dec/classe57_1_1_reader.html#aab86fd80cac4d8f7d15d018c69578719',1,'e57::Reader']]],
   ['reader_8',['Reader',['../dc/dec/classe57_1_1_reader.html',1,'e57::Reader'],['../dc/dec/classe57_1_1_reader.html#ac1e856d3a1100a89197471aa0e6b27c4',1,'e57::Reader::Reader(const ustring &amp;filePath, const ReaderOptions &amp;options)'],['../dc/dec/classe57_1_1_reader.html#a7d5027ccfc10bfaf9a66feecbac6dadc',1,'e57::Reader::Reader(const ustring &amp;filePath)']]],
   ['reader_9',['reader',['../dc/d3e/classe57_1_1_compressed_vector_node.html#a23e660bae8031d5c5c29bc50bef96d0f',1,'e57::CompressedVectorNode']]],
   ['readercount_10',['readerCount',['../d6/d6f/classe57_1_1_image_file.html#ad4a0c26ac983dc6dc3208e11d16cbfbd',1,'e57::ImageFile']]],

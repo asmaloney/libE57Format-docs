@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.0</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -144,9 +144,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1340ce7e75ede21a406a2d2533ff8920"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d11/classe57_1_1_compressed_vector_writer.html">CompressedVectorWriter</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a1340ce7e75ede21a406a2d2533ff8920">SetUpData3DPointsData</a> (int64_t dataIndex, size_t pointCount, const <a class="el" href="../../dc/d1c/namespacee57.html#a77e687cdb0db17b88d76049e462e7ab1">Data3DPointsDouble</a> &amp;buffers)</td></tr>
 <tr class="memdesc:a1340ce7e75ede21a406a2d2533ff8920"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is an overloaded member function, provided for convenience. It differs from the above function only in what argument(s) it accepts.  <br /></td></tr>
 <tr class="separator:a1340ce7e75ede21a406a2d2533ff8920"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a868cbfa24d18df0d9a3d4a7a17eecc6d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a868cbfa24d18df0d9a3d4a7a17eecc6d">WriteData3DGroupsData</a> (int64_t dataIndex, int64_t groupCount, int64_t *idElementValue, int64_t *startPointIndex, int64_t *pointCount)</td></tr>
-<tr class="memdesc:a868cbfa24d18df0d9a3d4a7a17eecc6d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes out the group data.  <br /></td></tr>
-<tr class="separator:a868cbfa24d18df0d9a3d4a7a17eecc6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac4e29f3e99c88d1d839fc37e203ee33"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc4/classe57_1_1_writer.html#aac4e29f3e99c88d1d839fc37e203ee33">WriteData3DGroupsData</a> (int64_t dataIndex, size_t groupCount, int64_t *idElementValue, int64_t *startPointIndex, int64_t *pointCount)</td></tr>
+<tr class="memdesc:aac4e29f3e99c88d1d839fc37e203ee33"><td class="mdescLeft">&#160;</td><td class="mdescRight">Writes out the group data.  <br /></td></tr>
+<tr class="separator:aac4e29f3e99c88d1d839fc37e203ee33"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr><td colspan="2"><div class="groupHeader">File information</div></td></tr>
 <tr class="memitem:afcd7492196d165907f7353779656d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/de9/classe57_1_1_structure_node.html">StructureNode</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc4/classe57_1_1_writer.html#afcd7492196d165907f7353779656d80c">GetRawE57Root</a> ()</td></tr>
 <tr class="memdesc:afcd7492196d165907f7353779656d80c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the file raw <a class="el" href="../../d4/dc0/structe57_1_1_e57_root.html" title="Stores the top-level information for the XML section of the file.">E57Root</a> Structure <a class="el" href="../../d8/d52/classe57_1_1_node.html" title="Generic handle to any of the 8 types of E57 element objects.">Node</a>.  <br /></td></tr>
@@ -244,7 +244,7 @@ Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000037">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#aea8f48a1c5f5bb549739a097572ecf90" title="Writer constructor.">Writer( const ustring &amp;filePath, const
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000025">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#aea8f48a1c5f5bb549739a097572ecf90" title="Writer constructor.">Writer( const ustring &amp;filePath, const
 WriterOptions &amp;options )</a> instead. </dd></dl>
 
 </div>
@@ -388,7 +388,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Returns the index of the new scan's data3D block. </dd></dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000065">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e" title="This function writes the Data3D data to the file.">WriteData3DData()</a> instead. </dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000061">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e" title="This function writes the Data3D data to the file.">WriteData3DData()</a> instead. </dd></dl>
 
 </div>
 </div>
@@ -416,7 +416,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Returns the image2D index </dd></dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000050">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b" title="This function writes the Image2D data to the file.">WriteImage2DData(Image2D
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000045">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b" title="This function writes the Image2D data to the file.">WriteImage2DData(Image2D
 &amp;,Image2DType,Image2DProjection,int64_t,void
 *,int64_t)</a> instead. </dd></dl>
 
@@ -500,7 +500,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>returns a vector writer setup to write the selected scan data </dd></dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000068">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e" title="This function writes the Data3D data to the file.">WriteData3DData()</a> instead. </dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000065">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e" title="This function writes the Data3D data to the file.">WriteData3DData()</a> instead. </dd></dl>
 
 </div>
 </div>
@@ -573,8 +573,8 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
 
 </div>
 </div>
-<a id="a868cbfa24d18df0d9a3d4a7a17eecc6d" name="a868cbfa24d18df0d9a3d4a7a17eecc6d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a868cbfa24d18df0d9a3d4a7a17eecc6d">&#9670;&#160;</a></span>WriteData3DGroupsData()</h2>
+<a id="aac4e29f3e99c88d1d839fc37e203ee33" name="aac4e29f3e99c88d1d839fc37e203ee33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac4e29f3e99c88d1d839fc37e203ee33">&#9670;&#160;</a></span>WriteData3DGroupsData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -588,7 +588,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int64_t&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>groupCount</em>, </td>
         </tr>
         <tr>
@@ -762,7 +762,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>Returns the number of bytes written </dd></dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000056">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b" title="This function writes the Image2D data to the file.">WriteImage2DData(Image2D
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000049">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b" title="This function writes the Image2D data to the file.">WriteImage2DData(Image2D
 &amp;,Image2DType,Image2DProjection,int64_t,void
 *,int64_t)</a> instead. </dd></dl>
 
@@ -778,7 +778,7 @@ WriterOptions &amp;options )</a> instead. </dd></dl>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d1c/namespacee57.html">e57</a></li><li class="navelem"><a class="el" href="../../d9/dc4/classe57_1_1_writer.html">Writer</a></li>
-    <li class="footer">Generated on Fri Feb 24 2023 09:51:05 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
+    <li class="footer">Generated on Wed Mar 15 2023 12:21:00 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
   </ul>
 </div>
 </body>

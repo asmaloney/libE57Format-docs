@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.0</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -157,9 +157,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0630bec312690483c4c5ddf3465aaac2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dec/classe57_1_1_reader.html#a0630bec312690483c4c5ddf3465aaac2">GetData3DSizes</a> (int64_t dataIndex, int64_t &amp;rowMax, int64_t &amp;columnMax, int64_t &amp;pointsSize, int64_t &amp;groupsSize, int64_t &amp;countSize, bool &amp;columnIndex) const</td></tr>
 <tr class="memdesc:a0630bec312690483c4c5ddf3465aaac2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the size of the point data.  <br /></td></tr>
 <tr class="separator:a0630bec312690483c4c5ddf3465aaac2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac88a6fc5203b5617cade6419c32beb18"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dec/classe57_1_1_reader.html#ac88a6fc5203b5617cade6419c32beb18">ReadData3DGroupsData</a> (int64_t dataIndex, int64_t groupCount, int64_t *idElementValue, int64_t *startPointIndex, int64_t *pointCount) const</td></tr>
-<tr class="memdesc:ac88a6fc5203b5617cade6419c32beb18"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads the group data into the provided buffers.  <br /></td></tr>
-<tr class="separator:ac88a6fc5203b5617cade6419c32beb18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab86fd80cac4d8f7d15d018c69578719"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dec/classe57_1_1_reader.html#aab86fd80cac4d8f7d15d018c69578719">ReadData3DGroupsData</a> (int64_t dataIndex, size_t groupCount, int64_t *idElementValue, int64_t *startPointIndex, int64_t *pointCount) const</td></tr>
+<tr class="memdesc:aab86fd80cac4d8f7d15d018c69578719"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reads the group data into the provided buffers.  <br /></td></tr>
+<tr class="separator:aab86fd80cac4d8f7d15d018c69578719"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aec05f16fa2b896f7e1ff2e8f3f3a54e8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/df0/classe57_1_1_compressed_vector_reader.html">CompressedVectorReader</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dec/classe57_1_1_reader.html#aec05f16fa2b896f7e1ff2e8f3f3a54e8">SetUpData3DPointsData</a> (int64_t dataIndex, size_t pointCount, const <a class="el" href="../../dc/d1c/namespacee57.html#a574b0dfc75b3817669946f96ed7020fa">Data3DPointsFloat</a> &amp;buffers) const</td></tr>
 <tr class="memdesc:aec05f16fa2b896f7e1ff2e8f3f3a54e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use this to read the actual 3D data.  <br /></td></tr>
 <tr class="separator:aec05f16fa2b896f7e1ff2e8f3f3a54e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -239,7 +239,7 @@ Public Member Functions</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000029">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../dc/dec/classe57_1_1_reader.html#ac1e856d3a1100a89197471aa0e6b27c4" title="Reader constructor.">Reader( const ustring &amp;, const ReaderOptions &amp; )</a> instead. </dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="../../da/d58/deprecated.html#_deprecated000017">Deprecated:</a></b></dt><dd>Will be removed in 4.0. Use <a class="el" href="../../dc/dec/classe57_1_1_reader.html#ac1e856d3a1100a89197471aa0e6b27c4" title="Reader constructor.">Reader( const ustring &amp;, const ReaderOptions &amp; )</a> instead. </dd></dl>
 
 </div>
 </div>
@@ -616,8 +616,8 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="ac88a6fc5203b5617cade6419c32beb18" name="ac88a6fc5203b5617cade6419c32beb18"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac88a6fc5203b5617cade6419c32beb18">&#9670;&#160;</a></span>ReadData3DGroupsData()</h2>
+<a id="aab86fd80cac4d8f7d15d018c69578719" name="aab86fd80cac4d8f7d15d018c69578719"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aab86fd80cac4d8f7d15d018c69578719">&#9670;&#160;</a></span>ReadData3DGroupsData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -631,7 +631,7 @@ Public Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int64_t&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>groupCount</em>, </td>
         </tr>
         <tr>
@@ -870,7 +870,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d1c/namespacee57.html">e57</a></li><li class="navelem"><a class="el" href="../../dc/dec/classe57_1_1_reader.html">Reader</a></li>
-    <li class="footer">Generated on Fri Feb 24 2023 09:51:05 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
+    <li class="footer">Generated on Wed Mar 15 2023 12:20:59 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
   </ul>
 </div>
 </body>

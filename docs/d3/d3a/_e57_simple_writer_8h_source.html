@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.0</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -189,7 +189,7 @@ $(document).ready(function(){initNavTree('d3/d3a/_e57_simple_writer_8h_source.ht
 <div class="line"><a id="l00169" name="l00169"></a><span class="lineno">  169</span>         SetUpData3DPointsData( int64_t dataIndex, <span class="keywordtype">size_t</span> pointCount,</div>
 <div class="line"><a id="l00170" name="l00170"></a><span class="lineno">  170</span>                                <span class="keyword">const</span> <a class="code hl_struct" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">Data3DPointsDouble</a> &amp;buffers );</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span> </div>
-<div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>      <span class="keywordtype">bool</span> WriteData3DGroupsData( int64_t dataIndex, int64_t groupCount, int64_t *idElementValue,</div>
+<div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>      <span class="keywordtype">bool</span> WriteData3DGroupsData( int64_t dataIndex, <span class="keywordtype">size_t</span> groupCount, int64_t *idElementValue,</div>
 <div class="line"><a id="l00181" name="l00181"></a><span class="lineno">  181</span>                                  int64_t *startPointIndex, int64_t *pointCount );</div>
 <div class="line"><a id="l00182" name="l00182"></a><span class="lineno">  182</span> </div>
 <div class="line"><a id="l00184" name="l00184"></a><span class="lineno">  184</span> </div>
@@ -217,12 +217,12 @@ $(document).ready(function(){initNavTree('d3/d3a/_e57_simple_writer_8h_source.ht
 <div class="ttc" id="aclasse57_1_1_vector_node_html"><div class="ttname"><a href="../../da/dac/classe57_1_1_vector_node.html">e57::VectorNode</a></div><div class="ttdoc">An E57 element containing ordered vector of child nodes.</div><div class="ttdef"><b>Definition:</b> E57Format.h:322</div></div>
 <div class="ttc" id="aclasse57_1_1_writer_html"><div class="ttname"><a href="../../d9/dc4/classe57_1_1_writer.html">e57::Writer</a></div><div class="ttdoc">Used for writing an E57 file using the E57 Simple API.</div><div class="ttdef"><b>Definition:</b> E57SimpleWriter.h:57</div></div>
 <div class="ttc" id="anamespacee57_html"><div class="ttname"><a href="../../dc/d1c/namespacee57.html">e57</a></div><div class="ttdef"><b>Definition:</b> ASTMVersion.h:8</div></div>
-<div class="ttc" id="anamespacee57_html_a8748694e2ef57a688e0ac0535c9daaf5"><div class="ttname"><a href="../../dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5">e57::Image2DProjection</a></div><div class="ttdeci">Image2DProjection</div><div class="ttdoc">Identifies the representation for the image data.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:974</div></div>
-<div class="ttc" id="anamespacee57_html_a9e6406ed43079c9c575971f1c52c0821"><div class="ttname"><a href="../../dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821">e57::Image2DType</a></div><div class="ttdeci">Image2DType</div><div class="ttdoc">Identifies the format representation for the image data.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:955</div></div>
+<div class="ttc" id="anamespacee57_html_a8748694e2ef57a688e0ac0535c9daaf5"><div class="ttname"><a href="../../dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5">e57::Image2DProjection</a></div><div class="ttdeci">Image2DProjection</div><div class="ttdoc">Identifies the representation for the image data.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:976</div></div>
+<div class="ttc" id="anamespacee57_html_a9e6406ed43079c9c575971f1c52c0821"><div class="ttname"><a href="../../dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821">e57::Image2DType</a></div><div class="ttdeci">Image2DType</div><div class="ttdoc">Identifies the format representation for the image data.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:957</div></div>
 <div class="ttc" id="anamespacee57_html_aa52d9c7d60546840767b2484ed33f0de"><div class="ttname"><a href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">e57::ustring</a></div><div class="ttdeci">std::string ustring</div><div class="ttdoc">UTF-8 encoded Unicode string.</div><div class="ttdef"><b>Definition:</b> E57Format.h:54</div></div>
 <div class="ttc" id="astructe57_1_1_data3_d_html"><div class="ttname"><a href="../../da/d40/structe57_1_1_data3_d.html">e57::Data3D</a></div><div class="ttdoc">Stores the top-level information for a single lidar scan.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:539</div></div>
-<div class="ttc" id="astructe57_1_1_data3_d_points_data__t_html"><div class="ttname"><a href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a></div><div class="ttdoc">Stores pointers to user-provided buffers.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:619</div></div>
-<div class="ttc" id="astructe57_1_1_image2_d_html"><div class="ttname"><a href="../../d1/d28/structe57_1_1_image2_d.html">e57::Image2D</a></div><div class="ttdoc">Stores an image from a camera.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:911</div></div>
+<div class="ttc" id="astructe57_1_1_data3_d_points_data__t_html"><div class="ttname"><a href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a></div><div class="ttdoc">Stores pointers to user-provided buffers.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:621</div></div>
+<div class="ttc" id="astructe57_1_1_image2_d_html"><div class="ttname"><a href="../../d1/d28/structe57_1_1_image2_d.html">e57::Image2D</a></div><div class="ttdoc">Stores an image from a camera.</div><div class="ttdef"><b>Definition:</b> E57SimpleData.h:913</div></div>
 <div class="ttc" id="astructe57_1_1_writer_options_html"><div class="ttname"><a href="../../d4/de1/structe57_1_1_writer_options.html">e57::WriterOptions</a></div><div class="ttdoc">Options to the Writer constructor.</div><div class="ttdef"><b>Definition:</b> E57SimpleWriter.h:44</div></div>
 <div class="ttc" id="astructe57_1_1_writer_options_html_a7e8a33f13ea8245b8fa63c1f0e5b6abb"><div class="ttname"><a href="../../d4/de1/structe57_1_1_writer_options.html#a7e8a33f13ea8245b8fa63c1f0e5b6abb">e57::WriterOptions::coordinateMetadata</a></div><div class="ttdeci">ustring coordinateMetadata</div><div class="ttdoc">Information describing the Coordinate Reference System to be used for the file.</div><div class="ttdef"><b>Definition:</b> E57SimpleWriter.h:49</div></div>
 <div class="ttc" id="astructe57_1_1_writer_options_html_ad899299952f46300a75294bbdda84f8e"><div class="ttname"><a href="../../d4/de1/structe57_1_1_writer_options.html#ad899299952f46300a75294bbdda84f8e">e57::WriterOptions::guid</a></div><div class="ttdeci">ustring guid</div><div class="ttdoc">Optional file guid.</div><div class="ttdef"><b>Definition:</b> E57SimpleWriter.h:46</div></div>
@@ -232,7 +232,7 @@ $(document).ready(function(){initNavTree('d3/d3a/_e57_simple_writer_8h_source.ht
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_55aa2e83ac3322d9b00141cab0d00173.html">libE57Format</a></li><li class="navelem"><a class="el" href="../../dir_a74708ac11a31e904939bed6b2855a02.html">include</a></li><li class="navelem"><a class="el" href="../../d3/d3a/_e57_simple_writer_8h.html">E57SimpleWriter.h</a></li>
-    <li class="footer">Generated on Fri Feb 24 2023 09:51:04 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
+    <li class="footer">Generated on Wed Mar 15 2023 12:20:59 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
   </ul>
 </div>
 </body>

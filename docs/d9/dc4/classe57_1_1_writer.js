@@ -14,7 +14,7 @@ var classe57_1_1_writer =
     [ "SetUpData3DPointsData", "d9/dc4/classe57_1_1_writer.html#a838ca5b539a7d8c1c5a273a9ebe69ccb", null ],
     [ "WriteData3DData", "d9/dc4/classe57_1_1_writer.html#adfd782ad2e75c7786042586d557b4316", null ],
     [ "WriteData3DData", "d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e", null ],
-    [ "WriteData3DGroupsData", "d9/dc4/classe57_1_1_writer.html#a868cbfa24d18df0d9a3d4a7a17eecc6d", null ],
+    [ "WriteData3DGroupsData", "d9/dc4/classe57_1_1_writer.html#aac4e29f3e99c88d1d839fc37e203ee33", null ],
     [ "WriteImage2DData", "d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b", null ],
     [ "WriteImage2DData", "d9/dc4/classe57_1_1_writer.html#a9de44c17db00cd35183c1b37a3cb14b2", null ]
 ];

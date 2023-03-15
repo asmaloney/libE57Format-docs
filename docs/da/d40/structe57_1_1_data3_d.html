@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.0</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -147,9 +147,8 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a9af7013c19f37bbf7268c3ed5bf90413"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../dc/d1c/namespacee57.html#aa52d9c7d60546840767b2484ed33f0de">ustring</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d40/structe57_1_1_data3_d.html#a9af7013c19f37bbf7268c3ed5bf90413">originalGuids</a></td></tr>
 <tr class="memdesc:a9af7013c19f37bbf7268c3ed5bf90413"><td class="mdescLeft">&#160;</td><td class="mdescRight">A vector of globally unique identification Strings from which the points in this <a class="el" href="../../da/d40/structe57_1_1_data3_d.html" title="Stores the top-level information for a single lidar scan.">Data3D</a> originated.  <br /></td></tr>
 <tr class="separator:a9af7013c19f37bbf7268c3ed5bf90413"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32da173caf915926844fffb94c64718b"><td class="memItemLeft" align="right" valign="top">int64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d40/structe57_1_1_data3_d.html#a32da173caf915926844fffb94c64718b">pointCount</a> = 0</td></tr>
-<tr class="memdesc:a32da173caf915926844fffb94c64718b"><td class="mdescLeft">&#160;</td><td class="mdescRight">The number of points in the <a class="el" href="../../da/d40/structe57_1_1_data3_d.html" title="Stores the top-level information for a single lidar scan.">Data3D</a>.  <br /></td></tr>
-<tr class="separator:a32da173caf915926844fffb94c64718b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4260d5751d79f71289a9926d418d68f"><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d40/structe57_1_1_data3_d.html#ae4260d5751d79f71289a9926d418d68f">pointCount</a> = 0</td></tr>
+<tr class="separator:ae4260d5751d79f71289a9926d418d68f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad3d90e5257a6e3f829190e9dd1c70488"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d25/structe57_1_1_point_standardized_fields_available.html">PointStandardizedFieldsAvailable</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d40/structe57_1_1_data3_d.html#ad3d90e5257a6e3f829190e9dd1c70488">pointFields</a></td></tr>
 <tr class="memdesc:ad3d90e5257a6e3f829190e9dd1c70488"><td class="mdescLeft">&#160;</td><td class="mdescRight">The active fields used in the WritePoints function.  <br /></td></tr>
 <tr class="separator:ad3d90e5257a6e3f829190e9dd1c70488"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -368,19 +367,18 @@ Public Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a32da173caf915926844fffb94c64718b" name="a32da173caf915926844fffb94c64718b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32da173caf915926844fffb94c64718b">&#9670;&#160;</a></span>pointCount</h2>
+<a id="ae4260d5751d79f71289a9926d418d68f" name="ae4260d5751d79f71289a9926d418d68f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4260d5751d79f71289a9926d418d68f">&#9670;&#160;</a></span>pointCount</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">int64_t e57::Data3D::pointCount = 0</td>
+          <td class="memname">size_t e57::Data3D::pointCount = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p>The number of points in the <a class="el" href="../../da/d40/structe57_1_1_data3_d.html" title="Stores the top-level information for a single lidar scan.">Data3D</a>. </p>
+<p>The number of points in the <a class="el" href="../../da/d40/structe57_1_1_data3_d.html" title="Stores the top-level information for a single lidar scan.">Data3D</a>. On 32-bit systems size_t will allow for 4,294,967,295 points per scan which seems reasonable... </p>
 
 </div>
 </div>
@@ -589,7 +587,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d1c/namespacee57.html">e57</a></li><li class="navelem"><a class="el" href="../../da/d40/structe57_1_1_data3_d.html">Data3D</a></li>
-    <li class="footer">Generated on Fri Feb 24 2023 09:51:05 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
+    <li class="footer">Generated on Wed Mar 15 2023 12:20:59 for libE57Format by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.6 </li>
   </ul>
 </div>
 </body>
