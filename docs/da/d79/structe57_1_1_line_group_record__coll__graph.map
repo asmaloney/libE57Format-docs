@@ -1,6 +1,6 @@
 <map id="e57::LineGroupRecord" name="e57::LineGroupRecord">
-<area shape="rect" id="node1" title="Stores information about a single group of points in a row or column." alt="" coords="91,123,243,148"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,67,31"/>
-<area shape="rect" id="node3" href="$d7/d34/structe57_1_1_cartesian_bounds.html" title="Specifies an axis&#45;aligned box in local cartesian coordinates." alt="" coords="91,5,242,31"/>
-<area shape="rect" id="node4" href="$d2/d00/structe57_1_1_spherical_bounds.html" title="Stores the bounds of some data in spherical coordinates." alt="" coords="267,5,416,31"/>
+<area shape="rect" id="node1" title="Stores information about a single group of points in a row or column." alt="" coords="89,124,241,150"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,66,31"/>
+<area shape="rect" id="node3" href="$d7/d34/structe57_1_1_cartesian_bounds.html" title="Specifies an axis&#45;aligned box in local cartesian coordinates." alt="" coords="90,5,240,31"/>
+<area shape="rect" id="node4" href="$d2/d00/structe57_1_1_spherical_bounds.html" title="Stores the bounds of some data in spherical coordinates." alt="" coords="264,5,412,31"/>
 </map>

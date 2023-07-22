@@ -26,14 +26,14 @@ var NAVTREE =
 [
   [ "libE57Format", "index.html", [
     [ "Code Fork", "d3/d3f/fork.html", [
-      [ "How do I get a copy of the source?", "index.html#autotoc_md2", null ],
+      [ "How do I get a copy of the source?", "index.html#autotoc_md1", null ],
       [ "How can I get help?", "index.html#autotoc_md3", null ],
       [ "How can I help?", "index.html#autotoc_md4", null ],
       [ "Why Fork?", "d3/d3f/fork.html#autotoc_md5", null ]
     ] ],
     [ "ASTM Standard", "de/dd9/astm.html", [
       [ "Do I need to get the ASTM standard?", "de/dd9/astm.html#autotoc_md0", null ],
-      [ "Is the E57 format XML?", "de/dd9/astm.html#autotoc_md1", null ]
+      [ "Is the E57 format XML?", "de/dd9/astm.html#autotoc_md2", null ]
     ] ],
     [ "Library Design", "db/db9/design.html", [
       [ "The API objects", "db/db9/design.html#autotoc_md6", null ],

@@ -1,9 +1,9 @@
 <map id="E57Format.h" name="E57Format.h">
-<area shape="rect" id="node1" title="Header file for the E57 API." alt="" coords="189,5,286,31"/>
-<area shape="rect" id="node2" href="$d3/d5e/_e57_simple_data_8h.html" title="Data structures for E57 Simple API." alt="" coords="175,79,299,104"/>
-<area shape="rect" id="node3" href="$de/db4/_e57_simple_data_8cpp.html" title=" " alt="" coords="5,152,144,177"/>
-<area shape="rect" id="node4" href="$dc/d3a/_e57_simple_reader_8h.html" title="E57 Simple API for reading E57." alt="" coords="169,152,306,177"/>
-<area shape="rect" id="node6" href="$d3/d3a/_e57_simple_writer_8h.html" title="E57 Simple API for writing E57." alt="" coords="337,152,466,177"/>
-<area shape="rect" id="node5" href="$dd/d80/_e57_simple_reader_8cpp.html" title=" " alt="" coords="158,225,309,251"/>
-<area shape="rect" id="node7" href="$dc/d80/_e57_simple_writer_8cpp.html" title=" " alt="" coords="333,225,475,251"/>
+<area shape="rect" id="node1" title="Header file for the E57 API." alt="" coords="187,5,284,31"/>
+<area shape="rect" id="node2" href="$d3/d5e/_e57_simple_data_8h.html" title="Data structures for E57 Simple API." alt="" coords="174,79,297,105"/>
+<area shape="rect" id="node3" href="$de/db4/_e57_simple_data_8cpp.html" title=" " alt="" coords="5,153,143,178"/>
+<area shape="rect" id="node4" href="$dc/d3a/_e57_simple_reader_8h.html" title="E57 Simple API for reading E57." alt="" coords="167,153,304,178"/>
+<area shape="rect" id="node6" href="$d3/d3a/_e57_simple_writer_8h.html" title="E57 Simple API for writing E57." alt="" coords="334,153,462,178"/>
+<area shape="rect" id="node5" href="$dd/d80/_e57_simple_reader_8cpp.html" title=" " alt="" coords="156,226,307,252"/>
+<area shape="rect" id="node7" href="$dc/d80/_e57_simple_writer_8cpp.html" title=" " alt="" coords="331,226,473,252"/>
 </map>
