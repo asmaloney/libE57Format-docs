@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"functions_func_e.html":[6,3,1,4],
+"functions_func_f.html":[6,3,1,5],
 "functions_func_g.html":[6,3,1,6],
 "functions_func_i.html":[6,3,1,7],
 "functions_func_m.html":[6,3,1,8],
@@ -34,9 +36,9 @@ var NAVTREEINDEX6 =
 "globals_func.html":[7,1,1],
 "hierarchy.html":[6,2],
 "index.html":[],
-"index.html#autotoc_md1":[0],
-"index.html#autotoc_md3":[1],
-"index.html#autotoc_md4":[2],
+"index.html#autotoc_md0":[0],
+"index.html#autotoc_md1":[1],
+"index.html#autotoc_md2":[2],
 "namespacemembers.html":[5,1,0],
 "namespacemembers_enum.html":[5,1,4],
 "namespacemembers_eval.html":[5,1,5],

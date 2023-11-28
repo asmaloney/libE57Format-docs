@@ -116,6 +116,7 @@ var namespacee57 =
       [ "ErrorInvarianceViolation", "dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4a43ed77509489c2b50aa20784c754ddc9", null ],
       [ "ErrorInvalidNodeType", "dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4abf4e8740eb0d0b821378e2364ebf1af5", null ],
       [ "ErrorInvalidData3DValue", "dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4a14bdbd8073efeeb49b01f3b51248c8a9", null ],
+      [ "ErrorData3DReadInvalidZeroRecords", "dc/d1c/namespacee57.html#a77d3e5c151623b81b466776db16d94e4ac02e1ba414fd6c1a03e5bcb5b9e9677d", null ],
       [ "DEPRECATED_ENUM", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
       [ "DEPRECATED_ENUM", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
       [ "DEPRECATED_ENUM", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],

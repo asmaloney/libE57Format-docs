@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.2</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.1.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -98,7 +98,7 @@ $(document).ready(function(){initNavTree('d3/d3f/fork.html','../../'); initResiz
 <div class="textblock"><p><a class="anchor" id="md_supplemental_fork"></a> libE57Format is a fork of <a href="https://sourceforge.net/projects/e57-3d-imgfmt/">E57RefImpl</a> v1.1.332.</p>
 <p>The original source is from <a href="https://sourceforge.net/projects/e57-3d-imgfmt/files/E57Refimpl-src/">E57RefImpl 1.1.332</a> and then everything was stripped out except the main implementation for reading and writing E57. This version also removes the dependency on <a href="http://www.boost.org/">Boost</a> and requires C++11.</p>
 <p>Many, many other changes were made prior to the first release of this fork. See the <a href="https://github.com/asmaloney/libE57Format/CHANGELOG.md">CHANGELOG</a> and git history for details.</p>
-<h1><a class="anchor" id="autotoc_md5"></a>
+<h1><a class="anchor" id="autotoc_md9"></a>
 Why Fork?</h1>
 <p>The E57RefImpl code had not been touched in years and I (<a href="https://github.com/asmaloney/">Andy Maloney</a>) wanted to make changes to compile this library with macOS. Forking it gave me more freedom to update the code and make changes as required.</p>
 <p>I changed the name of the project so that it is not confused with the <b>E57RefImpl</b> project. I have also changed the main include file's name from <code>E57Foundation.h</code> to <code><a class="el" href="../../d1/df2/_e57_format_8h.html" title="Header file for the E57 API.">E57Format.h</a></code> to make sure there is no inclusion confusion.</p>

@@ -57,6 +57,7 @@ var _e57_exception_8h =
       [ "ErrorInvarianceViolation", "d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a43ed77509489c2b50aa20784c754ddc9", null ],
       [ "ErrorInvalidNodeType", "d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4abf4e8740eb0d0b821378e2364ebf1af5", null ],
       [ "ErrorInvalidData3DValue", "d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4a14bdbd8073efeeb49b01f3b51248c8a9", null ],
+      [ "ErrorData3DReadInvalidZeroRecords", "d4/d6e/_e57_exception_8h.html#a77d3e5c151623b81b466776db16d94e4ac02e1ba414fd6c1a03e5bcb5b9e9677d", null ],
       [ "DEPRECATED_ENUM", "d4/d6e/_e57_exception_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
       [ "DEPRECATED_ENUM", "d4/d6e/_e57_exception_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
       [ "DEPRECATED_ENUM", "d4/d6e/_e57_exception_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],

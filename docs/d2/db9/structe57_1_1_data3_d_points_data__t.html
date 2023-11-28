@@ -27,7 +27,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.0.2</span>
+   <div id="projectname">libE57Format<span id="projectnumber">&#160;3.1.1</span>
    </div>
    <div id="projectbrief">C++ library to read &amp; write the E57 file format for point cloud data</div>
   </td>
@@ -202,7 +202,7 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a12ba944678e15adcc612dd8802d984a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename COORDTYPE = float&gt;<br />
+<div class="textblock"><div class="compoundTemplParams">template&lt;typename COORDTYPE&gt;<br />
 struct e57::Data3DPointsData_t&lt; COORDTYPE &gt;</div><p>Stores pointers to user-provided buffers. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a548c549ba96eb1f122ff21170064366c" name="a548c549ba96eb1f122ff21170064366c"></a>
@@ -211,7 +211,7 @@ struct e57::Data3DPointsData_t&lt; COORDTYPE &gt;</div><p>Stores pointers to use
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
@@ -304,7 +304,7 @@ e57::Data3D &amp; ) constructor. </p>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::cartesianInvalidState = nullptr</td>
@@ -322,7 +322,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::cartesianX = nullptr</td>
@@ -340,7 +340,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::cartesianY = nullptr</td>
@@ -358,7 +358,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::cartesianZ = nullptr</td>
@@ -376,7 +376,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">uint16_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::colorBlue = nullptr</td>
@@ -394,7 +394,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">uint16_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::colorGreen = nullptr</td>
@@ -412,7 +412,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">uint16_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::colorRed = nullptr</td>
@@ -430,7 +430,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int32_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::columnIndex = nullptr</td>
@@ -449,7 +449,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">double* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::intensity = nullptr</td>
@@ -467,7 +467,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::isColorInvalid = nullptr</td>
@@ -485,7 +485,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::isIntensityInvalid = nullptr</td>
@@ -503,7 +503,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::isTimeStampInvalid = nullptr</td>
@@ -521,7 +521,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">float* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::normalX = nullptr</td>
@@ -539,7 +539,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">float* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::normalY = nullptr</td>
@@ -557,7 +557,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">float* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::normalZ = nullptr</td>
@@ -575,7 +575,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::returnCount = nullptr</td>
@@ -594,7 +594,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::returnIndex = nullptr</td>
@@ -613,7 +613,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int32_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::rowIndex = nullptr</td>
@@ -632,7 +632,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::sphericalAzimuth = nullptr</td>
@@ -650,7 +650,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::sphericalElevation = nullptr</td>
@@ -668,7 +668,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">int8_t* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::sphericalInvalidState = nullptr</td>
@@ -686,7 +686,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">COORDTYPE* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::sphericalRange = nullptr</td>
@@ -704,7 +704,7 @@ template&lt;typename COORDTYPE  = float&gt; </div>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename COORDTYPE  = float&gt; </div>
+template&lt;typename COORDTYPE &gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">double* <a class="el" href="../../d2/db9/structe57_1_1_data3_d_points_data__t.html">e57::Data3DPointsData_t</a>&lt; COORDTYPE &gt;::timeStamp = nullptr</td>
