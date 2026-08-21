@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['_7edata3dpointsdata_5ft_0',['~Data3DPointsData_t',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a77977e82f39bf4d1ea345dfd7337e9ed',1,'e57::Data3DPointsData_t']]]
+  ['z_0',['z',['../d6/dad/structe57_1_1_translation.html#a9445e1de70a2b4414fc5afdb8b5549d0',1,'e57::Translation::z'],['../dc/da9/structe57_1_1_quaternion.html#a0f203d24b9c9dfc9c2112daf41301ca3',1,'e57::Quaternion::z']]],
+  ['zmaximum_1',['zMaximum',['../d7/d34/structe57_1_1_cartesian_bounds.html#a2eda1e02b582449243237cb6fc2b3f32',1,'e57::CartesianBounds']]],
+  ['zminimum_2',['zMinimum',['../d7/d34/structe57_1_1_cartesian_bounds.html#aade1bd0e7eed8a6e3a15772c2d1580de',1,'e57::CartesianBounds']]]
 ];

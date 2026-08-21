@@ -1,5 +1,7 @@
 <map id="E57Version.h" name="E57Version.h">
-<area shape="rect" id="node1" title="ASTM &amp; libE57Format version information." alt="" coords="30,5,130,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,59,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="83,79,176,105"/>
+<area shape="rect" id="Node000001" title="ASTM &amp; libE57Format version information." alt="" coords="30,5,130,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,59,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,30,51,67,47,64,70,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,79,176,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,29,115,66,110,66,87,34"/>
 </map>

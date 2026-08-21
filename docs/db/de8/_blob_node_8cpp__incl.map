@@ -1,5 +1,7 @@
 <map id="BlobNode.cpp" name="BlobNode.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="82,5,185,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,120,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="144,79,267,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5,185,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,120,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,30,87,70,83,66,119,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="144,79,267,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,29,185,68,179,68,144,34"/>
 </map>

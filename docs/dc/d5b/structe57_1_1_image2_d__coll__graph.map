@@ -1,13 +1,19 @@
 <map id="e57::Image2D" name="e57::Image2D">
-<area shape="rect" id="node1" title="Stores an image from a camera." alt="" coords="792,243,895,268"/>
-<area shape="rect" id="node2" href="$d1/dd7/structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="387,136,495,162"/>
-<area shape="rect" id="node3" title=" " alt="" coords="32,223,93,248"/>
-<area shape="rect" id="node7" href="$d9/d81/structe57_1_1_visual_reference_representation.html" title="Stores an image that is to be used only as a visual reference." alt="" coords="324,217,558,243"/>
-<area shape="rect" id="node9" href="$dd/d7a/structe57_1_1_pinhole_representation.html" title="Stores an image that is mapped from 3D using the pinhole camera projection model." alt="" coords="350,267,532,292"/>
-<area shape="rect" id="node10" href="$d9/d2d/structe57_1_1_spherical_representation.html" title="Stores an image that is mapped from 3D using a spherical projection model." alt="" coords="345,497,537,523"/>
-<area shape="rect" id="node11" href="$df/d8e/structe57_1_1_cylindrical_representation.html" title="Stores an image that is mapped from 3D using a cylindrical projection model." alt="" coords="341,360,541,386"/>
-<area shape="rect" id="node4" href="$d2/df3/structe57_1_1_rigid_body_transform.html" title="Defines a rigid body transform in cartesian coordinates." alt="" coords="356,55,526,80"/>
-<area shape="rect" id="node5" href="$dc/da9/structe57_1_1_quaternion.html" title="Represents a rigid body rotation." alt="" coords="6,55,119,80"/>
-<area shape="rect" id="node6" href="$d6/dad/structe57_1_1_translation.html" title="Defines a rigid body translation in Cartesian coordinates." alt="" coords="5,5,120,31"/>
-<area shape="rect" id="node8" title=" " alt="" coords="32,504,93,530"/>
+<area shape="rect" id="Node000001" title="Stores an image from a camera." alt="" coords="708,162,811,187"/>
+<area shape="rect" id="Node000002" href="$d1/dd7/structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="299,28,406,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,29,481,26,549,29,619,41,653,53,685,68,711,88,731,114,756,162,751,160,726,117,707,92,683,73,651,58,618,47,549,34,481,31,423,34"/>
+<area shape="rect" id="Node000003" href="$d2/df3/structe57_1_1_rigid_body_transform.html" title="Defines a rigid body transform in cartesian coordinates." alt="" coords="268,82,438,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,91,566,100,626,111,685,127,717,142,744,162,739,161,714,146,683,132,625,116,565,105,453,96"/>
+<area shape="rect" id="Node000004" href="$dc/da9/structe57_1_1_quaternion.html" title="Represents a rigid body rotation." alt="" coords="6,55,119,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,72,270,85,266,89,135,77"/>
+<area shape="rect" id="Node000005" href="$d6/dad/structe57_1_1_translation.html" title="Defines a rigid body translation in Cartesian coordinates." alt="" coords="5,108,120,134"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="134,114,211,107,270,103,265,105,212,112,136,119"/>
+<area shape="rect" id="Node000006" href="$d9/d81/structe57_1_1_visual_reference_representation.html" title="Stores an image that is to be used only as a visual reference." alt="" coords="236,135,470,161"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="485,154,710,171,705,172,486,159"/>
+<area shape="rect" id="Node000007" href="$dd/d7a/structe57_1_1_pinhole_representation.html" title="Stores an image that is mapped from 3D using the pinhole camera projection model." alt="" coords="262,188,444,214"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="459,205,568,205,684,195,720,189,725,188,684,200,568,211,459,210"/>
+<area shape="rect" id="Node000008" href="$d9/d2d/structe57_1_1_spherical_representation.html" title="Stores an image that is mapped from 3D using a spherical projection model." alt="" coords="257,242,449,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="465,264,517,264,573,261,629,251,683,235,719,212,745,189,750,186,723,216,685,240,630,257,573,266,517,269,465,269"/>
+<area shape="rect" id="Node000009" href="$df/d8e/structe57_1_1_cylindrical_representation.html" title="Stores an image that is mapped from 3D using a cylindrical projection model." alt="" coords="253,295,452,321"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="429,321,487,328,553,328,621,318,653,307,683,293,709,270,730,241,753,189,757,186,734,243,713,273,685,297,655,312,622,323,554,333,487,333,428,327"/>
 </map>

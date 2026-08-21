@@ -1,5 +1,7 @@
 <map id="ScaledIntegerNode.cpp" name="ScaledIntegerNode.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="95,5,252,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,174,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="197,79,321,105"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,252,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,174,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,31,117,71,114,67,157,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="197,79,320,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,29,236,69,230,69,187,34"/>
 </map>

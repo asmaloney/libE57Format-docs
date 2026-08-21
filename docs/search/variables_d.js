@@ -7,5 +7,6 @@ var searchData=
   ['timescale_4',['timeScale',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#ab0186083adf70306831c35bb431fc909',1,'e57::PointStandardizedFieldsAvailable']]],
   ['timestamp_5',['timeStamp',['../d2/db9/structe57_1_1_data3_d_points_data__t.html#a48a4c1ca7f202c23d78bc40c45732632',1,'e57::Data3DPointsData_t']]],
   ['timestampfield_6',['timeStampField',['../dc/d25/structe57_1_1_point_standardized_fields_available.html#a159b540269ece23672fb29ccfe930786',1,'e57::PointStandardizedFieldsAvailable']]],
-  ['translation_7',['translation',['../d2/df3/structe57_1_1_rigid_body_transform.html#a63575b84e9ca49d9bcb414a7c9568eb2',1,'e57::RigidBodyTransform']]]
+  ['translation_7',['translation',['../d2/df3/structe57_1_1_rigid_body_transform.html#a63575b84e9ca49d9bcb414a7c9568eb2',1,'e57::RigidBodyTransform']]],
+  ['type_8',['type',['../da/d3b/structe57_1_1_extension_1_1_pinhole_camera_distortion.html#a33fc6b6e98997e4202f5b45aecc29aa5',1,'e57::Extension::PinholeCameraDistortion']]]
 ];

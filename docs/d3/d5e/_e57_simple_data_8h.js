@@ -4,7 +4,7 @@ var _e57_simple_data_8h =
     [ "e57::ColorLimits", "dc/dc8/structe57_1_1_color_limits.html", "dc/dc8/structe57_1_1_color_limits" ],
     [ "e57::CylindricalRepresentation", "df/d8e/structe57_1_1_cylindrical_representation.html", "df/d8e/structe57_1_1_cylindrical_representation" ],
     [ "e57::Data3D", "da/d40/structe57_1_1_data3_d.html", "da/d40/structe57_1_1_data3_d" ],
-    [ "e57::Data3DPointsData_t< COORDTYPE >", "d2/db9/structe57_1_1_data3_d_points_data__t.html", "d2/db9/structe57_1_1_data3_d_points_data__t" ],
+    [ "e57::Data3DPointsData_t&lt; COORDTYPE &gt;", "d2/db9/structe57_1_1_data3_d_points_data__t.html", "d2/db9/structe57_1_1_data3_d_points_data__t" ],
     [ "e57::DateTime", "d1/dd7/structe57_1_1_date_time.html", "d1/dd7/structe57_1_1_date_time" ],
     [ "e57::E57Root", "d4/dc0/structe57_1_1_e57_root.html", "d4/dc0/structe57_1_1_e57_root" ],
     [ "e57::GroupingByLine", "df/dfe/structe57_1_1_grouping_by_line.html", "df/dfe/structe57_1_1_grouping_by_line" ],
@@ -21,36 +21,36 @@ var _e57_simple_data_8h =
     [ "e57::SphericalRepresentation", "d9/d2d/structe57_1_1_spherical_representation.html", "d9/d2d/structe57_1_1_spherical_representation" ],
     [ "e57::Translation", "d6/dad/structe57_1_1_translation.html", "d6/dad/structe57_1_1_translation" ],
     [ "e57::VisualReferenceRepresentation", "d9/d81/structe57_1_1_visual_reference_representation.html", "d9/d81/structe57_1_1_visual_reference_representation" ],
-    [ "Data3DPointsData", "d3/d5e/_e57_simple_data_8h.html#a2ef909d6c6c04302697226fd2ef9e5e1", null ],
-    [ "Data3DPointsData_d", "d3/d5e/_e57_simple_data_8h.html#a93808f05bfe31a143f77126734116e28", null ],
-    [ "Data3DPointsDouble", "d3/d5e/_e57_simple_data_8h.html#a77e687cdb0db17b88d76049e462e7ab1", null ],
-    [ "Data3DPointsFloat", "d3/d5e/_e57_simple_data_8h.html#a574b0dfc75b3817669946f96ed7020fa", null ],
-    [ "Image2DProjection", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5", [
-      [ "ProjectionNone", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a8be26428758b03cd75fc93b528600eed", null ],
-      [ "ProjectionVisual", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5aeae8f1c7ad6572960a7d612ab82ff31a", null ],
-      [ "ProjectionPinhole", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a99f6158f67fa112763c4d7b32e76e568", null ],
-      [ "ProjectionSpherical", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a46d22bfd38146d1fe1f72480881171a1", null ],
-      [ "ProjectionCylindrical", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a0e264539ccd6d060be1586191c5ab561", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ]
+    [ "e57::Data3DPointsData", "dc/d1c/namespacee57.html#aff5a794488a79f480d21b8aade9b2f41", null ],
+    [ "e57::Data3DPointsData_d", "dc/d1c/namespacee57.html#aa0c36451654c1e329b22edb0ef89ad84", null ],
+    [ "e57::Data3DPointsDouble", "dc/d1c/namespacee57.html#af90909a8f070ce9890c4880a04f421f7", null ],
+    [ "e57::Data3DPointsFloat", "dc/d1c/namespacee57.html#ab45ed32d88b1ef34ee1f48a82424d8aa", null ],
+    [ "e57::Image2DProjection", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5", [
+      [ "e57::ProjectionNone", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a8be26428758b03cd75fc93b528600eed", null ],
+      [ "e57::ProjectionVisual", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5aeae8f1c7ad6572960a7d612ab82ff31a", null ],
+      [ "e57::ProjectionPinhole", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a99f6158f67fa112763c4d7b32e76e568", null ],
+      [ "e57::ProjectionSpherical", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a46d22bfd38146d1fe1f72480881171a1", null ],
+      [ "e57::ProjectionCylindrical", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a0e264539ccd6d060be1586191c5ab561", null ],
+      [ "e57::E57_NO_PROJECTION", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a487b73b15e9ea76e39820dee8d2495b4", null ],
+      [ "e57::E57_VISUAL", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5af3ce03405c19f80b04339dd1d8b4a8c4", null ],
+      [ "e57::E57_PINHOLE", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5af76a2ad0bbea7c725562139884308009", null ],
+      [ "e57::E57_SPHERICAL", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a02638672c37da4e85b111ae9ddf09cb5", null ],
+      [ "e57::E57_CYLINDRICAL", "dc/d1c/namespacee57.html#a8748694e2ef57a688e0ac0535c9daaf5a233244e1542c657130567a7561d960af", null ]
     ] ],
-    [ "Image2DType", "d3/d5e/_e57_simple_data_8h.html#a9e6406ed43079c9c575971f1c52c0821", [
-      [ "ImageNone", "d3/d5e/_e57_simple_data_8h.html#a9e6406ed43079c9c575971f1c52c0821adbdfb1b9dd3def1ed221612de21723d5", null ],
-      [ "ImageJPEG", "d3/d5e/_e57_simple_data_8h.html#a9e6406ed43079c9c575971f1c52c0821a8fc9a40591c33197c8f4910ceb137c96", null ],
-      [ "ImagePNG", "d3/d5e/_e57_simple_data_8h.html#a9e6406ed43079c9c575971f1c52c0821ab66d664342562211cb10781c171215e3", null ],
-      [ "ImageMaskPNG", "d3/d5e/_e57_simple_data_8h.html#a9e6406ed43079c9c575971f1c52c0821a5b0e6081d87df98b213eb95eeff39b08", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ],
-      [ "DEPRECATED_ENUM", "d3/d5e/_e57_simple_data_8h.html#a8748694e2ef57a688e0ac0535c9daaf5a4c725da8ec7ca102d2edea01c469aa37", null ]
+    [ "e57::Image2DType", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821", [
+      [ "e57::ImageNone", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821adbdfb1b9dd3def1ed221612de21723d5", null ],
+      [ "e57::ImageJPEG", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821a8fc9a40591c33197c8f4910ceb137c96", null ],
+      [ "e57::ImagePNG", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821ab66d664342562211cb10781c171215e3", null ],
+      [ "e57::ImageMaskPNG", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821a5b0e6081d87df98b213eb95eeff39b08", null ],
+      [ "e57::E57_NO_IMAGE", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821ad54b43c8c261099339d47895b1f13d5b", null ],
+      [ "e57::E57_JPEG_IMAGE", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821a33cd721eeda4c93de7e88f4215ea729d", null ],
+      [ "e57::E57_PNG_IMAGE", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821a33f4c45b91d6543cb71508cbead0c49f", null ],
+      [ "e57::E57_PNG_IMAGE_MASK", "dc/d1c/namespacee57.html#a9e6406ed43079c9c575971f1c52c0821ae28b421c8b06cbc81772cee42067d3b9", null ]
     ] ],
-    [ "NumericalNodeType", "d3/d5e/_e57_simple_data_8h.html#a7f668c364b60b220520f3d4a7f618f67", [
-      [ "Integer", "d3/d5e/_e57_simple_data_8h.html#a7f668c364b60b220520f3d4a7f618f67aa0faef0851b4294c06f2b94bb1cb2044", null ],
-      [ "ScaledInteger", "d3/d5e/_e57_simple_data_8h.html#a7f668c364b60b220520f3d4a7f618f67aba1d4637f85ad641716e685a3a789879", null ],
-      [ "Float", "d3/d5e/_e57_simple_data_8h.html#a7f668c364b60b220520f3d4a7f618f67a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "d3/d5e/_e57_simple_data_8h.html#a7f668c364b60b220520f3d4a7f618f67ad909d38d705ce75386dd86e611a82f5b", null ]
+    [ "e57::NumericalNodeType", "dc/d1c/namespacee57.html#a7f668c364b60b220520f3d4a7f618f67", [
+      [ "e57::NumericalNodeType::Integer", "dc/d1c/namespacee57.html#a7f668c364b60b220520f3d4a7f618f67aa0faef0851b4294c06f2b94bb1cb2044", null ],
+      [ "e57::NumericalNodeType::ScaledInteger", "dc/d1c/namespacee57.html#a7f668c364b60b220520f3d4a7f618f67aba1d4637f85ad641716e685a3a789879", null ],
+      [ "e57::NumericalNodeType::Float", "dc/d1c/namespacee57.html#a7f668c364b60b220520f3d4a7f618f67a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "e57::NumericalNodeType::Double", "dc/d1c/namespacee57.html#a7f668c364b60b220520f3d4a7f618f67ad909d38d705ce75386dd86e611a82f5b", null ]
     ] ]
 ];

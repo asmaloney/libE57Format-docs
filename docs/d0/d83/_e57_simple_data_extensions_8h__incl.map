@@ -1,0 +1,23 @@
+<map id="E57SimpleDataExtensions.h" name="E57SimpleDataExtensions.h">
+<area shape="rect" id="Node000001" title="Data structures for E57 Simple API extensions." alt="" coords="107,5,296,31"/>
+<area shape="rect" id="Node000002" href="$d1/df2/_e57_format_8h.html" title="Header file for the E57 API." alt="" coords="153,79,250,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,29,204,64,199,62,200,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,59,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,108,74,149,72,145,174,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="83,153,144,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,107,142,145,138,141,188,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,153,236,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="203,103,204,138,199,136,200,107"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="259,153,317,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="217,103,265,143,259,143,215,108"/>
+<area shape="rect" id="Node000007" href="$d4/d6e/_e57_exception_8h.html" title="Exception handling for E57 API." alt="" coords="341,153,454,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="235,103,352,146,347,148,234,108"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="216,226,293,252"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="376,178,294,221,292,216,371,179"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="318,226,389,252"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="392,177,370,215,367,211,388,180"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="413,226,467,252"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="406,176,427,214,422,212,403,181"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="491,226,584,252"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="422,176,503,219,497,219,420,181"/>
+</map>

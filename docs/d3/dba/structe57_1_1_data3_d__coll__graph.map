@@ -1,19 +1,27 @@
 <map id="e57::Data3D" name="e57::Data3D">
-<area shape="rect" id="node1" title="Stores the top&#45;level information for a single lidar scan." alt="" coords="941,265,1037,291"/>
-<area shape="rect" id="node2" href="$d1/dd7/structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="605,19,712,44"/>
-<area shape="rect" id="node3" title=" " alt="" coords="258,5,318,31"/>
-<area shape="rect" id="node4" href="$d2/df3/structe57_1_1_rigid_body_transform.html" title="Defines a rigid body transform in cartesian coordinates." alt="" coords="574,103,743,128"/>
-<area shape="rect" id="node5" href="$dc/da9/structe57_1_1_quaternion.html" title="Represents a rigid body rotation." alt="" coords="231,55,345,80"/>
-<area shape="rect" id="node6" href="$d6/dad/structe57_1_1_translation.html" title="Defines a rigid body translation in Cartesian coordinates." alt="" coords="231,104,345,130"/>
-<area shape="rect" id="node7" href="$d7/d4c/structe57_1_1_index_bounds.html" title="Stores the minimum and maximum of rowIndex, columnIndex, and returnIndex fields for a set of points." alt="" coords="398,155,524,180"/>
-<area shape="rect" id="node8" title=" " alt="" coords="5,185,66,211"/>
-<area shape="rect" id="node14" href="$df/dfe/structe57_1_1_grouping_by_line.html" title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord." alt="" coords="217,216,359,242"/>
-<area shape="rect" id="node9" href="$d7/d34/structe57_1_1_cartesian_bounds.html" title="Specifies an axis&#45;aligned box in local cartesian coordinates." alt="" coords="584,265,734,291"/>
-<area shape="rect" id="node10" href="$d2/d00/structe57_1_1_spherical_bounds.html" title="Stores the bounds of some data in spherical coordinates." alt="" coords="585,315,733,340"/>
-<area shape="rect" id="node11" href="$db/df2/structe57_1_1_intensity_limits.html" title="Specifies the limits for the value of signal intensity that a sensor is capable of producing." alt="" coords="591,364,726,390"/>
-<area shape="rect" id="node12" href="$dc/dc8/structe57_1_1_color_limits.html" title="Specifies the limits for the value of red, green, and blue color that a sensor is capable of producin..." alt="" coords="601,413,717,439"/>
-<area shape="rect" id="node13" href="$dd/d87/structe57_1_1_point_grouping_schemes.html" title="Supports the division of points within an Data3D into logical groupings." alt="" coords="565,216,752,242"/>
-<area shape="rect" id="node15" href="$dc/d25/structe57_1_1_point_standardized_fields_available.html" title="Used to interrogate if standardized fields are available." alt="" coords="563,463,754,504"/>
-<area shape="rect" id="node16" title=" " alt="" coords="254,445,322,471"/>
-<area shape="rect" id="node17" title=" " alt="" coords="258,495,318,520"/>
+<area shape="rect" id="Node000001" title="Stores the top&#45;level information for a single lidar scan." alt="" coords="675,261,770,287"/>
+<area shape="rect" id="Node000002" href="$d1/dd7/structe57_1_1_date_time.html" title="Encodes date and time." alt="" coords="335,48,442,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,48,504,46,556,50,607,63,631,74,653,88,672,107,687,129,708,178,719,225,723,262,718,259,714,226,703,179,683,131,668,110,649,92,628,78,605,68,555,55,504,51,458,53"/>
+<area shape="rect" id="Node000003" href="$d2/df3/structe57_1_1_rigid_body_transform.html" title="Defines a rigid body transform in cartesian coordinates." alt="" coords="304,101,473,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="488,115,584,125,624,133,652,145,680,171,700,203,721,262,716,260,695,206,676,175,650,150,623,138,583,130,489,120"/>
+<area shape="rect" id="Node000004" href="$dc/da9/structe57_1_1_quaternion.html" title="Represents a rigid body rotation." alt="" coords="20,75,133,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,91,305,105,302,109,150,96"/>
+<area shape="rect" id="Node000005" href="$d6/dad/structe57_1_1_translation.html" title="Defines a rigid body translation in Cartesian coordinates." alt="" coords="19,128,134,154"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="149,137,268,129,307,126,302,129,269,134,151,142"/>
+<area shape="rect" id="Node000006" href="$d7/d4c/structe57_1_1_index_bounds.html" title="Stores the minimum and maximum of rowIndex, columnIndex, and returnIndex fields for a set of points." alt="" coords="325,155,452,180"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="467,169,572,179,619,188,652,198,672,212,690,228,716,262,711,261,686,232,669,216,650,203,618,193,571,185,468,174"/>
+<area shape="rect" id="Node000007" href="$d7/d34/structe57_1_1_cartesian_bounds.html" title="Specifies an axis&#45;aligned box in local cartesian coordinates." alt="" coords="313,208,464,234"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="479,223,564,232,652,248,689,261,684,261,650,253,563,238,480,229"/>
+<area shape="rect" id="Node000008" href="$d2/d00/structe57_1_1_spherical_bounds.html" title="Stores the bounds of some data in spherical coordinates." alt="" coords="314,261,462,287"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="478,272,677,273,672,275,478,277"/>
+<area shape="rect" id="Node000009" href="$db/df2/structe57_1_1_intensity_limits.html" title="Specifies the limits for the value of signal intensity that a sensor is capable of producing." alt="" coords="321,315,456,340"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="471,323,558,316,650,300,691,289,696,287,652,305,559,321,472,328"/>
+<area shape="rect" id="Node000010" href="$dc/dc8/structe57_1_1_color_limits.html" title="Specifies the limits for the value of red, green, and blue color that a sensor is capable of producin..." alt="" coords="330,368,446,394"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="462,384,506,383,555,378,604,367,650,349,670,336,687,319,712,289,716,286,691,323,673,340,652,354,605,373,556,383,507,388,463,389"/>
+<area shape="rect" id="Node000011" href="$dd/d87/structe57_1_1_point_grouping_schemes.html" title="Supports the division of points within an Data3D into logical groupings." alt="" coords="295,419,482,444"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="481,444,523,445,567,441,610,430,649,411,678,383,697,349,710,314,717,289,721,285,715,316,702,351,682,387,653,415,612,435,568,446,523,450,481,449"/>
+<area shape="rect" id="Node000012" href="$df/dfe/structe57_1_1_grouping_by_line.html" title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord." alt="" coords="5,419,148,444"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="163,429,296,430,292,433,163,434"/>
+<area shape="rect" id="Node000013" href="$dc/d25/structe57_1_1_point_standardized_fields_available.html" title="Used to interrogate if standardized fields are available." alt="" coords="293,469,484,509"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="499,507,538,508,578,503,615,493,649,474,670,454,686,431,707,377,716,326,720,289,723,285,721,326,712,379,690,433,674,458,653,478,617,498,579,509,538,513,499,512"/>
 </map>

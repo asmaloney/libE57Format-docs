@@ -1,13 +1,26 @@
 <map id="E57SimpleData.h" name="E57SimpleData.h">
-<area shape="rect" id="node1" title="Data structures for E57 Simple API." alt="" coords="140,5,263,31"/>
-<area shape="rect" id="node2" href="$d1/df2/_e57_format_8h.html" title="Header file for the E57 API." alt="" coords="153,79,250,105"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,153,59,178"/>
-<area shape="rect" id="node4" title=" " alt="" coords="83,153,144,178"/>
-<area shape="rect" id="node5" title=" " alt="" coords="167,153,236,178"/>
-<area shape="rect" id="node6" title=" " alt="" coords="259,153,317,178"/>
-<area shape="rect" id="node7" href="$d4/d6e/_e57_exception_8h.html" title="Exception handling for E57 API." alt="" coords="341,153,454,178"/>
-<area shape="rect" id="node8" title=" " alt="" coords="216,226,293,252"/>
-<area shape="rect" id="node9" title=" " alt="" coords="318,226,389,252"/>
-<area shape="rect" id="node10" title=" " alt="" coords="413,226,467,252"/>
-<area shape="rect" id="node11" title=" " alt="" coords="491,226,584,252"/>
+<area shape="rect" id="Node000001" title="Data structures for E57 Simple API." alt="" coords="140,5,263,31"/>
+<area shape="rect" id="Node000002" href="$d1/df2/_e57_format_8h.html" title="Header file for the E57 API." alt="" coords="153,153,250,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,34,176,54,164,80,162,95,166,111,183,141,177,141,161,113,157,96,159,78,172,51,192,29"/>
+<area shape="rect" id="Node000012" href="$d3/d94/_e57_simple_data_extensions_8h.html" title="Data structures for E57 Simple API extensions." alt="" coords="174,79,362,105"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="213,29,249,67,244,68,212,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,226,59,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,181,74,223,72,218,174,176"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="83,226,144,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="184,181,142,219,138,214,188,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="167,226,236,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="203,176,204,212,199,209,200,181"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="259,226,317,252"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="217,176,265,216,259,217,215,181"/>
+<area shape="rect" id="Node000007" href="$d4/d6e/_e57_exception_8h.html" title="Exception handling for E57 API." alt="" coords="341,226,454,252"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="235,176,352,220,347,222,234,182"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="216,300,293,326"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="376,252,294,295,292,290,371,253"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="318,300,389,326"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="392,251,370,289,367,284,388,254"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="413,300,467,326"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="406,250,427,287,422,286,403,255"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="491,300,584,326"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="422,250,503,293,497,292,420,255"/>
+<area shape="poly" id="edge12_Node000012_Node000002" title=" " alt="" coords="259,103,225,143,221,139,255,107"/>
 </map>

@@ -1,9 +1,15 @@
 <map id="E57Version.cpp" name="E57Version.cpp">
-<area shape="rect" id="node1" title=" " alt="" coords="98,5,211,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,74,105"/>
-<area shape="rect" id="node3" href="$d9/dc0/_a_s_t_m_version_8h.html" title=" " alt="" coords="98,79,211,105"/>
-<area shape="rect" id="node5" href="$d3/df2/_e57_version_8h.html" title="ASTM &amp; libE57Format version information." alt="" coords="235,79,335,105"/>
-<area shape="rect" id="node4" title=" " alt="" coords="124,153,184,178"/>
-<area shape="rect" id="node6" title=" " alt="" coords="233,153,286,178"/>
-<area shape="rect" id="node7" title=" " alt="" coords="310,153,404,178"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,5,211,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,74,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,34,74,72,70,68,136,29"/>
+<area shape="rect" id="Node000003" href="$d9/dc0/_a_s_t_m_version_8h.html" title=" " alt="" coords="98,79,211,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,29,157,64,152,62,153,34"/>
+<area shape="rect" id="Node000005" href="$d3/df2/_e57_version_8h.html" title="ASTM &amp; libE57Format version information." alt="" coords="235,79,334,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,29,252,71,247,72,176,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="124,153,184,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,103,157,138,152,136,152,107"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,153,286,178"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="283,103,271,140,267,136,278,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="310,153,404,178"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="298,102,336,142,331,141,296,107"/>
 </map>

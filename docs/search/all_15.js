@@ -1,14 +1,11 @@
 var searchData=
 [
-  ['w_0',['w',['../dc/da9/structe57_1_1_quaternion.html#af833e7cab7cc75b9ea8a37259e1859ac',1,'e57::Quaternion']]],
-  ['what_1',['what',['../d9/d45/classe57_1_1_e57_exception.html#a726b3472dc1a7a7cf3204211f45d7130',1,'e57::E57Exception']]],
-  ['write_2',['write',['../d6/d11/classe57_1_1_compressed_vector_writer.html#ae4134c4458d67ee7cbadab4a1803c887',1,'e57::CompressedVectorWriter::write(size_t recordCount)'],['../d6/d11/classe57_1_1_compressed_vector_writer.html#a657e9187b38736c8cac14a989263efac',1,'e57::CompressedVectorWriter::write(std::vector&lt; SourceDestBuffer &gt; &amp;sbufs, size_t recordCount)'],['../dc/d83/classe57_1_1_blob_node.html#abc4cccc91de5a0acbcf968207e43ef53',1,'e57::BlobNode::write()']]],
-  ['writedata3ddata_3',['WriteData3DData',['../d9/dc4/classe57_1_1_writer.html#ac810718b76b4d415e949301ceeac845e',1,'e57::Writer::WriteData3DData(Data3D &amp;data3DHeader, const Data3DPointsFloat &amp;buffers)'],['../d9/dc4/classe57_1_1_writer.html#adfd782ad2e75c7786042586d557b4316',1,'e57::Writer::WriteData3DData(Data3D &amp;data3DHeader, const Data3DPointsDouble &amp;buffers)']]],
-  ['writedata3dgroupsdata_4',['WriteData3DGroupsData',['../d9/dc4/classe57_1_1_writer.html#aac4e29f3e99c88d1d839fc37e203ee33',1,'e57::Writer']]],
-  ['writeimage2ddata_5',['WriteImage2DData',['../d9/dc4/classe57_1_1_writer.html#a2df80a5f77816647b4ce87c651aeb75b',1,'e57::Writer::WriteImage2DData(Image2D &amp;image2DHeader, Image2DType imageType, Image2DProjection imageProjection, int64_t startPos, void *buffer, int64_t byteCount)'],['../d9/dc4/classe57_1_1_writer.html#a9de44c17db00cd35183c1b37a3cb14b2',1,'e57::Writer::WriteImage2DData(int64_t imageIndex, Image2DType imageType, Image2DProjection imageProjection, void *buffer, int64_t start, int64_t count)']]],
-  ['writer_6',['Writer',['../d9/dc4/classe57_1_1_writer.html',1,'e57']]],
-  ['writer_7',['writer',['../dc/d3e/classe57_1_1_compressed_vector_node.html#aa360c3c3e5435390033ce385bf105e50',1,'e57::CompressedVectorNode']]],
-  ['writer_8',['Writer',['../d9/dc4/classe57_1_1_writer.html#aea8f48a1c5f5bb549739a097572ecf90',1,'e57::Writer::Writer(const ustring &amp;filePath, const WriterOptions &amp;options)'],['../d9/dc4/classe57_1_1_writer.html#abcd7ba497313d4c649493099b373de88',1,'e57::Writer::Writer(const ustring &amp;filePath, const ustring &amp;coordinateMetadata={})']]],
-  ['writercount_9',['writerCount',['../d6/d6f/classe57_1_1_image_file.html#a83ccf973b2370d14bd6869be42944938',1,'e57::ImageFile']]],
-  ['writeroptions_10',['WriterOptions',['../d4/de1/structe57_1_1_writer_options.html',1,'e57']]]
+  ['value_0',['value',['../d6/da6/classe57_1_1_integer_node.html#a9ebcd0dbafcd8ae38bf2a53800d28a35',1,'e57::IntegerNode::value()'],['../dd/d6c/classe57_1_1_float_node.html#a79c29c9b421fcfa616aa7e2657b0302a',1,'e57::FloatNode::value()'],['../d7/d34/classe57_1_1_string_node.html#a634de27debbc3b5a9d58441f4d5e8e9c',1,'e57::StringNode::value()']]],
+  ['vectornode_1',['VectorNode',['../da/dac/classe57_1_1_vector_node.html',1,'e57::VectorNode'],['../da/dac/classe57_1_1_vector_node.html#affb0761350c2599b3a85fcbeb7928424',1,'e57::VectorNode::VectorNode()=delete'],['../da/dac/classe57_1_1_vector_node.html#ad15b52af6c8614fd114e5bbfed298e3b',1,'e57::VectorNode::VectorNode(const ImageFile &amp;destImageFile, bool allowHeteroChildren=false)'],['../da/dac/classe57_1_1_vector_node.html#a3e85342520ced013df8a40c5e2dd1b14',1,'e57::VectorNode::VectorNode(const Node &amp;n)']]],
+  ['vectornode_2ecpp_2',['VectorNode.cpp',['../da/ded/_vector_node_8cpp.html',1,'']]],
+  ['version_5f1_5f0_5furi_3',['VERSION_1_0_URI',['../dc/d1c/namespacee57.html#ac7c1475869ff30402713d8d163fb2587',1,'e57']]],
+  ['versionmajor_4',['versionMajor',['../d4/dc0/structe57_1_1_e57_root.html#ac234781def28bc0642ed713d5b4e6dca',1,'e57::E57Root']]],
+  ['versionminor_5',['versionMinor',['../d4/dc0/structe57_1_1_e57_root.html#ad8aed3a07e7c40e61bfc563034a33f84',1,'e57::E57Root']]],
+  ['visualreferencerepresentation_6',['VisualReferenceRepresentation',['../d9/d81/structe57_1_1_visual_reference_representation.html',1,'e57']]],
+  ['visualreferencerepresentation_7',['visualReferenceRepresentation',['../d1/d28/structe57_1_1_image2_d.html#afb07d3cef1df6049182eb0fde0672520',1,'e57::Image2D']]]
 ];

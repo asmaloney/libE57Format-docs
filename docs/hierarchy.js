@@ -8,7 +8,7 @@ var hierarchy =
     [ "e57::CompressedVectorWriter", "d6/d11/classe57_1_1_compressed_vector_writer.html", null ],
     [ "e57::CylindricalRepresentation", "df/d8e/structe57_1_1_cylindrical_representation.html", null ],
     [ "e57::Data3D", "da/d40/structe57_1_1_data3_d.html", null ],
-    [ "e57::Data3DPointsData_t< COORDTYPE >", "d2/db9/structe57_1_1_data3_d_points_data__t.html", null ],
+    [ "e57::Data3DPointsData_t&lt; COORDTYPE &gt;", "d2/db9/structe57_1_1_data3_d_points_data__t.html", null ],
     [ "e57::DateTime", "d1/dd7/structe57_1_1_date_time.html", null ],
     [ "e57::E57Root", "d4/dc0/structe57_1_1_e57_root.html", null ],
     [ "std::exception", null, [
@@ -23,6 +23,7 @@ var hierarchy =
     [ "e57::IntensityLimits", "db/df2/structe57_1_1_intensity_limits.html", null ],
     [ "e57::LineGroupRecord", "de/d97/structe57_1_1_line_group_record.html", null ],
     [ "e57::Node", "d8/d52/classe57_1_1_node.html", null ],
+    [ "e57::Extension::PinholeCameraDistortion", "da/d3b/structe57_1_1_extension_1_1_pinhole_camera_distortion.html", null ],
     [ "e57::PinholeRepresentation", "dd/d7a/structe57_1_1_pinhole_representation.html", null ],
     [ "e57::PointGroupingSchemes", "dd/d87/structe57_1_1_point_grouping_schemes.html", null ],
     [ "e57::PointStandardizedFieldsAvailable", "dc/d25/structe57_1_1_point_standardized_fields_available.html", null ],

@@ -6,6 +6,7 @@ var structe57_1_1_image2_d =
     [ "description", "d1/d28/structe57_1_1_image2_d.html#a2b11ddc508b64aa7e8269be1a3a92d90", null ],
     [ "guid", "d1/d28/structe57_1_1_image2_d.html#a21ca8a7b3df2d669a7b997e149e23850", null ],
     [ "name", "d1/d28/structe57_1_1_image2_d.html#a452ac738275d8ad44edefbd7497b8eb0", null ],
+    [ "pinholeCameraDistortionExt", "d1/d28/structe57_1_1_image2_d.html#a668976213f5a87b9d6755f99dc21d817", null ],
     [ "pinholeRepresentation", "d1/d28/structe57_1_1_image2_d.html#a49c6ad0c1e5b2a23fdd84a146218780b", null ],
     [ "pose", "d1/d28/structe57_1_1_image2_d.html#ab7122651ea6d354fd9af7b3c005d1fe7", null ],
     [ "sensorModel", "d1/d28/structe57_1_1_image2_d.html#a65368bbf868327433d2cd5cfa7753ec9", null ],

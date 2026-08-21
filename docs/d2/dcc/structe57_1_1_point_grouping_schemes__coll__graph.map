@@ -1,5 +1,5 @@
 <map id="e57::PointGroupingSchemes" name="e57::PointGroupingSchemes">
-<area shape="rect" id="node1" title="Supports the division of points within an Data3D into logical groupings." alt="" coords="5,198,193,223"/>
-<area shape="rect" id="node2" href="$df/dfe/structe57_1_1_grouping_by_line.html" title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord." alt="" coords="28,109,170,135"/>
-<area shape="rect" id="node3" title=" " alt="" coords="69,5,129,31"/>
+<area shape="rect" id="Node000001" title="Supports the division of points within an Data3D into logical groupings." alt="" coords="5,102,193,128"/>
+<area shape="rect" id="Node000002" href="$df/dfe/structe57_1_1_grouping_by_line.html" title="Stores a set of point groups organized by the rowIndex or columnIndex attribute of the PointRecord." alt="" coords="28,5,170,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,45,102,102,96,101,97,48"/>
 </map>

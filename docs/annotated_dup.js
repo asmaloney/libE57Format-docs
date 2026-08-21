@@ -1,6 +1,9 @@
 var annotated_dup =
 [
     [ "e57", "dc/d1c/namespacee57.html", [
+      [ "Extension", "d0/db1/namespacee57_1_1_extension.html", [
+        [ "PinholeCameraDistortion", "da/d3b/structe57_1_1_extension_1_1_pinhole_camera_distortion.html", "da/d3b/structe57_1_1_extension_1_1_pinhole_camera_distortion" ]
+      ] ],
       [ "BlobNode", "dc/d83/classe57_1_1_blob_node.html", "dc/d83/classe57_1_1_blob_node" ],
       [ "CartesianBounds", "d7/d34/structe57_1_1_cartesian_bounds.html", "d7/d34/structe57_1_1_cartesian_bounds" ],
       [ "ColorLimits", "dc/dc8/structe57_1_1_color_limits.html", "dc/dc8/structe57_1_1_color_limits" ],
